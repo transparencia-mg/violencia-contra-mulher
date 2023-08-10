@@ -1,0 +1,1476 @@
+{
+  "version": "4.16.6",
+  "time": 51.452,
+  "errors": [],
+  "tasks": [
+    {
+      "resource": {
+        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "dialect": {
+          "delimiter": ";"
+        },
+        "encoding": "utf-8-sig",
+        "format": "csv",
+        "hashing": "md5",
+        "name": "feminicidio_2018",
+        "path": "data/feminicidio_2018.csv",
+        "profile": "tabular-data-resource",
+        "schema": {
+          "fields": [
+            {
+              "name": "municipio_cod",
+              "type": "integer"
+            },
+            {
+              "name": "municipio_fato",
+              "type": "string"
+            },
+            {
+              "name": "data_fato",
+              "type": "date"
+            },
+            {
+              "name": "mes",
+              "type": "integer"
+            },
+            {
+              "name": "ano",
+              "type": "integer"
+            },
+            {
+              "name": "risp",
+              "type": "string"
+            },
+            {
+              "name": "rmbh",
+              "type": "string"
+            },
+            {
+              "name": "tentado_consumado",
+              "type": "string"
+            },
+            {
+              "name": "qtde_vitimas",
+              "type": "integer"
+            }
+          ]
+        },
+        "scheme": "file",
+        "title": "Insira um título humanamente legível para este recurso.",
+        "stats": {
+          "hash": "87eda5bf89e744176f3a780bb26f9e01",
+          "bytes": 36642,
+          "fields": 9,
+          "rows": 408
+        }
+      },
+      "time": 0.043,
+      "scope": [
+        "hash-count-error",
+        "byte-count-error",
+        "field-count-error",
+        "row-count-error",
+        "blank-header",
+        "extra-label",
+        "missing-label",
+        "blank-label",
+        "duplicate-label",
+        "incorrect-label",
+        "blank-row",
+        "primary-key-error",
+        "foreign-key-error",
+        "extra-cell",
+        "missing-cell",
+        "type-error",
+        "constraint-error",
+        "unique-error"
+      ],
+      "partial": false,
+      "errors": [],
+      "stats": {
+        "errors": 0
+      },
+      "valid": true
+    },
+    {
+      "resource": {
+        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "dialect": {
+          "delimiter": ";"
+        },
+        "encoding": "utf-8-sig",
+        "format": "csv",
+        "hashing": "md5",
+        "name": "feminicidio_2019",
+        "path": "data/feminicidio_2019.csv",
+        "profile": "tabular-data-resource",
+        "schema": {
+          "fields": [
+            {
+              "name": "municipio_cod",
+              "type": "integer"
+            },
+            {
+              "name": "municipio_fato",
+              "type": "string"
+            },
+            {
+              "name": "data_fato",
+              "type": "date"
+            },
+            {
+              "name": "mes",
+              "type": "integer"
+            },
+            {
+              "name": "ano",
+              "type": "integer"
+            },
+            {
+              "name": "risp",
+              "type": "string"
+            },
+            {
+              "name": "rmbh",
+              "type": "string"
+            },
+            {
+              "name": "tentado_consumado",
+              "type": "string"
+            },
+            {
+              "name": "qtde_vitimas",
+              "type": "integer"
+            }
+          ]
+        },
+        "scheme": "file",
+        "title": "Insira um título humanamente legível para este recurso.",
+        "stats": {
+          "hash": "2ba3324e0706489a102d510b7b90139f",
+          "bytes": 32643,
+          "fields": 9,
+          "rows": 364
+        }
+      },
+      "time": 0.044,
+      "scope": [
+        "hash-count-error",
+        "byte-count-error",
+        "field-count-error",
+        "row-count-error",
+        "blank-header",
+        "extra-label",
+        "missing-label",
+        "blank-label",
+        "duplicate-label",
+        "incorrect-label",
+        "blank-row",
+        "primary-key-error",
+        "foreign-key-error",
+        "extra-cell",
+        "missing-cell",
+        "type-error",
+        "constraint-error",
+        "unique-error"
+      ],
+      "partial": false,
+      "errors": [],
+      "stats": {
+        "errors": 0
+      },
+      "valid": true
+    },
+    {
+      "resource": {
+        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "dialect": {
+          "delimiter": ";"
+        },
+        "encoding": "utf-8-sig",
+        "format": "csv",
+        "hashing": "md5",
+        "name": "feminicidio_2020",
+        "path": "data/feminicidio_2020.csv",
+        "profile": "tabular-data-resource",
+        "schema": {
+          "fields": [
+            {
+              "name": "municipio_cod",
+              "type": "integer"
+            },
+            {
+              "name": "municipio_fato",
+              "type": "string"
+            },
+            {
+              "name": "data_fato",
+              "type": "date"
+            },
+            {
+              "name": "mes",
+              "type": "integer"
+            },
+            {
+              "name": "ano",
+              "type": "integer"
+            },
+            {
+              "name": "risp",
+              "type": "string"
+            },
+            {
+              "name": "rmbh",
+              "type": "string"
+            },
+            {
+              "name": "tentado_consumado",
+              "type": "string"
+            },
+            {
+              "name": "qtde_vitimas",
+              "type": "integer"
+            }
+          ]
+        },
+        "scheme": "file",
+        "title": "Insira um título humanamente legível para este recurso.",
+        "stats": {
+          "hash": "18033c3a5c74009fa0c88f14ad34e4d9",
+          "bytes": 32816,
+          "fields": 9,
+          "rows": 334
+        }
+      },
+      "time": 0.038,
+      "scope": [
+        "hash-count-error",
+        "byte-count-error",
+        "field-count-error",
+        "row-count-error",
+        "blank-header",
+        "extra-label",
+        "missing-label",
+        "blank-label",
+        "duplicate-label",
+        "incorrect-label",
+        "blank-row",
+        "primary-key-error",
+        "foreign-key-error",
+        "extra-cell",
+        "missing-cell",
+        "type-error",
+        "constraint-error",
+        "unique-error"
+      ],
+      "partial": false,
+      "errors": [],
+      "stats": {
+        "errors": 0
+      },
+      "valid": true
+    },
+    {
+      "resource": {
+        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "dialect": {
+          "delimiter": ";"
+        },
+        "encoding": "utf-8-sig",
+        "format": "csv",
+        "hashing": "md5",
+        "name": "feminicidio_2021",
+        "path": "data/feminicidio_2021.csv",
+        "profile": "tabular-data-resource",
+        "schema": {
+          "fields": [
+            {
+              "name": "municipio_cod",
+              "type": "integer"
+            },
+            {
+              "name": "municipio_fato",
+              "type": "string"
+            },
+            {
+              "name": "data_fato",
+              "type": "date"
+            },
+            {
+              "name": "mes",
+              "type": "integer"
+            },
+            {
+              "name": "ano",
+              "type": "integer"
+            },
+            {
+              "name": "risp",
+              "type": "string"
+            },
+            {
+              "name": "rmbh",
+              "type": "string"
+            },
+            {
+              "name": "tentado_consumado",
+              "type": "string"
+            },
+            {
+              "name": "qtde_vitimas",
+              "type": "integer"
+            }
+          ]
+        },
+        "scheme": "file",
+        "title": "Insira um título humanamente legível para este recurso.",
+        "stats": {
+          "hash": "55693c992a6706501223921439c16574",
+          "bytes": 31546,
+          "fields": 9,
+          "rows": 322
+        }
+      },
+      "time": 0.036,
+      "scope": [
+        "hash-count-error",
+        "byte-count-error",
+        "field-count-error",
+        "row-count-error",
+        "blank-header",
+        "extra-label",
+        "missing-label",
+        "blank-label",
+        "duplicate-label",
+        "incorrect-label",
+        "blank-row",
+        "primary-key-error",
+        "foreign-key-error",
+        "extra-cell",
+        "missing-cell",
+        "type-error",
+        "constraint-error",
+        "unique-error"
+      ],
+      "partial": false,
+      "errors": [],
+      "stats": {
+        "errors": 0
+      },
+      "valid": true
+    },
+    {
+      "resource": {
+        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "dialect": {
+          "delimiter": ";"
+        },
+        "encoding": "utf-8-sig",
+        "format": "csv",
+        "hashing": "md5",
+        "name": "feminicidio_2022",
+        "path": "data/feminicidio_2022.csv",
+        "profile": "tabular-data-resource",
+        "schema": {
+          "fields": [
+            {
+              "name": "municipio_cod",
+              "type": "integer"
+            },
+            {
+              "name": "municipio_fato",
+              "type": "string"
+            },
+            {
+              "name": "data_fato",
+              "type": "date"
+            },
+            {
+              "name": "mes",
+              "type": "integer"
+            },
+            {
+              "name": "ano",
+              "type": "integer"
+            },
+            {
+              "name": "risp",
+              "type": "string"
+            },
+            {
+              "name": "rmbh",
+              "type": "string"
+            },
+            {
+              "name": "tentado_consumado",
+              "type": "string"
+            },
+            {
+              "name": "qtde_vitimas",
+              "type": "integer"
+            }
+          ]
+        },
+        "scheme": "file",
+        "title": "Insira um título humanamente legível para este recurso.",
+        "stats": {
+          "hash": "1cddd990420f1e0b1210b8168f6e8f14",
+          "bytes": 34561,
+          "fields": 9,
+          "rows": 351
+        }
+      },
+      "time": 0.039,
+      "scope": [
+        "hash-count-error",
+        "byte-count-error",
+        "field-count-error",
+        "row-count-error",
+        "blank-header",
+        "extra-label",
+        "missing-label",
+        "blank-label",
+        "duplicate-label",
+        "incorrect-label",
+        "blank-row",
+        "primary-key-error",
+        "foreign-key-error",
+        "extra-cell",
+        "missing-cell",
+        "type-error",
+        "constraint-error",
+        "unique-error"
+      ],
+      "partial": false,
+      "errors": [],
+      "stats": {
+        "errors": 0
+      },
+      "valid": true
+    },
+    {
+      "resource": {
+        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "dialect": {
+          "delimiter": ";"
+        },
+        "encoding": "utf-8-sig",
+        "format": "csv",
+        "hashing": "md5",
+        "name": "feminicidio_2023",
+        "path": "data/feminicidio_2023.csv",
+        "profile": "tabular-data-resource",
+        "schema": {
+          "fields": [
+            {
+              "name": "municipio_cod",
+              "type": "integer"
+            },
+            {
+              "name": "municipio_fato",
+              "type": "string"
+            },
+            {
+              "name": "data_fato",
+              "type": "date"
+            },
+            {
+              "name": "mes",
+              "type": "integer"
+            },
+            {
+              "name": "ano",
+              "type": "integer"
+            },
+            {
+              "name": "risp",
+              "type": "string"
+            },
+            {
+              "name": "rmbh",
+              "type": "string"
+            },
+            {
+              "name": "tentado_consumado",
+              "type": "string"
+            },
+            {
+              "name": "qtde_vitimas",
+              "type": "integer"
+            }
+          ]
+        },
+        "scheme": "file",
+        "title": "Insira um título humanamente legível para este recurso.",
+        "stats": {
+          "hash": "54c368455b82f1415e4783ba91fb9d70",
+          "bytes": 9237,
+          "fields": 9,
+          "rows": 94
+        }
+      },
+      "time": 0.026,
+      "scope": [
+        "hash-count-error",
+        "byte-count-error",
+        "field-count-error",
+        "row-count-error",
+        "blank-header",
+        "extra-label",
+        "missing-label",
+        "blank-label",
+        "duplicate-label",
+        "incorrect-label",
+        "blank-row",
+        "primary-key-error",
+        "foreign-key-error",
+        "extra-cell",
+        "missing-cell",
+        "type-error",
+        "constraint-error",
+        "unique-error"
+      ],
+      "partial": false,
+      "errors": [],
+      "stats": {
+        "errors": 0
+      },
+      "valid": true
+    },
+    {
+      "resource": {
+        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "dialect": {
+          "delimiter": ";"
+        },
+        "encoding": "utf-8-sig",
+        "format": "csv",
+        "hashing": "md5",
+        "name": "violencia_domestica_2014",
+        "path": "data/violencia_domestica_2014.csv",
+        "profile": "tabular-data-resource",
+        "schema": {
+          "fields": [
+            {
+              "name": "municipio_cod",
+              "type": "integer"
+            },
+            {
+              "name": "municipio_fato",
+              "type": "string"
+            },
+            {
+              "name": "data_fato",
+              "type": "date"
+            },
+            {
+              "name": "mes",
+              "type": "integer"
+            },
+            {
+              "name": "ano",
+              "type": "integer"
+            },
+            {
+              "name": "risp",
+              "type": "string"
+            },
+            {
+              "name": "rmbh",
+              "type": "string"
+            },
+            {
+              "name": "natureza_delito",
+              "type": "string"
+            },
+            {
+              "name": "tentado_consumado",
+              "type": "string"
+            },
+            {
+              "name": "qtde_vitimas",
+              "type": "integer"
+            }
+          ]
+        },
+        "scheme": "file",
+        "title": "Insira um título humanamente legível para este recurso.",
+        "stats": {
+          "hash": "75a4d650efaeaaff884eb657d020bb9c",
+          "bytes": 11193414,
+          "fields": 10,
+          "rows": 103770
+        }
+      },
+      "time": 5.436,
+      "scope": [
+        "hash-count-error",
+        "byte-count-error",
+        "field-count-error",
+        "row-count-error",
+        "blank-header",
+        "extra-label",
+        "missing-label",
+        "blank-label",
+        "duplicate-label",
+        "incorrect-label",
+        "blank-row",
+        "primary-key-error",
+        "foreign-key-error",
+        "extra-cell",
+        "missing-cell",
+        "type-error",
+        "constraint-error",
+        "unique-error"
+      ],
+      "partial": false,
+      "errors": [],
+      "stats": {
+        "errors": 0
+      },
+      "valid": true
+    },
+    {
+      "resource": {
+        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "dialect": {
+          "delimiter": ";"
+        },
+        "encoding": "utf-8-sig",
+        "format": "csv",
+        "hashing": "md5",
+        "name": "violencia_domestica_2015",
+        "path": "data/violencia_domestica_2015.csv",
+        "profile": "tabular-data-resource",
+        "schema": {
+          "fields": [
+            {
+              "name": "municipio_cod",
+              "type": "integer"
+            },
+            {
+              "name": "municipio_fato",
+              "type": "string"
+            },
+            {
+              "name": "data_fato",
+              "type": "date"
+            },
+            {
+              "name": "mes",
+              "type": "integer"
+            },
+            {
+              "name": "ano",
+              "type": "integer"
+            },
+            {
+              "name": "risp",
+              "type": "string"
+            },
+            {
+              "name": "rmbh",
+              "type": "string"
+            },
+            {
+              "name": "natureza_delito",
+              "type": "string"
+            },
+            {
+              "name": "tentado_consumado",
+              "type": "string"
+            },
+            {
+              "name": "qtde_vitimas",
+              "type": "integer"
+            }
+          ]
+        },
+        "scheme": "file",
+        "title": "Insira um título humanamente legível para este recurso.",
+        "stats": {
+          "hash": "98a9c193e0676f6700b966aaf2c4d0e7",
+          "bytes": 10995761,
+          "fields": 10,
+          "rows": 102272
+        }
+      },
+      "time": 5.428,
+      "scope": [
+        "hash-count-error",
+        "byte-count-error",
+        "field-count-error",
+        "row-count-error",
+        "blank-header",
+        "extra-label",
+        "missing-label",
+        "blank-label",
+        "duplicate-label",
+        "incorrect-label",
+        "blank-row",
+        "primary-key-error",
+        "foreign-key-error",
+        "extra-cell",
+        "missing-cell",
+        "type-error",
+        "constraint-error",
+        "unique-error"
+      ],
+      "partial": false,
+      "errors": [],
+      "stats": {
+        "errors": 0
+      },
+      "valid": true
+    },
+    {
+      "resource": {
+        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "dialect": {
+          "delimiter": ";"
+        },
+        "encoding": "utf-8-sig",
+        "format": "csv",
+        "hashing": "md5",
+        "name": "violencia_domestica_2016",
+        "path": "data/violencia_domestica_2016.csv",
+        "profile": "tabular-data-resource",
+        "schema": {
+          "fields": [
+            {
+              "name": "municipio_cod",
+              "type": "integer"
+            },
+            {
+              "name": "municipio_fato",
+              "type": "string"
+            },
+            {
+              "name": "data_fato",
+              "type": "date"
+            },
+            {
+              "name": "mes",
+              "type": "integer"
+            },
+            {
+              "name": "ano",
+              "type": "integer"
+            },
+            {
+              "name": "risp",
+              "type": "string"
+            },
+            {
+              "name": "rmbh",
+              "type": "string"
+            },
+            {
+              "name": "natureza_delito",
+              "type": "string"
+            },
+            {
+              "name": "tentado_consumado",
+              "type": "string"
+            },
+            {
+              "name": "qtde_vitimas",
+              "type": "integer"
+            }
+          ]
+        },
+        "scheme": "file",
+        "title": "Insira um título humanamente legível para este recurso.",
+        "stats": {
+          "hash": "23048b10d1bcee475b029335b06135e3",
+          "bytes": 10972503,
+          "fields": 10,
+          "rows": 102183
+        }
+      },
+      "time": 5.541,
+      "scope": [
+        "hash-count-error",
+        "byte-count-error",
+        "field-count-error",
+        "row-count-error",
+        "blank-header",
+        "extra-label",
+        "missing-label",
+        "blank-label",
+        "duplicate-label",
+        "incorrect-label",
+        "blank-row",
+        "primary-key-error",
+        "foreign-key-error",
+        "extra-cell",
+        "missing-cell",
+        "type-error",
+        "constraint-error",
+        "unique-error"
+      ],
+      "partial": false,
+      "errors": [],
+      "stats": {
+        "errors": 0
+      },
+      "valid": true
+    },
+    {
+      "resource": {
+        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "dialect": {
+          "delimiter": ";"
+        },
+        "encoding": "utf-8-sig",
+        "format": "csv",
+        "hashing": "md5",
+        "name": "violencia_domestica_2017",
+        "path": "data/violencia_domestica_2017.csv",
+        "profile": "tabular-data-resource",
+        "schema": {
+          "fields": [
+            {
+              "name": "municipio_cod",
+              "type": "integer"
+            },
+            {
+              "name": "municipio_fato",
+              "type": "string"
+            },
+            {
+              "name": "data_fato",
+              "type": "date"
+            },
+            {
+              "name": "mes",
+              "type": "integer"
+            },
+            {
+              "name": "ano",
+              "type": "integer"
+            },
+            {
+              "name": "risp",
+              "type": "string"
+            },
+            {
+              "name": "rmbh",
+              "type": "string"
+            },
+            {
+              "name": "natureza_delito",
+              "type": "string"
+            },
+            {
+              "name": "tentado_consumado",
+              "type": "string"
+            },
+            {
+              "name": "qtde_vitimas",
+              "type": "integer"
+            }
+          ]
+        },
+        "scheme": "file",
+        "title": "Insira um título humanamente legível para este recurso.",
+        "stats": {
+          "hash": "88221ed4929e0518d9f67aaa7e0fe850",
+          "bytes": 11084894,
+          "fields": 10,
+          "rows": 103289
+        }
+      },
+      "time": 5.43,
+      "scope": [
+        "hash-count-error",
+        "byte-count-error",
+        "field-count-error",
+        "row-count-error",
+        "blank-header",
+        "extra-label",
+        "missing-label",
+        "blank-label",
+        "duplicate-label",
+        "incorrect-label",
+        "blank-row",
+        "primary-key-error",
+        "foreign-key-error",
+        "extra-cell",
+        "missing-cell",
+        "type-error",
+        "constraint-error",
+        "unique-error"
+      ],
+      "partial": false,
+      "errors": [],
+      "stats": {
+        "errors": 0
+      },
+      "valid": true
+    },
+    {
+      "resource": {
+        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "dialect": {
+          "delimiter": ";"
+        },
+        "encoding": "utf-8-sig",
+        "format": "csv",
+        "hashing": "md5",
+        "name": "violencia_domestica_2018",
+        "path": "data/violencia_domestica_2018.csv",
+        "profile": "tabular-data-resource",
+        "schema": {
+          "fields": [
+            {
+              "name": "municipio_cod",
+              "type": "integer"
+            },
+            {
+              "name": "municipio_fato",
+              "type": "string"
+            },
+            {
+              "name": "data_fato",
+              "type": "date"
+            },
+            {
+              "name": "mes",
+              "type": "integer"
+            },
+            {
+              "name": "ano",
+              "type": "integer"
+            },
+            {
+              "name": "risp",
+              "type": "string"
+            },
+            {
+              "name": "rmbh",
+              "type": "string"
+            },
+            {
+              "name": "natureza_delito",
+              "type": "string"
+            },
+            {
+              "name": "tentado_consumado",
+              "type": "string"
+            },
+            {
+              "name": "qtde_vitimas",
+              "type": "integer"
+            }
+          ]
+        },
+        "scheme": "file",
+        "title": "Insira um título humanamente legível para este recurso.",
+        "stats": {
+          "hash": "6990a1f9dac8e8e6085919a2361a1451",
+          "bytes": 11044680,
+          "fields": 10,
+          "rows": 102660
+        }
+      },
+      "time": 5.459,
+      "scope": [
+        "hash-count-error",
+        "byte-count-error",
+        "field-count-error",
+        "row-count-error",
+        "blank-header",
+        "extra-label",
+        "missing-label",
+        "blank-label",
+        "duplicate-label",
+        "incorrect-label",
+        "blank-row",
+        "primary-key-error",
+        "foreign-key-error",
+        "extra-cell",
+        "missing-cell",
+        "type-error",
+        "constraint-error",
+        "unique-error"
+      ],
+      "partial": false,
+      "errors": [],
+      "stats": {
+        "errors": 0
+      },
+      "valid": true
+    },
+    {
+      "resource": {
+        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "dialect": {
+          "delimiter": ";"
+        },
+        "encoding": "utf-8-sig",
+        "format": "csv",
+        "hashing": "md5",
+        "name": "violencia_domestica_2019",
+        "path": "data/violencia_domestica_2019.csv",
+        "profile": "tabular-data-resource",
+        "schema": {
+          "fields": [
+            {
+              "name": "municipio_cod",
+              "type": "integer"
+            },
+            {
+              "name": "municipio_fato",
+              "type": "string"
+            },
+            {
+              "name": "data_fato",
+              "type": "date"
+            },
+            {
+              "name": "mes",
+              "type": "integer"
+            },
+            {
+              "name": "ano",
+              "type": "integer"
+            },
+            {
+              "name": "risp",
+              "type": "string"
+            },
+            {
+              "name": "rmbh",
+              "type": "string"
+            },
+            {
+              "name": "natureza_delito",
+              "type": "string"
+            },
+            {
+              "name": "tentado_consumado",
+              "type": "string"
+            },
+            {
+              "name": "qtde_vitimas",
+              "type": "integer"
+            }
+          ]
+        },
+        "scheme": "file",
+        "title": "Insira um título humanamente legível para este recurso.",
+        "stats": {
+          "hash": "5a2c403abcbdb99e3d3c7ebaac99009f",
+          "bytes": 11373700,
+          "fields": 10,
+          "rows": 105285
+        }
+      },
+      "time": 5.536,
+      "scope": [
+        "hash-count-error",
+        "byte-count-error",
+        "field-count-error",
+        "row-count-error",
+        "blank-header",
+        "extra-label",
+        "missing-label",
+        "blank-label",
+        "duplicate-label",
+        "incorrect-label",
+        "blank-row",
+        "primary-key-error",
+        "foreign-key-error",
+        "extra-cell",
+        "missing-cell",
+        "type-error",
+        "constraint-error",
+        "unique-error"
+      ],
+      "partial": false,
+      "errors": [],
+      "stats": {
+        "errors": 0
+      },
+      "valid": true
+    },
+    {
+      "resource": {
+        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "dialect": {
+          "delimiter": ";"
+        },
+        "encoding": "utf-8-sig",
+        "format": "csv",
+        "hashing": "md5",
+        "name": "violencia_domestica_2020",
+        "path": "data/violencia_domestica_2020.csv",
+        "profile": "tabular-data-resource",
+        "schema": {
+          "fields": [
+            {
+              "name": "municipio_cod",
+              "type": "integer"
+            },
+            {
+              "name": "municipio_fato",
+              "type": "string"
+            },
+            {
+              "name": "data_fato",
+              "type": "date"
+            },
+            {
+              "name": "mes",
+              "type": "integer"
+            },
+            {
+              "name": "ano",
+              "type": "integer"
+            },
+            {
+              "name": "risp",
+              "type": "string"
+            },
+            {
+              "name": "rmbh",
+              "type": "string"
+            },
+            {
+              "name": "natureza_delito",
+              "type": "string"
+            },
+            {
+              "name": "tentado_consumado",
+              "type": "string"
+            },
+            {
+              "name": "qtde_vitimas",
+              "type": "integer"
+            }
+          ]
+        },
+        "scheme": "file",
+        "title": "Insira um título humanamente legível para este recurso.",
+        "stats": {
+          "hash": "5a40ce94b33df8716beb86803b630922",
+          "bytes": 11958772,
+          "fields": 10,
+          "rows": 102852
+        }
+      },
+      "time": 5.522,
+      "scope": [
+        "hash-count-error",
+        "byte-count-error",
+        "field-count-error",
+        "row-count-error",
+        "blank-header",
+        "extra-label",
+        "missing-label",
+        "blank-label",
+        "duplicate-label",
+        "incorrect-label",
+        "blank-row",
+        "primary-key-error",
+        "foreign-key-error",
+        "extra-cell",
+        "missing-cell",
+        "type-error",
+        "constraint-error",
+        "unique-error"
+      ],
+      "partial": false,
+      "errors": [],
+      "stats": {
+        "errors": 0
+      },
+      "valid": true
+    },
+    {
+      "resource": {
+        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "dialect": {
+          "delimiter": ";"
+        },
+        "encoding": "utf-8-sig",
+        "format": "csv",
+        "hashing": "md5",
+        "name": "violencia_domestica_2021",
+        "path": "data/violencia_domestica_2021.csv",
+        "profile": "tabular-data-resource",
+        "schema": {
+          "fields": [
+            {
+              "name": "municipio_cod",
+              "type": "integer"
+            },
+            {
+              "name": "municipio_fato",
+              "type": "string"
+            },
+            {
+              "name": "data_fato",
+              "type": "date"
+            },
+            {
+              "name": "mes",
+              "type": "integer"
+            },
+            {
+              "name": "ano",
+              "type": "integer"
+            },
+            {
+              "name": "risp",
+              "type": "string"
+            },
+            {
+              "name": "rmbh",
+              "type": "string"
+            },
+            {
+              "name": "natureza_delito",
+              "type": "string"
+            },
+            {
+              "name": "tentado_consumado",
+              "type": "string"
+            },
+            {
+              "name": "qtde_vitimas",
+              "type": "integer"
+            }
+          ]
+        },
+        "scheme": "file",
+        "title": "Insira um título humanamente legível para este recurso.",
+        "stats": {
+          "hash": "e863f727f3e4ba8cf57be10234dc2ba1",
+          "bytes": 12133199,
+          "fields": 10,
+          "rows": 103803
+        }
+      },
+      "time": 5.453,
+      "scope": [
+        "hash-count-error",
+        "byte-count-error",
+        "field-count-error",
+        "row-count-error",
+        "blank-header",
+        "extra-label",
+        "missing-label",
+        "blank-label",
+        "duplicate-label",
+        "incorrect-label",
+        "blank-row",
+        "primary-key-error",
+        "foreign-key-error",
+        "extra-cell",
+        "missing-cell",
+        "type-error",
+        "constraint-error",
+        "unique-error"
+      ],
+      "partial": false,
+      "errors": [],
+      "stats": {
+        "errors": 0
+      },
+      "valid": true
+    },
+    {
+      "resource": {
+        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "dialect": {
+          "delimiter": ";"
+        },
+        "encoding": "utf-8-sig",
+        "format": "csv",
+        "hashing": "md5",
+        "name": "violencia_domestica_2022",
+        "path": "data/violencia_domestica_2022.csv",
+        "profile": "tabular-data-resource",
+        "schema": {
+          "fields": [
+            {
+              "name": "municipio_cod",
+              "type": "integer"
+            },
+            {
+              "name": "municipio_fato",
+              "type": "string"
+            },
+            {
+              "name": "data_fato",
+              "type": "date"
+            },
+            {
+              "name": "mes",
+              "type": "integer"
+            },
+            {
+              "name": "ano",
+              "type": "integer"
+            },
+            {
+              "name": "risp",
+              "type": "string"
+            },
+            {
+              "name": "rmbh",
+              "type": "string"
+            },
+            {
+              "name": "natureza_delito",
+              "type": "string"
+            },
+            {
+              "name": "tentado_consumado",
+              "type": "string"
+            },
+            {
+              "name": "qtde_vitimas",
+              "type": "integer"
+            }
+          ]
+        },
+        "scheme": "file",
+        "title": "Insira um título humanamente legível para este recurso.",
+        "stats": {
+          "hash": "5c399afdbb9bfdd9bc04512199c86277",
+          "bytes": 11917853,
+          "fields": 10,
+          "rows": 101872
+        }
+      },
+      "time": 5.346,
+      "scope": [
+        "hash-count-error",
+        "byte-count-error",
+        "field-count-error",
+        "row-count-error",
+        "blank-header",
+        "extra-label",
+        "missing-label",
+        "blank-label",
+        "duplicate-label",
+        "incorrect-label",
+        "blank-row",
+        "primary-key-error",
+        "foreign-key-error",
+        "extra-cell",
+        "missing-cell",
+        "type-error",
+        "constraint-error",
+        "unique-error"
+      ],
+      "partial": false,
+      "errors": [],
+      "stats": {
+        "errors": 0
+      },
+      "valid": true
+    },
+    {
+      "resource": {
+        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "dialect": {
+          "delimiter": ";"
+        },
+        "encoding": "utf-8-sig",
+        "format": "csv",
+        "hashing": "md5",
+        "name": "violencia_domestica_2023",
+        "path": "data/violencia_domestica_2023.csv",
+        "profile": "tabular-data-resource",
+        "schema": {
+          "fields": [
+            {
+              "name": "municipio_cod",
+              "type": "integer"
+            },
+            {
+              "name": "municipio_fato",
+              "type": "string"
+            },
+            {
+              "name": "data_fato",
+              "type": "date"
+            },
+            {
+              "name": "mes",
+              "type": "integer"
+            },
+            {
+              "name": "ano",
+              "type": "integer"
+            },
+            {
+              "name": "risp",
+              "type": "string"
+            },
+            {
+              "name": "rmbh",
+              "type": "string"
+            },
+            {
+              "name": "natureza_delito",
+              "type": "string"
+            },
+            {
+              "name": "tentado_consumado",
+              "type": "string"
+            },
+            {
+              "name": "qtde_vitimas",
+              "type": "integer"
+            }
+          ]
+        },
+        "scheme": "file",
+        "title": "Insira um título humanamente legível para este recurso.",
+        "stats": {
+          "hash": "138186f70e3e59187fb7c72be55e0eb4",
+          "bytes": 4112555,
+          "fields": 10,
+          "rows": 35167
+        }
+      },
+      "time": 1.867,
+      "scope": [
+        "hash-count-error",
+        "byte-count-error",
+        "field-count-error",
+        "row-count-error",
+        "blank-header",
+        "extra-label",
+        "missing-label",
+        "blank-label",
+        "duplicate-label",
+        "incorrect-label",
+        "blank-row",
+        "primary-key-error",
+        "foreign-key-error",
+        "extra-cell",
+        "missing-cell",
+        "type-error",
+        "constraint-error",
+        "unique-error"
+      ],
+      "partial": false,
+      "errors": [],
+      "stats": {
+        "errors": 0
+      },
+      "valid": true
+    }
+  ],
+  "stats": {
+    "errors": 0,
+    "tasks": 16
+  },
+  "valid": true
+}
