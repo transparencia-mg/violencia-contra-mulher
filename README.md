@@ -112,4 +112,19 @@ graph TD;
 
 ![image](https://github.com/transparencia-mg/new-dataset-template/assets/52294411/7830e2fb-b2bf-434c-87b3-e366e5efa7a1)
 
+## Atualizações
+
+Nos repositórios forkados do new-dataset-template, observar se há commits do repositório template para serem sincronizados:
+![image](https://github.com/transparencia-mg/new-dataset-template/assets/52294411/060715a7-e1e1-43a3-9a76-9286f20b4807)
+Basta clicar em `Sync fork`e, depois, no botão `update branch`:
+![image](https://github.com/transparencia-mg/new-dataset-template/assets/52294411/82642ae9-7d97-4e84-9603-6701e4591cb6)
+Aparecerá a mensagem na tarja superior em azul-claro:
+![image](https://github.com/transparencia-mg/new-dataset-template/assets/52294411/5a259c7e-61ab-42cc-ae0e-dadce259778e)
+
+Observe que o repositório clonado na máquina precisará do `pull`, para ser atualizado após esse sync, como qualquer alteração que ocorre no github.
+
+Clicando em `Fork`, é possível listar todos os repositórios que foram gerados a partir do new-dataset-template, e conferir um por um:
+![image](https://github.com/transparencia-mg/new-dataset-template/assets/52294411/55a59bac-d1b4-4383-ad0d-cb5dcfc5ac3d)
+
+
 [^1]: [Ciclo de Abertura, Documentação, Validação e Publicação](https://transparencia-mg.github.io/manual-dados-mg/0.1/2.%20Ciclo%20de%20publica%C3%A7%C3%A3o%20de%20dados/006_etapas_abertura/).
