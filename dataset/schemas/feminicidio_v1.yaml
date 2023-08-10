@@ -1,0 +1,37 @@
+fields:
+  - name: municipio_cod
+    type: integer
+    title: Código do município
+    description: Código do município do evento
+  - name: municipio_fato
+    type: string
+    title: Munícipio do fato
+    description: Munícipio de ocorrência do evento
+  - name: data_fato
+    type: date
+    title: Data do fato
+    description: Data de ocorrência do evento
+  - name: mes
+    type: integer
+    title: Mês do fato
+    description: Mês de ocorrência do evento
+  - name: ano
+    type: integer
+    title: Ano do fato
+    description: Ano de ocorrência do evento
+  - name: risp
+    type: string
+    title: Região Integrada de Segurança Pública
+    description: Descrição da região integrada de segurança pública
+  - name: rmbh
+    type: string
+    title: Região Metropolitana de Belo Horizonte
+    description: Indica se o município pertence a região metropolitana de Belo Horizonte
+  - name: tentado_consumado
+    type: string
+    title: tipo do crime
+    description: tipo de ocorrência do evento (consumado ou tentado)
+  - name: qtde_vitimas
+    type: integer
+    title: Quantidade de vítimas
+    description: Quantitativo de vítimas de feminicídio
