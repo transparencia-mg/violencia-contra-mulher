@@ -1,352 +1,355 @@
 ﻿municipio_cod;municipio_fato;data_fato;mes;ano;risp;rmbh;tentado_consumado;qtde_vitimas
-313940;MANHUACU;2022-01-01;1;2022;12º Departamento - Ipatinga;3) Interior de MG;CONSUMADO;1
-310620;BELO HORIZONTE;2022-01-03;1;2022;1º Departamento - Belo Horizonte;1) Belo Horizonte;TENTADO;1
-316420;SAO ROMAO;2022-01-03;1;2022;14º Departamento - Curvelo;3) Interior de MG;CONSUMADO;1
-314800;PATOS DE MINAS;2022-01-04;1;2022;10º Departamento - Patos de Minas;3) Interior de MG;TENTADO;1
-311880;CORACAO DE JESUS;2022-01-10;1;2022;11º Departamento - Montes Claros;3) Interior de MG;TENTADO;1
-316310;SAO JOSE DA VARGINHA;2022-01-11;1;2022;7º Departamento - Divinópolis;3) Interior de MG;CONSUMADO;1
-310620;BELO HORIZONTE;2022-01-14;1;2022;1º Departamento - Belo Horizonte;1) Belo Horizonte;CONSUMADO;1
-315790;SANTA MARGARIDA;2022-01-15;1;2022;12º Departamento - Ipatinga;3) Interior de MG;TENTADO;1
-310780;BOM JESUS DO GALHO;2022-01-16;1;2022;12º Departamento - Ipatinga;3) Interior de MG;TENTADO;1
-312480;ESTRELA DO SUL;2022-01-16;1;2022;9º Departamento - Uberlândia;3) Interior de MG;TENTADO;1
-315460;RIBEIRAO DAS NEVES;2022-01-16;1;2022;2º Departamento - Contagem;2) RMBH (sem BH);CONSUMADO;1
-316070;SANTOS DUMONT;2022-01-16;1;2022;13º Departamento - Barbacena;3) Interior de MG;CONSUMADO;1
-311860;CONTAGEM;2022-01-17;1;2022;2º Departamento - Contagem;2) RMBH (sem BH);TENTADO;2
-317070;VARGINHA;2022-01-17;1;2022;6º Departamento - Lavras;3) Interior de MG;CONSUMADO;1
-311760;CONCEICAO DO PARA;2022-01-18;1;2022;7º Departamento - Divinópolis;3) Interior de MG;TENTADO;1
-316720;SETE LAGOAS;2022-01-19;1;2022;19º Departamento - Sete Lagoas;3) Interior de MG;TENTADO;1
-316720;SETE LAGOAS;2022-01-25;1;2022;19º Departamento - Sete Lagoas;3) Interior de MG;TENTADO;1
-316720;SETE LAGOAS;2022-01-29;1;2022;19º Departamento - Sete Lagoas;3) Interior de MG;TENTADO;1
-310740;BOM DESPACHO;2022-02-02;2;2022;7º Departamento - Divinópolis;3) Interior de MG;CONSUMADO;1
-315670;SABARA;2022-02-04;2;2022;3º Departamento - Vespasiano;2) RMBH (sem BH);TENTADO;1
-311350;CARBONITA;2022-02-04;2;2022;14º Departamento - Curvelo;3) Interior de MG;CONSUMADO;1
-311530;CATAGUASES;2022-02-04;2;2022;4º Departamento - Juiz de Fora;3) Interior de MG;CONSUMADO;1
-315210;PONTE NOVA;2022-02-05;2;2022;12º Departamento - Ipatinga;3) Interior de MG;CONSUMADO;1
-310420;ARCOS;2022-02-06;2;2022;7º Departamento - Divinópolis;3) Interior de MG;CONSUMADO;1
-310620;BELO HORIZONTE;2022-02-08;2;2022;1º Departamento - Belo Horizonte;1) Belo Horizonte;TENTADO;1
-314340;MONTE SIAO;2022-02-08;2;2022;17º Departamento - Pouso Alegre;3) Interior de MG;CONSUMADO;1
-315780;SANTA LUZIA;2022-02-10;2;2022;3º Departamento - Vespasiano;2) RMBH (sem BH);TENTADO;1
-317020;UBERLANDIA;2022-02-10;2;2022;9º Departamento - Uberlândia;3) Interior de MG;TENTADO;1
-312230;DIVINOPOLIS;2022-02-12;2;2022;7º Departamento - Divinópolis;3) Interior de MG;TENTADO;1
-310620;BELO HORIZONTE;2022-02-13;2;2022;1º Departamento - Belo Horizonte;1) Belo Horizonte;CONSUMADO;1
-313720;LAGOA DA PRATA;2022-02-13;2;2022;7º Departamento - Divinópolis;3) Interior de MG;CONSUMADO;1
-315990;SANTO ANTONIO DO AMPARO;2022-02-13;2;2022;6º Departamento - Lavras;3) Interior de MG;CONSUMADO;1
-310620;BELO HORIZONTE;2022-02-14;2;2022;1º Departamento - Belo Horizonte;1) Belo Horizonte;TENTADO;2
-313220;ITAGUARA;2022-02-14;2;2022;2º Departamento - Contagem;2) RMBH (sem BH);TENTADO;1
-316250;SAO JOAO DEL REI;2022-02-14;2;2022;13º Departamento - Barbacena;3) Interior de MG;TENTADO;1
-313760;LAGOA SANTA;2022-02-15;2;2022;3º Departamento - Vespasiano;2) RMBH (sem BH);TENTADO;1
-315780;SANTA LUZIA;2022-02-15;2;2022;3º Departamento - Vespasiano;2) RMBH (sem BH);TENTADO;2
-313190;ITABIRITO;2022-02-19;2;2022;3º Departamento - Vespasiano;3) Interior de MG;TENTADO;1
-317200;VISCONDE DO RIO BRANCO;2022-02-19;2;2022;4º Departamento - Juiz de Fora;3) Interior de MG;TENTADO;1
-314720;PARAGUACU;2022-02-22;2;2022;18º Departamento - Poços de Caldas;3) Interior de MG;TENTADO;1
-317052;URUCUIA;2022-02-23;2;2022;16º Departamento - Unaí;3) Interior de MG;TENTADO;1
-310620;BELO HORIZONTE;2022-02-25;2;2022;1º Departamento - Belo Horizonte;1) Belo Horizonte;TENTADO;1
-310670;BETIM;2022-02-25;2;2022;2º Departamento - Contagem;2) RMBH (sem BH);TENTADO;1
-315460;RIBEIRAO DAS NEVES;2022-02-25;2;2022;2º Departamento - Contagem;2) RMBH (sem BH);TENTADO;1
-313980;MAR DE ESPANHA;2022-02-26;2;2022;4º Departamento - Juiz de Fora;3) Interior de MG;TENTADO;1
-313630;JOAO PINHEIRO;2022-02-26;2;2022;16º Departamento - Unaí;3) Interior de MG;CONSUMADO;1
-313670;JUIZ DE FORA;2022-02-26;2;2022;4º Departamento - Juiz de Fora;3) Interior de MG;CONSUMADO;1
-315690;SACRAMENTO;2022-02-27;2;2022;5º Departamento - Uberaba;3) Interior de MG;TENTADO;1
-313520;JANUARIA;2022-02-28;2;2022;11º Departamento - Montes Claros;3) Interior de MG;TENTADO;1
-311230;CAPELINHA;2022-03-01;3;2022;14º Departamento - Curvelo;3) Interior de MG;TENTADO;1
-317010;UBERABA;2022-03-02;3;2022;5º Departamento - Uberaba;3) Interior de MG;CONSUMADO;1
-313520;JANUARIA;2022-03-03;3;2022;11º Departamento - Montes Claros;3) Interior de MG;CONSUMADO;1
-313380;ITAUNA;2022-03-04;3;2022;7º Departamento - Divinópolis;3) Interior de MG;CONSUMADO;1
-312530;FARIA LEMOS;2022-03-05;3;2022;4º Departamento - Juiz de Fora;3) Interior de MG;CONSUMADO;2
-311340;CARATINGA;2022-03-07;3;2022;12º Departamento - Ipatinga;3) Interior de MG;TENTADO;1
-310620;BELO HORIZONTE;2022-03-07;3;2022;1º Departamento - Belo Horizonte;1) Belo Horizonte;CONSUMADO;1
-317020;UBERLANDIA;2022-03-09;3;2022;9º Departamento - Uberlândia;3) Interior de MG;TENTADO;1
-314330;MONTES CLAROS;2022-03-10;3;2022;11º Departamento - Montes Claros;3) Interior de MG;CONSUMADO;1
-315670;SABARA;2022-03-11;3;2022;3º Departamento - Vespasiano;2) RMBH (sem BH);CONSUMADO;1
-310400;ARAXA;2022-03-12;3;2022;5º Departamento - Uberaba;3) Interior de MG;TENTADO;1
-315170;POCO FUNDO;2022-03-12;3;2022;18º Departamento - Poços de Caldas;3) Interior de MG;TENTADO;1
-314140;MEDINA;2022-03-12;3;2022;15º Departamento - Teófilo Otoni;3) Interior de MG;CONSUMADO;1
+310150;ALEM PARAIBA;2022-04-07;4;2022;4º Departamento - Juiz de Fora;3) Interior de MG;TENTADO;1
 310160;ALFENAS;2022-03-13;3;2022;18º Departamento - Poços de Caldas;3) Interior de MG;TENTADO;1
-316930;TRES CORACOES;2022-03-13;3;2022;6º Departamento - Lavras;3) Interior de MG;TENTADO;1
-313670;JUIZ DE FORA;2022-03-13;3;2022;4º Departamento - Juiz de Fora;3) Interior de MG;CONSUMADO;1
-316860;TEOFILO OTONI;2022-03-15;3;2022;15º Departamento - Teófilo Otoni;3) Interior de MG;CONSUMADO;1
-316695;SERRANOPOLIS DE MINAS;2022-03-17;3;2022;11º Departamento - Montes Claros;3) Interior de MG;CONSUMADO;1
-312770;GOVERNADOR VALADARES;2022-03-18;3;2022;8º Departamento - Governador Valadares;3) Interior de MG;TENTADO;1
-316225;SAO JOAO DA LAGOA;2022-03-18;3;2022;11º Departamento - Montes Claros;3) Interior de MG;TENTADO;1
-311730;CONCEICAO DAS ALAGOAS;2022-03-18;3;2022;5º Departamento - Uberaba;3) Interior de MG;CONSUMADO;1
-316150;SAO GERALDO;2022-03-19;3;2022;4º Departamento - Juiz de Fora;3) Interior de MG;TENTADO;1
-313750;LAGOA FORMOSA;2022-03-19;3;2022;10º Departamento - Patos de Minas;3) Interior de MG;CONSUMADO;1
+310160;ALFENAS;2022-09-03;9;2022;18º Departamento - Poços de Caldas;3) Interior de MG;TENTADO;1
+310170;ALMENARA;2022-04-12;4;2022;15º Departamento - Teófilo Otoni;3) Interior de MG;TENTADO;1
+310260;ANDRADAS;2022-09-29;9;2022;18º Departamento - Poços de Caldas;3) Interior de MG;TENTADO;1
+310285;ANGELANDIA;2022-05-08;5;2022;14º Departamento - Curvelo;3) Interior de MG;TENTADO;1
+310340;ARACUAI;2022-09-27;9;2022;15º Departamento - Teófilo Otoni;3) Interior de MG;TENTADO;1
+310400;ARAXA;2022-03-12;3;2022;5º Departamento - Uberaba;3) Interior de MG;TENTADO;1
+310530;BANDEIRA DO SUL;2022-08-21;8;2022;18º Departamento - Poços de Caldas;3) Interior de MG;TENTADO;2
+310620;BELO HORIZONTE;2022-01-03;1;2022;1º Departamento - Belo Horizonte;1) Belo Horizonte;TENTADO;1
+310620;BELO HORIZONTE;2022-02-08;2;2022;1º Departamento - Belo Horizonte;1) Belo Horizonte;TENTADO;1
+310620;BELO HORIZONTE;2022-02-14;2;2022;1º Departamento - Belo Horizonte;1) Belo Horizonte;TENTADO;2
+310620;BELO HORIZONTE;2022-02-25;2;2022;1º Departamento - Belo Horizonte;1) Belo Horizonte;TENTADO;1
 310620;BELO HORIZONTE;2022-03-20;3;2022;1º Departamento - Belo Horizonte;1) Belo Horizonte;TENTADO;1
 310620;BELO HORIZONTE;2022-03-21;3;2022;1º Departamento - Belo Horizonte;1) Belo Horizonte;TENTADO;1
 310620;BELO HORIZONTE;2022-03-23;3;2022;1º Departamento - Belo Horizonte;1) Belo Horizonte;TENTADO;1
-310270;CACHOEIRA DE PAJEU;2022-03-23;3;2022;15º Departamento - Teófilo Otoni;3) Interior de MG;CONSUMADO;1
-311130;CAMPO DO MEIO;2022-03-23;3;2022;18º Departamento - Poços de Caldas;3) Interior de MG;CONSUMADO;1
-317070;VARGINHA;2022-03-24;3;2022;6º Departamento - Lavras;3) Interior de MG;TENTADO;1
-316340;SAO JOSE DO GOIABAL;2022-03-26;3;2022;12º Departamento - Ipatinga;3) Interior de MG;TENTADO;1
-313960;MANTENA;2022-03-26;3;2022;8º Departamento - Governador Valadares;3) Interior de MG;CONSUMADO;1
-310620;BELO HORIZONTE;2022-03-27;3;2022;1º Departamento - Belo Horizonte;1) Belo Horizonte;CONSUMADO;1
-313550;JEQUERI;2022-03-28;3;2022;12º Departamento - Ipatinga;3) Interior de MG;CONSUMADO;1
-315140;PITANGUI;2022-03-29;3;2022;7º Departamento - Divinópolis;3) Interior de MG;CONSUMADO;1
-317010;UBERABA;2022-04-03;4;2022;5º Departamento - Uberaba;3) Interior de MG;TENTADO;1
-316550;SARDOA;2022-04-03;4;2022;8º Departamento - Governador Valadares;3) Interior de MG;CONSUMADO;1
-312770;GOVERNADOR VALADARES;2022-04-04;4;2022;8º Departamento - Governador Valadares;3) Interior de MG;TENTADO;1
-310150;ALEM PARAIBA;2022-04-07;4;2022;4º Departamento - Juiz de Fora;3) Interior de MG;TENTADO;1
-313620;JOAO MONLEVADE;2022-04-07;4;2022;12º Departamento - Ipatinga;3) Interior de MG;TENTADO;1
-313010;IGARAPE;2022-04-08;4;2022;2º Departamento - Contagem;2) RMBH (sem BH);CONSUMADO;1
-314980;PERDIZES;2022-04-09;4;2022;5º Departamento - Uberaba;3) Interior de MG;CONSUMADO;1
-316350;SAO JOSE DO JACURI;2022-04-10;4;2022;8º Departamento - Governador Valadares;3) Interior de MG;CONSUMADO;1
-317200;VISCONDE DO RIO BRANCO;2022-04-11;4;2022;4º Departamento - Juiz de Fora;3) Interior de MG;TENTADO;1
-310170;ALMENARA;2022-04-12;4;2022;15º Departamento - Teófilo Otoni;3) Interior de MG;TENTADO;1
-315445;RIACHINHO;2022-04-13;4;2022;16º Departamento - Unaí;3) Interior de MG;CONSUMADO;1
-313130;IPATINGA;2022-04-15;4;2022;12º Departamento - Ipatinga;3) Interior de MG;TENTADO;1
-315810;SANTA MARIA DO SALTO;2022-04-15;4;2022;15º Departamento - Teófilo Otoni;3) Interior de MG;CONSUMADO;1
-315250;POUSO ALEGRE;2022-04-16;4;2022;17º Departamento - Pouso Alegre;3) Interior de MG;TENTADO;1
-314710;PARA DE MINAS;2022-04-16;4;2022;7º Departamento - Divinópolis;3) Interior de MG;CONSUMADO;1
-313250;ITAMARANDIBA;2022-04-18;4;2022;14º Departamento - Curvelo;3) Interior de MG;CONSUMADO;1
-314070;MATEUS LEME;2022-04-21;4;2022;2º Departamento - Contagem;2) RMBH (sem BH);TENTADO;1
-310620;BELO HORIZONTE;2022-04-21;4;2022;1º Departamento - Belo Horizonte;1) Belo Horizonte;CONSUMADO;1
-313130;IPATINGA;2022-04-22;4;2022;12º Departamento - Ipatinga;3) Interior de MG;CONSUMADO;1
-315700;SALINAS;2022-04-22;4;2022;11º Departamento - Montes Claros;3) Interior de MG;CONSUMADO;1
-313830;LEANDRO FERREIRA;2022-04-23;4;2022;7º Departamento - Divinópolis;3) Interior de MG;TENTADO;1
-314520;NOVA SERRANA;2022-04-24;4;2022;7º Departamento - Divinópolis;3) Interior de MG;TENTADO;1
-310620;BELO HORIZONTE;2022-04-24;4;2022;1º Departamento - Belo Horizonte;1) Belo Horizonte;CONSUMADO;1
-317052;URUCUIA;2022-04-26;4;2022;16º Departamento - Unaí;3) Interior de MG;TENTADO;1
-314800;PATOS DE MINAS;2022-04-29;4;2022;10º Departamento - Patos de Minas;3) Interior de MG;CONSUMADO;1
-313170;ITABIRA;2022-04-30;4;2022;12º Departamento - Ipatinga;3) Interior de MG;TENTADO;1
-315895;SANTANA DO PARAISO;2022-04-30;4;2022;12º Departamento - Ipatinga;3) Interior de MG;TENTADO;1
-314625;PADRE CARVALHO;2022-05-01;5;2022;11º Departamento - Montes Claros;3) Interior de MG;TENTADO;1
-315250;POUSO ALEGRE;2022-05-01;5;2022;17º Departamento - Pouso Alegre;3) Interior de MG;CONSUMADO;1
-310670;BETIM;2022-05-03;5;2022;2º Departamento - Contagem;2) RMBH (sem BH);CONSUMADO;1
-315460;RIBEIRAO DAS NEVES;2022-05-03;5;2022;2º Departamento - Contagem;2) RMBH (sem BH);CONSUMADO;1
-312840;GUARANI;2022-05-04;5;2022;4º Departamento - Juiz de Fora;3) Interior de MG;TENTADO;1
-313010;IGARAPE;2022-05-04;5;2022;2º Departamento - Contagem;2) RMBH (sem BH);TENTADO;1
-311860;CONTAGEM;2022-05-04;5;2022;2º Departamento - Contagem;2) RMBH (sem BH);CONSUMADO;1
-313840;LEOPOLDINA;2022-05-04;5;2022;4º Departamento - Juiz de Fora;3) Interior de MG;CONSUMADO;1
-315280;PRATA;2022-05-04;5;2022;9º Departamento - Uberlândia;3) Interior de MG;CONSUMADO;1
 310620;BELO HORIZONTE;2022-05-07;5;2022;1º Departamento - Belo Horizonte;1) Belo Horizonte;TENTADO;1
-310285;ANGELANDIA;2022-05-08;5;2022;14º Departamento - Curvelo;3) Interior de MG;TENTADO;1
-317020;UBERLANDIA;2022-05-09;5;2022;9º Departamento - Uberlândia;3) Interior de MG;TENTADO;1
-312980;IBIRITE;2022-05-11;5;2022;2º Departamento - Contagem;2) RMBH (sem BH);CONSUMADO;1
-312770;GOVERNADOR VALADARES;2022-05-13;5;2022;8º Departamento - Governador Valadares;3) Interior de MG;TENTADO;1
-314710;PARA DE MINAS;2022-05-13;5;2022;7º Departamento - Divinópolis;3) Interior de MG;TENTADO;1
-315490;RIO CASCA;2022-05-14;5;2022;12º Departamento - Ipatinga;3) Interior de MG;TENTADO;1
-316990;UBA;2022-05-14;5;2022;4º Departamento - Juiz de Fora;3) Interior de MG;TENTADO;1
-315200;POMPEU;2022-05-14;5;2022;7º Departamento - Divinópolis;3) Interior de MG;CONSUMADO;1
-312090;CURVELO;2022-05-15;5;2022;14º Departamento - Curvelo;3) Interior de MG;CONSUMADO;1
-317020;UBERLANDIA;2022-05-16;5;2022;9º Departamento - Uberlândia;3) Interior de MG;TENTADO;1
-310620;BELO HORIZONTE;2022-05-17;5;2022;1º Departamento - Belo Horizonte;1) Belo Horizonte;CONSUMADO;1
-316260;SAO JOAO DO ORIENTE;2022-05-21;5;2022;12º Departamento - Ipatinga;3) Interior de MG;TENTADO;1
-315460;RIBEIRAO DAS NEVES;2022-05-22;5;2022;2º Departamento - Contagem;2) RMBH (sem BH);TENTADO;1
 310620;BELO HORIZONTE;2022-05-23;5;2022;1º Departamento - Belo Horizonte;1) Belo Horizonte;TENTADO;1
-317107;VEREDINHA;2022-05-23;5;2022;14º Departamento - Curvelo;3) Interior de MG;TENTADO;1
-313670;JUIZ DE FORA;2022-05-25;5;2022;4º Departamento - Juiz de Fora;3) Interior de MG;TENTADO;1
-310270;CACHOEIRA DE PAJEU;2022-05-25;5;2022;15º Departamento - Teófilo Otoni;3) Interior de MG;CONSUMADO;1
-311230;CAPELINHA;2022-05-25;5;2022;14º Departamento - Curvelo;3) Interior de MG;CONSUMADO;1
-312610;FORMIGA;2022-05-26;5;2022;7º Departamento - Divinópolis;3) Interior de MG;CONSUMADO;1
-316110;SAO FRANCISCO;2022-05-27;5;2022;11º Departamento - Montes Claros;3) Interior de MG;TENTADO;1
-311230;CAPELINHA;2022-05-27;5;2022;14º Departamento - Curvelo;3) Interior de MG;CONSUMADO;1
-316070;SANTOS DUMONT;2022-05-27;5;2022;13º Departamento - Barbacena;3) Interior de MG;CONSUMADO;1
-313400;ITINGA;2022-05-28;5;2022;15º Departamento - Teófilo Otoni;3) Interior de MG;CONSUMADO;1
-316860;TEOFILO OTONI;2022-05-28;5;2022;15º Departamento - Teófilo Otoni;3) Interior de MG;CONSUMADO;1
-311740;CONCEICAO DE IPANEMA;2022-05-29;5;2022;12º Departamento - Ipatinga;3) Interior de MG;TENTADO;1
-315690;SACRAMENTO;2022-05-29;5;2022;5º Departamento - Uberaba;3) Interior de MG;TENTADO;1
-312230;DIVINOPOLIS;2022-05-30;5;2022;7º Departamento - Divinópolis;3) Interior de MG;CONSUMADO;2
-317070;VARGINHA;2022-05-30;5;2022;6º Departamento - Lavras;3) Interior de MG;CONSUMADO;1
-315180;POCOS DE CALDAS;2022-05-31;5;2022;18º Departamento - Poços de Caldas;3) Interior de MG;TENTADO;1
-311860;CONTAGEM;2022-06-01;6;2022;2º Departamento - Contagem;2) RMBH (sem BH);TENTADO;1
-316860;TEOFILO OTONI;2022-06-03;6;2022;15º Departamento - Teófilo Otoni;3) Interior de MG;TENTADO;1
-315460;RIBEIRAO DAS NEVES;2022-06-04;6;2022;2º Departamento - Contagem;2) RMBH (sem BH);TENTADO;1
-316860;TEOFILO OTONI;2022-06-04;6;2022;15º Departamento - Teófilo Otoni;3) Interior de MG;CONSUMADO;1
-310620;BELO HORIZONTE;2022-06-05;6;2022;1º Departamento - Belo Horizonte;1) Belo Horizonte;CONSUMADO;1
-310090;AGUAS FORMOSAS;2022-06-07;6;2022;15º Departamento - Teófilo Otoni;3) Interior de MG;CONSUMADO;1
-310620;BELO HORIZONTE;2022-06-08;6;2022;1º Departamento - Belo Horizonte;1) Belo Horizonte;CONSUMADO;1
-314590;OURO BRANCO;2022-06-10;6;2022;13º Departamento - Barbacena;3) Interior de MG;CONSUMADO;1
-314520;NOVA SERRANA;2022-06-18;6;2022;7º Departamento - Divinópolis;3) Interior de MG;TENTADO;1
-310620;BELO HORIZONTE;2022-06-19;6;2022;1º Departamento - Belo Horizonte;1) Belo Horizonte;CONSUMADO;1
-312490;EUGENOPOLIS;2022-06-19;6;2022;4º Departamento - Juiz de Fora;3) Interior de MG;CONSUMADO;1
-317120;VESPASIANO;2022-06-19;6;2022;3º Departamento - Vespasiano;2) RMBH (sem BH);CONSUMADO;1
-316990;UBA;2022-06-20;6;2022;4º Departamento - Juiz de Fora;3) Interior de MG;TENTADO;1
-316292;SAO JOAQUIM DE BICAS;2022-06-23;6;2022;2º Departamento - Contagem;2) RMBH (sem BH);CONSUMADO;1
-316210;SAO GOTARDO;2022-06-24;6;2022;10º Departamento - Patos de Minas;3) Interior de MG;TENTADO;1
-315670;SABARA;2022-06-24;6;2022;3º Departamento - Vespasiano;2) RMBH (sem BH);CONSUMADO;1
-312880;GUIDOVAL;2022-06-29;6;2022;4º Departamento - Juiz de Fora;3) Interior de MG;TENTADO;1
-311420;CARMO DO CAJURU;2022-06-30;6;2022;7º Departamento - Divinópolis;3) Interior de MG;CONSUMADO;1
-313650;JORDANIA;2022-06-30;6;2022;15º Departamento - Teófilo Otoni;3) Interior de MG;CONSUMADO;1
-311880;CORACAO DE JESUS;2022-07-02;7;2022;11º Departamento - Montes Claros;3) Interior de MG;TENTADO;1
-315100;PIRANGUINHO;2022-07-04;7;2022;17º Departamento - Pouso Alegre;3) Interior de MG;TENTADO;1
-311330;CARANGOLA;2022-07-07;7;2022;4º Departamento - Juiz de Fora;3) Interior de MG;TENTADO;1
-315350;ALTO JEQUITIBA;2022-07-09;7;2022;12º Departamento - Ipatinga;3) Interior de MG;CONSUMADO;1
 310620;BELO HORIZONTE;2022-07-10;7;2022;1º Departamento - Belo Horizonte;1) Belo Horizonte;TENTADO;1
-317020;UBERLANDIA;2022-07-11;7;2022;9º Departamento - Uberlândia;3) Interior de MG;TENTADO;1
-310350;ARAGUARI;2022-07-11;7;2022;9º Departamento - Uberlândia;3) Interior de MG;CONSUMADO;1
-310900;BRUMADINHO;2022-07-12;7;2022;2º Departamento - Contagem;2) RMBH (sem BH);CONSUMADO;3
-317020;UBERLANDIA;2022-07-12;7;2022;9º Departamento - Uberlândia;3) Interior de MG;CONSUMADO;1
-313170;ITABIRA;2022-07-13;7;2022;12º Departamento - Ipatinga;3) Interior de MG;CONSUMADO;1
-315210;PONTE NOVA;2022-07-15;7;2022;12º Departamento - Ipatinga;3) Interior de MG;TENTADO;1
-310670;BETIM;2022-07-17;7;2022;2º Departamento - Contagem;2) RMBH (sem BH);CONSUMADO;1
-316150;SAO GERALDO;2022-07-17;7;2022;4º Departamento - Juiz de Fora;3) Interior de MG;CONSUMADO;1
-314810;PATROCINIO;2022-07-19;7;2022;10º Departamento - Patos de Minas;3) Interior de MG;TENTADO;1
-315180;POCOS DE CALDAS;2022-07-21;7;2022;18º Departamento - Poços de Caldas;3) Interior de MG;CONSUMADO;1
-312230;DIVINOPOLIS;2022-07-22;7;2022;7º Departamento - Divinópolis;3) Interior de MG;TENTADO;1
-314600;OURO FINO;2022-07-22;7;2022;17º Departamento - Pouso Alegre;3) Interior de MG;CONSUMADO;1
-314980;PERDIZES;2022-07-22;7;2022;5º Departamento - Uberaba;3) Interior de MG;CONSUMADO;1
-317150;MATHIAS LOBATO;2022-07-22;7;2022;8º Departamento - Governador Valadares;3) Interior de MG;CONSUMADO;1
-312610;FORMIGA;2022-07-23;7;2022;7º Departamento - Divinópolis;3) Interior de MG;TENTADO;1
-310620;BELO HORIZONTE;2022-07-23;7;2022;1º Departamento - Belo Horizonte;1) Belo Horizonte;CONSUMADO;1
-314330;MONTES CLAROS;2022-07-24;7;2022;11º Departamento - Montes Claros;3) Interior de MG;TENTADO;1
-311120;CAMPO BELO;2022-07-24;7;2022;6º Departamento - Lavras;3) Interior de MG;CONSUMADO;1
 310620;BELO HORIZONTE;2022-07-28;7;2022;1º Departamento - Belo Horizonte;1) Belo Horizonte;TENTADO;2
-313010;IGARAPE;2022-07-29;7;2022;2º Departamento - Contagem;2) RMBH (sem BH);CONSUMADO;1
-313230;ITAIPE;2022-07-29;7;2022;15º Departamento - Teófilo Otoni;3) Interior de MG;CONSUMADO;1
-313240;ITAJUBA;2022-07-30;7;2022;17º Departamento - Pouso Alegre;3) Interior de MG;TENTADO;1
-312410;ESMERALDAS;2022-07-30;7;2022;2º Departamento - Contagem;2) RMBH (sem BH);CONSUMADO;1
-310375;ARAPORA;2022-07-31;7;2022;9º Departamento - Uberlândia;3) Interior de MG;CONSUMADO;1
-313050;ILICINEA;2022-08-02;8;2022;6º Departamento - Lavras;3) Interior de MG;TENTADO;1
-313753;LAGOA GRANDE;2022-08-02;8;2022;10º Departamento - Patos de Minas;3) Interior de MG;CONSUMADO;1
-310620;BELO HORIZONTE;2022-08-04;8;2022;1º Departamento - Belo Horizonte;1) Belo Horizonte;CONSUMADO;1
-313940;MANHUACU;2022-08-05;8;2022;12º Departamento - Ipatinga;3) Interior de MG;TENTADO;1
-315053;PINGO D'AGUA;2022-08-06;8;2022;12º Departamento - Ipatinga;3) Interior de MG;TENTADO;1
-310400;ARAXA;2022-08-06;8;2022;5º Departamento - Uberaba;3) Interior de MG;CONSUMADO;1
-313980;MAR DE ESPANHA;2022-08-06;8;2022;4º Departamento - Juiz de Fora;3) Interior de MG;CONSUMADO;1
-313630;JOAO PINHEIRO;2022-08-07;8;2022;16º Departamento - Unaí;3) Interior de MG;TENTADO;2
-314800;PATOS DE MINAS;2022-08-07;8;2022;10º Departamento - Patos de Minas;3) Interior de MG;CONSUMADO;1
-317010;UBERABA;2022-08-07;8;2022;5º Departamento - Uberaba;3) Interior de MG;CONSUMADO;1
-311860;CONTAGEM;2022-08-08;8;2022;2º Departamento - Contagem;2) RMBH (sem BH);TENTADO;1
-310620;BELO HORIZONTE;2022-08-09;8;2022;1º Departamento - Belo Horizonte;1) Belo Horizonte;CONSUMADO;1
 310620;BELO HORIZONTE;2022-08-11;8;2022;1º Departamento - Belo Horizonte;1) Belo Horizonte;TENTADO;2
-312360;ELOI MENDES;2022-08-11;8;2022;6º Departamento - Lavras;3) Interior de MG;CONSUMADO;1
-316850;TEIXEIRAS;2022-08-11;8;2022;4º Departamento - Juiz de Fora;3) Interior de MG;CONSUMADO;1
-311860;CONTAGEM;2022-08-13;8;2022;2º Departamento - Contagem;2) RMBH (sem BH);TENTADO;1
 310620;BELO HORIZONTE;2022-08-15;8;2022;1º Departamento - Belo Horizonte;1) Belo Horizonte;TENTADO;1
-311115;CAMPO AZUL;2022-08-15;8;2022;11º Departamento - Montes Claros;3) Interior de MG;TENTADO;1
-314710;PARA DE MINAS;2022-08-15;8;2022;7º Departamento - Divinópolis;3) Interior de MG;CONSUMADO;1
-313130;IPATINGA;2022-08-18;8;2022;12º Departamento - Ipatinga;3) Interior de MG;TENTADO;1
 310620;BELO HORIZONTE;2022-08-19;8;2022;1º Departamento - Belo Horizonte;1) Belo Horizonte;TENTADO;1
-313470;JACINTO;2022-08-19;8;2022;15º Departamento - Teófilo Otoni;3) Interior de MG;TENTADO;1
-311090;CAMPANHA;2022-08-20;8;2022;6º Departamento - Lavras;3) Interior de MG;CONSUMADO;1
-310530;BANDEIRA DO SUL;2022-08-21;8;2022;18º Departamento - Poços de Caldas;3) Interior de MG;TENTADO;2
-314310;MONTE CARMELO;2022-08-23;8;2022;10º Departamento - Patos de Minas;3) Interior de MG;TENTADO;1
-315460;RIBEIRAO DAS NEVES;2022-08-25;8;2022;2º Departamento - Contagem;2) RMBH (sem BH);TENTADO;1
-313670;JUIZ DE FORA;2022-08-26;8;2022;4º Departamento - Juiz de Fora;3) Interior de MG;TENTADO;1
 310620;BELO HORIZONTE;2022-08-29;8;2022;1º Departamento - Belo Horizonte;1) Belo Horizonte;TENTADO;1
-310670;BETIM;2022-08-29;8;2022;2º Departamento - Contagem;2) RMBH (sem BH);CONSUMADO;1
-312770;GOVERNADOR VALADARES;2022-08-29;8;2022;8º Departamento - Governador Valadares;3) Interior de MG;CONSUMADO;1
-313650;JORDANIA;2022-08-31;8;2022;15º Departamento - Teófilo Otoni;3) Interior de MG;TENTADO;1
-312590;FERROS;2022-08-31;8;2022;12º Departamento - Ipatinga;3) Interior de MG;CONSUMADO;1
-310340;ARACUAI;2022-09-02;9;2022;15º Departamento - Teófilo Otoni;3) Interior de MG;CONSUMADO;1
-310160;ALFENAS;2022-09-03;9;2022;18º Departamento - Poços de Caldas;3) Interior de MG;TENTADO;1
-313670;JUIZ DE FORA;2022-09-03;9;2022;4º Departamento - Juiz de Fora;3) Interior de MG;TENTADO;1
-314970;PERDIGAO;2022-09-03;9;2022;7º Departamento - Divinópolis;3) Interior de MG;TENTADO;1
-315460;RIBEIRAO DAS NEVES;2022-09-05;9;2022;2º Departamento - Contagem;2) RMBH (sem BH);TENTADO;1
-315460;RIBEIRAO DAS NEVES;2022-09-06;9;2022;2º Departamento - Contagem;2) RMBH (sem BH);TENTADO;1
-316450;SAO SEBAST. DO MARANHAO;2022-09-06;9;2022;8º Departamento - Governador Valadares;3) Interior de MG;CONSUMADO;1
-317005;UBAPORANGA;2022-09-07;9;2022;12º Departamento - Ipatinga;3) Interior de MG;CONSUMADO;1
-316630;SERICITA;2022-09-11;9;2022;12º Departamento - Ipatinga;3) Interior de MG;TENTADO;1
-313652;JOSE GONCALVES DE MINAS;2022-09-14;9;2022;14º Departamento - Curvelo;3) Interior de MG;TENTADO;1
-310670;BETIM;2022-09-14;9;2022;2º Departamento - Contagem;2) RMBH (sem BH);CONSUMADO;1
-314480;NOVA LIMA;2022-09-15;9;2022;3º Departamento - Vespasiano;2) RMBH (sem BH);TENTADO;1
-310810;BONFIM;2022-09-18;9;2022;2º Departamento - Contagem;3) Interior de MG;TENTADO;1
-310270;CACHOEIRA DE PAJEU;2022-09-18;9;2022;15º Departamento - Teófilo Otoni;3) Interior de MG;CONSUMADO;1
-310160;ALFENAS;2022-09-19;9;2022;18º Departamento - Poços de Caldas;3) Interior de MG;CONSUMADO;1
-312770;GOVERNADOR VALADARES;2022-09-21;9;2022;8º Departamento - Governador Valadares;3) Interior de MG;CONSUMADO;1
-314880;PEDRA DO ANTA;2022-09-23;9;2022;4º Departamento - Juiz de Fora;3) Interior de MG;TENTADO;1
 310620;BELO HORIZONTE;2022-09-24;9;2022;1º Departamento - Belo Horizonte;1) Belo Horizonte;TENTADO;1
-313460;JABOTICATUBAS;2022-09-24;9;2022;3º Departamento - Vespasiano;2) RMBH (sem BH);CONSUMADO;1
-317020;UBERLANDIA;2022-09-25;9;2022;9º Departamento - Uberlândia;3) Interior de MG;TENTADO;1
-310340;ARACUAI;2022-09-27;9;2022;15º Departamento - Teófilo Otoni;3) Interior de MG;TENTADO;1
-314000;MARIANA;2022-09-27;9;2022;3º Departamento - Vespasiano;3) Interior de MG;TENTADO;1
-313170;ITABIRA;2022-09-28;9;2022;12º Departamento - Ipatinga;3) Interior de MG;TENTADO;1
-313700;LADAINHA;2022-09-28;9;2022;15º Departamento - Teófilo Otoni;3) Interior de MG;TENTADO;1
-315250;POUSO ALEGRE;2022-09-28;9;2022;17º Departamento - Pouso Alegre;3) Interior de MG;TENTADO;1
-310260;ANDRADAS;2022-09-29;9;2022;18º Departamento - Poços de Caldas;3) Interior de MG;TENTADO;1
-314520;NOVA SERRANA;2022-09-30;9;2022;7º Departamento - Divinópolis;3) Interior de MG;CONSUMADO;1
 310620;BELO HORIZONTE;2022-10-01;10;2022;1º Departamento - Belo Horizonte;1) Belo Horizonte;TENTADO;1
-313940;MANHUACU;2022-10-01;10;2022;12º Departamento - Ipatinga;3) Interior de MG;CONSUMADO;1
-314790;PASSOS;2022-10-02;10;2022;18º Departamento - Poços de Caldas;3) Interior de MG;CONSUMADO;1
 310620;BELO HORIZONTE;2022-10-03;10;2022;1º Departamento - Belo Horizonte;1) Belo Horizonte;TENTADO;1
-316400;SAO PEDRO DOS FERROS;2022-10-03;10;2022;12º Departamento - Ipatinga;3) Interior de MG;TENTADO;1
-316900;TOCANTINS;2022-10-04;10;2022;4º Departamento - Juiz de Fora;3) Interior de MG;CONSUMADO;1
-310670;BETIM;2022-10-05;10;2022;2º Departamento - Contagem;2) RMBH (sem BH);TENTADO;1
-311860;CONTAGEM;2022-10-07;10;2022;2º Departamento - Contagem;2) RMBH (sem BH);TENTADO;1
-311615;CHAPADA GAUCHA;2022-10-08;10;2022;16º Departamento - Unaí;3) Interior de MG;TENTADO;1
-314700;PARACATU;2022-10-08;10;2022;16º Departamento - Unaí;3) Interior de MG;TENTADO;1
-311340;CARATINGA;2022-10-08;10;2022;12º Departamento - Ipatinga;3) Interior de MG;CONSUMADO;1
-312800;GUANHAES;2022-10-09;10;2022;8º Departamento - Governador Valadares;3) Interior de MG;CONSUMADO;1
-312630;FORTALEZA DE MINAS;2022-10-10;10;2022;18º Departamento - Poços de Caldas;3) Interior de MG;CONSUMADO;1
-317040;UNAI;2022-10-11;10;2022;16º Departamento - Unaí;3) Interior de MG;TENTADO;1
 310620;BELO HORIZONTE;2022-10-12;10;2022;1º Departamento - Belo Horizonte;1) Belo Horizonte;TENTADO;1
-311950;CORONEL MURTA;2022-10-13;10;2022;15º Departamento - Teófilo Otoni;3) Interior de MG;CONSUMADO;1
-313580;JEQUITINHONHA;2022-10-14;10;2022;15º Departamento - Teófilo Otoni;3) Interior de MG;TENTADO;1
-316210;SAO GOTARDO;2022-10-15;10;2022;10º Departamento - Patos de Minas;3) Interior de MG;TENTADO;1
-314800;PATOS DE MINAS;2022-10-15;10;2022;10º Departamento - Patos de Minas;3) Interior de MG;CONSUMADO;1
-315460;RIBEIRAO DAS NEVES;2022-10-16;10;2022;2º Departamento - Contagem;2) RMBH (sem BH);TENTADO;1
-310670;BETIM;2022-10-16;10;2022;2º Departamento - Contagem;2) RMBH (sem BH);CONSUMADO;1
-313670;JUIZ DE FORA;2022-10-17;10;2022;4º Departamento - Juiz de Fora;3) Interior de MG;CONSUMADO;1
-315780;SANTA LUZIA;2022-10-17;10;2022;3º Departamento - Vespasiano;2) RMBH (sem BH);CONSUMADO;1
-312980;IBIRITE;2022-10-19;10;2022;2º Departamento - Contagem;2) RMBH (sem BH);CONSUMADO;1
 310620;BELO HORIZONTE;2022-10-22;10;2022;1º Departamento - Belo Horizonte;1) Belo Horizonte;TENTADO;1
-311860;CONTAGEM;2022-10-23;10;2022;2º Departamento - Contagem;2) RMBH (sem BH);TENTADO;2
-315780;SANTA LUZIA;2022-10-23;10;2022;3º Departamento - Vespasiano;2) RMBH (sem BH);TENTADO;1
-311860;CONTAGEM;2022-10-25;10;2022;2º Departamento - Contagem;2) RMBH (sem BH);TENTADO;1
-313510;JANAUBA;2022-10-26;10;2022;11º Departamento - Montes Claros;3) Interior de MG;TENTADO;1
-316990;UBA;2022-10-27;10;2022;4º Departamento - Juiz de Fora;3) Interior de MG;CONSUMADO;1
+310620;BELO HORIZONTE;2022-11-13;11;2022;1º Departamento - Belo Horizonte;1) Belo Horizonte;TENTADO;1
+310620;BELO HORIZONTE;2022-11-18;11;2022;1º Departamento - Belo Horizonte;1) Belo Horizonte;TENTADO;1
+310620;BELO HORIZONTE;2022-12-10;12;2022;1º Departamento - Belo Horizonte;1) Belo Horizonte;TENTADO;1
+310670;BETIM;2022-02-25;2;2022;2º Departamento - Contagem;2) RMBH (sem BH);TENTADO;1
+310670;BETIM;2022-10-05;10;2022;2º Departamento - Contagem;2) RMBH (sem BH);TENTADO;1
+310780;BOM JESUS DO GALHO;2022-01-16;1;2022;12º Departamento - Ipatinga;3) Interior de MG;TENTADO;1
+310810;BONFIM;2022-09-18;9;2022;2º Departamento - Contagem;3) Interior de MG;TENTADO;1
+310855;BRASILANDIA DE MINAS;2022-12-07;12;2022;16º Departamento - Unaí;3) Interior de MG;TENTADO;1
+310920;BUENOPOLIS;2022-11-14;11;2022;14º Departamento - Curvelo;3) Interior de MG;TENTADO;1
 311000;CAETE;2022-10-29;10;2022;3º Departamento - Vespasiano;2) RMBH (sem BH);TENTADO;1
 311000;CAETE;2022-10-30;10;2022;3º Departamento - Vespasiano;2) RMBH (sem BH);TENTADO;1
-314300;MONTE BELO;2022-10-30;10;2022;18º Departamento - Poços de Caldas;3) Interior de MG;CONSUMADO;1
-316555;SETUBINHA;2022-10-30;10;2022;15º Departamento - Teófilo Otoni;3) Interior de MG;CONSUMADO;1
-311800;CONGONHAS;2022-11-01;11;2022;13º Departamento - Barbacena;3) Interior de MG;TENTADO;1
-312430;ESPINOSA;2022-11-01;11;2022;11º Departamento - Montes Claros;3) Interior de MG;CONSUMADO;1
-316890;TIROS;2022-11-01;11;2022;10º Departamento - Patos de Minas;3) Interior de MG;CONSUMADO;1
-316370;SAO LOURENCO;2022-11-05;11;2022;17º Departamento - Pouso Alegre;3) Interior de MG;CONSUMADO;2
-313950;MANHUMIRIM;2022-11-08;11;2022;12º Departamento - Ipatinga;3) Interior de MG;TENTADO;1
-310730;BOCAIUVA;2022-11-08;11;2022;11º Departamento - Montes Claros;3) Interior de MG;CONSUMADO;1
-315460;RIBEIRAO DAS NEVES;2022-11-09;11;2022;2º Departamento - Contagem;2) RMBH (sem BH);TENTADO;1
-312800;GUANHAES;2022-11-09;11;2022;8º Departamento - Governador Valadares;3) Interior de MG;CONSUMADO;1
-310855;BRASILANDIA DE MINAS;2022-11-10;11;2022;16º Departamento - Unaí;3) Interior de MG;CONSUMADO;1
-311430;CARMO DO PARANAIBA;2022-11-12;11;2022;10º Departamento - Patos de Minas;3) Interior de MG;CONSUMADO;1
-314800;PATOS DE MINAS;2022-11-12;11;2022;10º Departamento - Patos de Minas;3) Interior de MG;CONSUMADO;1
-310620;BELO HORIZONTE;2022-11-13;11;2022;1º Departamento - Belo Horizonte;1) Belo Horizonte;TENTADO;1
-314435;NAQUE;2022-11-13;11;2022;12º Departamento - Ipatinga;3) Interior de MG;TENTADO;1
-316553;SARZEDO;2022-11-13;11;2022;2º Departamento - Contagem;2) RMBH (sem BH);TENTADO;1
-310920;BUENOPOLIS;2022-11-14;11;2022;14º Departamento - Curvelo;3) Interior de MG;TENTADO;1
-315380;QUELUZITO;2022-11-14;11;2022;13º Departamento - Barbacena;3) Interior de MG;TENTADO;1
-315250;POUSO ALEGRE;2022-11-14;11;2022;17º Departamento - Pouso Alegre;3) Interior de MG;CONSUMADO;1
-315895;SANTANA DO PARAISO;2022-11-15;11;2022;12º Departamento - Ipatinga;3) Interior de MG;TENTADO;1
-312710;FRUTAL;2022-11-15;11;2022;5º Departamento - Uberaba;3) Interior de MG;CONSUMADO;1
-315727;SANTA BARBARA DO MONTE VERDE;2022-11-16;11;2022;4º Departamento - Juiz de Fora;3) Interior de MG;TENTADO;1
-317075;VARJAO DE MINAS;2022-11-16;11;2022;10º Departamento - Patos de Minas;3) Interior de MG;CONSUMADO;1
-314800;PATOS DE MINAS;2022-11-17;11;2022;10º Departamento - Patos de Minas;3) Interior de MG;TENTADO;1
-316470;SAO SEBASTIAO PARAISO;2022-11-18;11;2022;18º Departamento - Poços de Caldas;3) Interior de MG;CONSUMADO;1
-313720;LAGOA DA PRATA;2022-11-19;11;2022;7º Departamento - Divinópolis;3) Interior de MG;CONSUMADO;1
-312410;ESMERALDAS;2022-11-20;11;2022;2º Departamento - Contagem;2) RMBH (sem BH);TENTADO;1
-313460;JABOTICATUBAS;2022-11-24;11;2022;3º Departamento - Vespasiano;2) RMBH (sem BH);CONSUMADO;1
-316210;SAO GOTARDO;2022-11-26;11;2022;10º Departamento - Patos de Minas;3) Interior de MG;CONSUMADO;1
-313670;JUIZ DE FORA;2022-11-28;11;2022;4º Departamento - Juiz de Fora;3) Interior de MG;TENTADO;2
-311420;CARMO DO CAJURU;2022-11-28;11;2022;7º Departamento - Divinópolis;3) Interior de MG;CONSUMADO;1
-317020;UBERLANDIA;2022-11-30;11;2022;9º Departamento - Uberlândia;3) Interior de MG;CONSUMADO;1
-310940;BURITIZEIRO;2022-12-02;12;2022;14º Departamento - Curvelo;3) Interior de MG;CONSUMADO;1
-314330;MONTES CLAROS;2022-12-02;12;2022;11º Departamento - Montes Claros;3) Interior de MG;CONSUMADO;1
+311100;CAMPESTRE;2022-12-05;12;2022;18º Departamento - Poços de Caldas;3) Interior de MG;TENTADO;1
+311115;CAMPO AZUL;2022-08-15;8;2022;11º Departamento - Montes Claros;3) Interior de MG;TENTADO;1
+311230;CAPELINHA;2022-03-01;3;2022;14º Departamento - Curvelo;3) Interior de MG;TENTADO;1
+311330;CARANGOLA;2022-07-07;7;2022;4º Departamento - Juiz de Fora;3) Interior de MG;TENTADO;1
+311340;CARATINGA;2022-03-07;3;2022;12º Departamento - Ipatinga;3) Interior de MG;TENTADO;1
 311340;CARATINGA;2022-12-03;12;2022;12º Departamento - Ipatinga;3) Interior de MG;TENTADO;1
 311530;CATAGUASES;2022-12-03;12;2022;4º Departamento - Juiz de Fora;3) Interior de MG;TENTADO;1
-314280;MONTE ALEGRE DE MINAS;2022-12-03;12;2022;9º Departamento - Uberlândia;3) Interior de MG;TENTADO;1
-313760;LAGOA SANTA;2022-12-03;12;2022;3º Departamento - Vespasiano;2) RMBH (sem BH);CONSUMADO;1
-311100;CAMPESTRE;2022-12-05;12;2022;18º Departamento - Poços de Caldas;3) Interior de MG;TENTADO;1
-313660;NOVA UNIAO;2022-12-06;12;2022;3º Departamento - Vespasiano;2) RMBH (sem BH);TENTADO;1
-310855;BRASILANDIA DE MINAS;2022-12-07;12;2022;16º Departamento - Unaí;3) Interior de MG;TENTADO;1
-315960;SANTA RITA DO SAPUCAI;2022-12-07;12;2022;17º Departamento - Pouso Alegre;3) Interior de MG;TENTADO;1
-312410;ESMERALDAS;2022-12-08;12;2022;2º Departamento - Contagem;2) RMBH (sem BH);TENTADO;1
-310620;BELO HORIZONTE;2022-12-10;12;2022;1º Departamento - Belo Horizonte;1) Belo Horizonte;TENTADO;1
-314590;OURO BRANCO;2022-12-10;12;2022;13º Departamento - Barbacena;3) Interior de MG;CONSUMADO;1
-314710;PARA DE MINAS;2022-12-13;12;2022;7º Departamento - Divinópolis;3) Interior de MG;CONSUMADO;1
-317000;UBAI;2022-12-13;12;2022;11º Departamento - Montes Claros;3) Interior de MG;CONSUMADO;1
-313820;LAVRAS;2022-12-17;12;2022;6º Departamento - Lavras;3) Interior de MG;TENTADO;1
-316470;SAO SEBASTIAO PARAISO;2022-12-17;12;2022;18º Departamento - Poços de Caldas;3) Interior de MG;TENTADO;1
-313510;JANAUBA;2022-12-18;12;2022;11º Departamento - Montes Claros;3) Interior de MG;TENTADO;1
-316180;SAO GONCALO DO PARA;2022-12-22;12;2022;7º Departamento - Divinópolis;3) Interior de MG;TENTADO;1
-313240;ITAJUBA;2022-12-23;12;2022;17º Departamento - Pouso Alegre;3) Interior de MG;TENTADO;1
-317090;VARZELANDIA;2022-12-23;12;2022;11º Departamento - Montes Claros;3) Interior de MG;CONSUMADO;1
-316990;UBA;2022-12-24;12;2022;4º Departamento - Juiz de Fora;3) Interior de MG;TENTADO;1
-310620;BELO HORIZONTE;2022-12-24;12;2022;1º Departamento - Belo Horizonte;1) Belo Horizonte;CONSUMADO;1
+311615;CHAPADA GAUCHA;2022-10-08;10;2022;16º Departamento - Unaí;3) Interior de MG;TENTADO;1
 311730;CONCEICAO DAS ALAGOAS;2022-12-25;12;2022;5º Departamento - Uberaba;3) Interior de MG;TENTADO;1
-317020;UBERLANDIA;2022-12-25;12;2022;9º Departamento - Uberlândia;3) Interior de MG;TENTADO;1
-312750;GONZAGA;2022-12-25;12;2022;8º Departamento - Governador Valadares;3) Interior de MG;CONSUMADO;1
-314310;MONTE CARMELO;2022-12-25;12;2022;10º Departamento - Patos de Minas;3) Interior de MG;CONSUMADO;1
-316410;SAO PEDRO DO SUACUI;2022-12-26;12;2022;8º Departamento - Governador Valadares;3) Interior de MG;CONSUMADO;1
-313440;ITURAMA;2022-12-27;12;2022;5º Departamento - Uberaba;3) Interior de MG;CONSUMADO;1
-317000;UBAI;2022-12-29;12;2022;11º Departamento - Montes Claros;3) Interior de MG;CONSUMADO;1
+311740;CONCEICAO DE IPANEMA;2022-05-29;5;2022;12º Departamento - Ipatinga;3) Interior de MG;TENTADO;1
+311760;CONCEICAO DO PARA;2022-01-18;1;2022;7º Departamento - Divinópolis;3) Interior de MG;TENTADO;1
+311800;CONGONHAS;2022-11-01;11;2022;13º Departamento - Barbacena;3) Interior de MG;TENTADO;1
+311860;CONTAGEM;2022-01-17;1;2022;2º Departamento - Contagem;2) RMBH (sem BH);TENTADO;2
+311860;CONTAGEM;2022-06-01;6;2022;2º Departamento - Contagem;2) RMBH (sem BH);TENTADO;1
+311860;CONTAGEM;2022-08-08;8;2022;2º Departamento - Contagem;2) RMBH (sem BH);TENTADO;1
+311860;CONTAGEM;2022-08-13;8;2022;2º Departamento - Contagem;2) RMBH (sem BH);TENTADO;1
+311860;CONTAGEM;2022-10-07;10;2022;2º Departamento - Contagem;2) RMBH (sem BH);TENTADO;1
+311860;CONTAGEM;2022-10-23;10;2022;2º Departamento - Contagem;2) RMBH (sem BH);TENTADO;2
+311860;CONTAGEM;2022-10-25;10;2022;2º Departamento - Contagem;2) RMBH (sem BH);TENTADO;1
+311880;CORACAO DE JESUS;2022-01-10;1;2022;11º Departamento - Montes Claros;3) Interior de MG;TENTADO;1
+311880;CORACAO DE JESUS;2022-07-02;7;2022;11º Departamento - Montes Claros;3) Interior de MG;TENTADO;1
+312230;DIVINOPOLIS;2022-02-12;2;2022;7º Departamento - Divinópolis;3) Interior de MG;TENTADO;1
+312230;DIVINOPOLIS;2022-07-22;7;2022;7º Departamento - Divinópolis;3) Interior de MG;TENTADO;1
+312410;ESMERALDAS;2022-11-20;11;2022;2º Departamento - Contagem;2) RMBH (sem BH);TENTADO;1
+312410;ESMERALDAS;2022-12-08;12;2022;2º Departamento - Contagem;2) RMBH (sem BH);TENTADO;1
+312480;ESTRELA DO SUL;2022-01-16;1;2022;9º Departamento - Uberlândia;3) Interior de MG;TENTADO;1
+312610;FORMIGA;2022-07-23;7;2022;7º Departamento - Divinópolis;3) Interior de MG;TENTADO;1
+312770;GOVERNADOR VALADARES;2022-03-18;3;2022;8º Departamento - Governador Valadares;3) Interior de MG;TENTADO;1
+312770;GOVERNADOR VALADARES;2022-04-04;4;2022;8º Departamento - Governador Valadares;3) Interior de MG;TENTADO;1
+312770;GOVERNADOR VALADARES;2022-05-13;5;2022;8º Departamento - Governador Valadares;3) Interior de MG;TENTADO;1
+312840;GUARANI;2022-05-04;5;2022;4º Departamento - Juiz de Fora;3) Interior de MG;TENTADO;1
+312880;GUIDOVAL;2022-06-29;6;2022;4º Departamento - Juiz de Fora;3) Interior de MG;TENTADO;1
+313010;IGARAPE;2022-05-04;5;2022;2º Departamento - Contagem;2) RMBH (sem BH);TENTADO;1
+313050;ILICINEA;2022-08-02;8;2022;6º Departamento - Lavras;3) Interior de MG;TENTADO;1
+313130;IPATINGA;2022-04-15;4;2022;12º Departamento - Ipatinga;3) Interior de MG;TENTADO;1
+313130;IPATINGA;2022-08-18;8;2022;12º Departamento - Ipatinga;3) Interior de MG;TENTADO;1
+313170;ITABIRA;2022-04-30;4;2022;12º Departamento - Ipatinga;3) Interior de MG;TENTADO;1
+313170;ITABIRA;2022-09-28;9;2022;12º Departamento - Ipatinga;3) Interior de MG;TENTADO;1
+313190;ITABIRITO;2022-02-19;2;2022;3º Departamento - Vespasiano;3) Interior de MG;TENTADO;1
+313220;ITAGUARA;2022-02-14;2;2022;2º Departamento - Contagem;2) RMBH (sem BH);TENTADO;1
+313240;ITAJUBA;2022-07-30;7;2022;17º Departamento - Pouso Alegre;3) Interior de MG;TENTADO;1
+313240;ITAJUBA;2022-12-23;12;2022;17º Departamento - Pouso Alegre;3) Interior de MG;TENTADO;1
+313470;JACINTO;2022-08-19;8;2022;15º Departamento - Teófilo Otoni;3) Interior de MG;TENTADO;1
+313510;JANAUBA;2022-10-26;10;2022;11º Departamento - Montes Claros;3) Interior de MG;TENTADO;1
+313510;JANAUBA;2022-12-18;12;2022;11º Departamento - Montes Claros;3) Interior de MG;TENTADO;1
+313520;JANUARIA;2022-02-28;2;2022;11º Departamento - Montes Claros;3) Interior de MG;TENTADO;1
+313580;JEQUITINHONHA;2022-10-14;10;2022;15º Departamento - Teófilo Otoni;3) Interior de MG;TENTADO;1
+313620;JOAO MONLEVADE;2022-04-07;4;2022;12º Departamento - Ipatinga;3) Interior de MG;TENTADO;1
+313630;JOAO PINHEIRO;2022-08-07;8;2022;16º Departamento - Unaí;3) Interior de MG;TENTADO;2
+313650;JORDANIA;2022-08-31;8;2022;15º Departamento - Teófilo Otoni;3) Interior de MG;TENTADO;1
+313652;JOSE GONCALVES DE MINAS;2022-09-14;9;2022;14º Departamento - Curvelo;3) Interior de MG;TENTADO;1
+313660;NOVA UNIAO;2022-12-06;12;2022;3º Departamento - Vespasiano;2) RMBH (sem BH);TENTADO;1
+313670;JUIZ DE FORA;2022-05-25;5;2022;4º Departamento - Juiz de Fora;3) Interior de MG;TENTADO;1
+313670;JUIZ DE FORA;2022-08-26;8;2022;4º Departamento - Juiz de Fora;3) Interior de MG;TENTADO;1
+313670;JUIZ DE FORA;2022-09-03;9;2022;4º Departamento - Juiz de Fora;3) Interior de MG;TENTADO;1
+313670;JUIZ DE FORA;2022-11-28;11;2022;4º Departamento - Juiz de Fora;3) Interior de MG;TENTADO;2
+313700;LADAINHA;2022-09-28;9;2022;15º Departamento - Teófilo Otoni;3) Interior de MG;TENTADO;1
+313760;LAGOA SANTA;2022-02-15;2;2022;3º Departamento - Vespasiano;2) RMBH (sem BH);TENTADO;1
+313820;LAVRAS;2022-12-17;12;2022;6º Departamento - Lavras;3) Interior de MG;TENTADO;1
+313830;LEANDRO FERREIRA;2022-04-23;4;2022;7º Departamento - Divinópolis;3) Interior de MG;TENTADO;1
+313940;MANHUACU;2022-08-05;8;2022;12º Departamento - Ipatinga;3) Interior de MG;TENTADO;1
+313950;MANHUMIRIM;2022-11-08;11;2022;12º Departamento - Ipatinga;3) Interior de MG;TENTADO;1
+313980;MAR DE ESPANHA;2022-02-26;2;2022;4º Departamento - Juiz de Fora;3) Interior de MG;TENTADO;1
+314000;MARIANA;2022-09-27;9;2022;3º Departamento - Vespasiano;3) Interior de MG;TENTADO;1
+314070;MATEUS LEME;2022-04-21;4;2022;2º Departamento - Contagem;2) RMBH (sem BH);TENTADO;1
+314280;MONTE ALEGRE DE MINAS;2022-12-03;12;2022;9º Departamento - Uberlândia;3) Interior de MG;TENTADO;1
+314310;MONTE CARMELO;2022-08-23;8;2022;10º Departamento - Patos de Minas;3) Interior de MG;TENTADO;1
+314330;MONTES CLAROS;2022-07-24;7;2022;11º Departamento - Montes Claros;3) Interior de MG;TENTADO;1
 314330;MONTES CLAROS;2022-12-31;12;2022;11º Departamento - Montes Claros;3) Interior de MG;TENTADO;1
+314435;NAQUE;2022-11-13;11;2022;12º Departamento - Ipatinga;3) Interior de MG;TENTADO;1
+314480;NOVA LIMA;2022-09-15;9;2022;3º Departamento - Vespasiano;2) RMBH (sem BH);TENTADO;1
+314520;NOVA SERRANA;2022-04-24;4;2022;7º Departamento - Divinópolis;3) Interior de MG;TENTADO;1
+314520;NOVA SERRANA;2022-06-18;6;2022;7º Departamento - Divinópolis;3) Interior de MG;TENTADO;1
+314625;PADRE CARVALHO;2022-05-01;5;2022;11º Departamento - Montes Claros;3) Interior de MG;TENTADO;1
+314700;PARACATU;2022-10-08;10;2022;16º Departamento - Unaí;3) Interior de MG;TENTADO;1
+314710;PARA DE MINAS;2022-05-13;5;2022;7º Departamento - Divinópolis;3) Interior de MG;TENTADO;1
+314720;PARAGUACU;2022-02-22;2;2022;18º Departamento - Poços de Caldas;3) Interior de MG;TENTADO;1
+314800;PATOS DE MINAS;2022-01-04;1;2022;10º Departamento - Patos de Minas;3) Interior de MG;TENTADO;1
+314800;PATOS DE MINAS;2022-11-17;11;2022;10º Departamento - Patos de Minas;3) Interior de MG;TENTADO;1
+314810;PATROCINIO;2022-07-19;7;2022;10º Departamento - Patos de Minas;3) Interior de MG;TENTADO;1
+314880;PEDRA DO ANTA;2022-09-23;9;2022;4º Departamento - Juiz de Fora;3) Interior de MG;TENTADO;1
+314970;PERDIGAO;2022-09-03;9;2022;7º Departamento - Divinópolis;3) Interior de MG;TENTADO;1
+315053;PINGO D'AGUA;2022-08-06;8;2022;12º Departamento - Ipatinga;3) Interior de MG;TENTADO;1
+315100;PIRANGUINHO;2022-07-04;7;2022;17º Departamento - Pouso Alegre;3) Interior de MG;TENTADO;1
+315170;POCO FUNDO;2022-03-12;3;2022;18º Departamento - Poços de Caldas;3) Interior de MG;TENTADO;1
+315180;POCOS DE CALDAS;2022-05-31;5;2022;18º Departamento - Poços de Caldas;3) Interior de MG;TENTADO;1
+315210;PONTE NOVA;2022-07-15;7;2022;12º Departamento - Ipatinga;3) Interior de MG;TENTADO;1
+315250;POUSO ALEGRE;2022-04-16;4;2022;17º Departamento - Pouso Alegre;3) Interior de MG;TENTADO;1
+315250;POUSO ALEGRE;2022-09-28;9;2022;17º Departamento - Pouso Alegre;3) Interior de MG;TENTADO;1
+315380;QUELUZITO;2022-11-14;11;2022;13º Departamento - Barbacena;3) Interior de MG;TENTADO;1
+315460;RIBEIRAO DAS NEVES;2022-02-25;2;2022;2º Departamento - Contagem;2) RMBH (sem BH);TENTADO;1
+315460;RIBEIRAO DAS NEVES;2022-05-22;5;2022;2º Departamento - Contagem;2) RMBH (sem BH);TENTADO;1
+315460;RIBEIRAO DAS NEVES;2022-06-04;6;2022;2º Departamento - Contagem;2) RMBH (sem BH);TENTADO;1
+315460;RIBEIRAO DAS NEVES;2022-08-25;8;2022;2º Departamento - Contagem;2) RMBH (sem BH);TENTADO;1
+315460;RIBEIRAO DAS NEVES;2022-09-05;9;2022;2º Departamento - Contagem;2) RMBH (sem BH);TENTADO;1
+315460;RIBEIRAO DAS NEVES;2022-09-06;9;2022;2º Departamento - Contagem;2) RMBH (sem BH);TENTADO;1
+315460;RIBEIRAO DAS NEVES;2022-10-16;10;2022;2º Departamento - Contagem;2) RMBH (sem BH);TENTADO;1
+315460;RIBEIRAO DAS NEVES;2022-11-09;11;2022;2º Departamento - Contagem;2) RMBH (sem BH);TENTADO;1
+315490;RIO CASCA;2022-05-14;5;2022;12º Departamento - Ipatinga;3) Interior de MG;TENTADO;1
+315670;SABARA;2022-02-04;2;2022;3º Departamento - Vespasiano;2) RMBH (sem BH);TENTADO;1
+315690;SACRAMENTO;2022-02-27;2;2022;5º Departamento - Uberaba;3) Interior de MG;TENTADO;1
+315690;SACRAMENTO;2022-05-29;5;2022;5º Departamento - Uberaba;3) Interior de MG;TENTADO;1
+315727;SANTA BARBARA DO MONTE VERDE;2022-11-16;11;2022;4º Departamento - Juiz de Fora;3) Interior de MG;TENTADO;1
+315780;SANTA LUZIA;2022-02-10;2;2022;3º Departamento - Vespasiano;2) RMBH (sem BH);TENTADO;1
+315780;SANTA LUZIA;2022-02-15;2;2022;3º Departamento - Vespasiano;2) RMBH (sem BH);TENTADO;2
+315780;SANTA LUZIA;2022-10-23;10;2022;3º Departamento - Vespasiano;2) RMBH (sem BH);TENTADO;1
+315790;SANTA MARGARIDA;2022-01-15;1;2022;12º Departamento - Ipatinga;3) Interior de MG;TENTADO;1
+315895;SANTANA DO PARAISO;2022-04-30;4;2022;12º Departamento - Ipatinga;3) Interior de MG;TENTADO;1
+315895;SANTANA DO PARAISO;2022-11-15;11;2022;12º Departamento - Ipatinga;3) Interior de MG;TENTADO;1
+315960;SANTA RITA DO SAPUCAI;2022-12-07;12;2022;17º Departamento - Pouso Alegre;3) Interior de MG;TENTADO;1
+316110;SAO FRANCISCO;2022-05-27;5;2022;11º Departamento - Montes Claros;3) Interior de MG;TENTADO;1
+316150;SAO GERALDO;2022-03-19;3;2022;4º Departamento - Juiz de Fora;3) Interior de MG;TENTADO;1
+316180;SAO GONCALO DO PARA;2022-12-22;12;2022;7º Departamento - Divinópolis;3) Interior de MG;TENTADO;1
+316210;SAO GOTARDO;2022-06-24;6;2022;10º Departamento - Patos de Minas;3) Interior de MG;TENTADO;1
+316210;SAO GOTARDO;2022-10-15;10;2022;10º Departamento - Patos de Minas;3) Interior de MG;TENTADO;1
+316225;SAO JOAO DA LAGOA;2022-03-18;3;2022;11º Departamento - Montes Claros;3) Interior de MG;TENTADO;1
+316250;SAO JOAO DEL REI;2022-02-14;2;2022;13º Departamento - Barbacena;3) Interior de MG;TENTADO;1
+316260;SAO JOAO DO ORIENTE;2022-05-21;5;2022;12º Departamento - Ipatinga;3) Interior de MG;TENTADO;1
+316340;SAO JOSE DO GOIABAL;2022-03-26;3;2022;12º Departamento - Ipatinga;3) Interior de MG;TENTADO;1
+316400;SAO PEDRO DOS FERROS;2022-10-03;10;2022;12º Departamento - Ipatinga;3) Interior de MG;TENTADO;1
+316470;SAO SEBASTIAO PARAISO;2022-12-17;12;2022;18º Departamento - Poços de Caldas;3) Interior de MG;TENTADO;1
+316553;SARZEDO;2022-11-13;11;2022;2º Departamento - Contagem;2) RMBH (sem BH);TENTADO;1
+316720;SETE LAGOAS;2022-01-19;1;2022;19º Departamento - Sete Lagoas;3) Interior de MG;TENTADO;1
+316720;SETE LAGOAS;2022-01-25;1;2022;19º Departamento - Sete Lagoas;3) Interior de MG;TENTADO;1
+316720;SETE LAGOAS;2022-01-29;1;2022;19º Departamento - Sete Lagoas;3) Interior de MG;TENTADO;1
+316860;TEOFILO OTONI;2022-06-03;6;2022;15º Departamento - Teófilo Otoni;3) Interior de MG;TENTADO;1
+316930;TRES CORACOES;2022-03-13;3;2022;6º Departamento - Lavras;3) Interior de MG;TENTADO;1
+316990;UBA;2022-05-14;5;2022;4º Departamento - Juiz de Fora;3) Interior de MG;TENTADO;1
+316990;UBA;2022-06-20;6;2022;4º Departamento - Juiz de Fora;3) Interior de MG;TENTADO;1
+316990;UBA;2022-12-24;12;2022;4º Departamento - Juiz de Fora;3) Interior de MG;TENTADO;1
+317010;UBERABA;2022-04-03;4;2022;5º Departamento - Uberaba;3) Interior de MG;TENTADO;1
+317020;UBERLANDIA;2022-02-10;2;2022;9º Departamento - Uberlândia;3) Interior de MG;TENTADO;1
+317020;UBERLANDIA;2022-03-09;3;2022;9º Departamento - Uberlândia;3) Interior de MG;TENTADO;1
+317020;UBERLANDIA;2022-05-09;5;2022;9º Departamento - Uberlândia;3) Interior de MG;TENTADO;1
+317020;UBERLANDIA;2022-05-16;5;2022;9º Departamento - Uberlândia;3) Interior de MG;TENTADO;1
+317020;UBERLANDIA;2022-07-11;7;2022;9º Departamento - Uberlândia;3) Interior de MG;TENTADO;1
+317020;UBERLANDIA;2022-09-25;9;2022;9º Departamento - Uberlândia;3) Interior de MG;TENTADO;1
+317020;UBERLANDIA;2022-12-25;12;2022;9º Departamento - Uberlândia;3) Interior de MG;TENTADO;1
+317040;UNAI;2022-10-11;10;2022;16º Departamento - Unaí;3) Interior de MG;TENTADO;1
+317052;URUCUIA;2022-02-23;2;2022;16º Departamento - Unaí;3) Interior de MG;TENTADO;1
+317052;URUCUIA;2022-04-26;4;2022;16º Departamento - Unaí;3) Interior de MG;TENTADO;1
+317070;VARGINHA;2022-03-24;3;2022;6º Departamento - Lavras;3) Interior de MG;TENTADO;1
+317107;VEREDINHA;2022-05-23;5;2022;14º Departamento - Curvelo;3) Interior de MG;TENTADO;1
+317200;VISCONDE DO RIO BRANCO;2022-02-19;2;2022;4º Departamento - Juiz de Fora;3) Interior de MG;TENTADO;1
+317200;VISCONDE DO RIO BRANCO;2022-04-11;4;2022;4º Departamento - Juiz de Fora;3) Interior de MG;TENTADO;1
+310090;AGUAS FORMOSAS;2022-06-07;6;2022;15º Departamento - Teófilo Otoni;3) Interior de MG;CONSUMADO;1
+310160;ALFENAS;2022-09-19;9;2022;18º Departamento - Poços de Caldas;3) Interior de MG;CONSUMADO;1
+310270;CACHOEIRA DE PAJEU;2022-03-23;3;2022;15º Departamento - Teófilo Otoni;3) Interior de MG;CONSUMADO;1
+310270;CACHOEIRA DE PAJEU;2022-05-25;5;2022;15º Departamento - Teófilo Otoni;3) Interior de MG;CONSUMADO;1
+310270;CACHOEIRA DE PAJEU;2022-09-18;9;2022;15º Departamento - Teófilo Otoni;3) Interior de MG;CONSUMADO;1
+310340;ARACUAI;2022-09-02;9;2022;15º Departamento - Teófilo Otoni;3) Interior de MG;CONSUMADO;1
+310350;ARAGUARI;2022-07-11;7;2022;9º Departamento - Uberlândia;3) Interior de MG;CONSUMADO;1
+310375;ARAPORA;2022-07-31;7;2022;9º Departamento - Uberlândia;3) Interior de MG;CONSUMADO;1
+310400;ARAXA;2022-08-06;8;2022;5º Departamento - Uberaba;3) Interior de MG;CONSUMADO;1
+310420;ARCOS;2022-02-06;2;2022;7º Departamento - Divinópolis;3) Interior de MG;CONSUMADO;1
+310620;BELO HORIZONTE;2022-02-13;2;2022;1º Departamento - Belo Horizonte;1) Belo Horizonte;CONSUMADO;1
+310620;BELO HORIZONTE;2022-03-07;3;2022;1º Departamento - Belo Horizonte;1) Belo Horizonte;CONSUMADO;1
+310620;BELO HORIZONTE;2022-03-27;3;2022;1º Departamento - Belo Horizonte;1) Belo Horizonte;CONSUMADO;1
+310620;BELO HORIZONTE;2022-01-14;1;2022;1º Departamento - Belo Horizonte;1) Belo Horizonte;CONSUMADO;1
+310620;BELO HORIZONTE;2022-04-24;4;2022;1º Departamento - Belo Horizonte;1) Belo Horizonte;CONSUMADO;1
+310620;BELO HORIZONTE;2022-04-21;4;2022;1º Departamento - Belo Horizonte;1) Belo Horizonte;CONSUMADO;1
+310620;BELO HORIZONTE;2022-06-05;6;2022;1º Departamento - Belo Horizonte;1) Belo Horizonte;CONSUMADO;1
+310620;BELO HORIZONTE;2022-06-19;6;2022;1º Departamento - Belo Horizonte;1) Belo Horizonte;CONSUMADO;1
+310620;BELO HORIZONTE;2022-06-08;6;2022;1º Departamento - Belo Horizonte;1) Belo Horizonte;CONSUMADO;1
+310620;BELO HORIZONTE;2022-07-23;7;2022;1º Departamento - Belo Horizonte;1) Belo Horizonte;CONSUMADO;1
+310620;BELO HORIZONTE;2022-05-17;5;2022;1º Departamento - Belo Horizonte;1) Belo Horizonte;CONSUMADO;1
+310620;BELO HORIZONTE;2022-08-04;8;2022;1º Departamento - Belo Horizonte;1) Belo Horizonte;CONSUMADO;1
+310620;BELO HORIZONTE;2022-08-09;8;2022;1º Departamento - Belo Horizonte;1) Belo Horizonte;CONSUMADO;1
+310620;BELO HORIZONTE;2022-12-24;12;2022;1º Departamento - Belo Horizonte;1) Belo Horizonte;CONSUMADO;1
+310670;BETIM;2022-07-17;7;2022;2º Departamento - Contagem;2) RMBH (sem BH);CONSUMADO;1
+310670;BETIM;2022-05-03;5;2022;2º Departamento - Contagem;2) RMBH (sem BH);CONSUMADO;1
+310670;BETIM;2022-08-29;8;2022;2º Departamento - Contagem;2) RMBH (sem BH);CONSUMADO;1
+310670;BETIM;2022-09-14;9;2022;2º Departamento - Contagem;2) RMBH (sem BH);CONSUMADO;1
+310670;BETIM;2022-10-16;10;2022;2º Departamento - Contagem;2) RMBH (sem BH);CONSUMADO;1
+310730;BOCAIUVA;2022-11-08;11;2022;11º Departamento - Montes Claros;3) Interior de MG;CONSUMADO;1
+310740;BOM DESPACHO;2022-02-02;2;2022;7º Departamento - Divinópolis;3) Interior de MG;CONSUMADO;1
+310855;BRASILANDIA DE MINAS;2022-11-10;11;2022;16º Departamento - Unaí;3) Interior de MG;CONSUMADO;1
+310900;BRUMADINHO;2022-07-12;7;2022;2º Departamento - Contagem;2) RMBH (sem BH);CONSUMADO;3
+310940;BURITIZEIRO;2022-12-02;12;2022;14º Departamento - Curvelo;3) Interior de MG;CONSUMADO;1
+311090;CAMPANHA;2022-08-20;8;2022;6º Departamento - Lavras;3) Interior de MG;CONSUMADO;1
+311120;CAMPO BELO;2022-07-24;7;2022;6º Departamento - Lavras;3) Interior de MG;CONSUMADO;1
+311130;CAMPO DO MEIO;2022-03-23;3;2022;18º Departamento - Poços de Caldas;3) Interior de MG;CONSUMADO;1
+311230;CAPELINHA;2022-05-25;5;2022;14º Departamento - Curvelo;3) Interior de MG;CONSUMADO;1
+311230;CAPELINHA;2022-05-27;5;2022;14º Departamento - Curvelo;3) Interior de MG;CONSUMADO;1
+311340;CARATINGA;2022-10-08;10;2022;12º Departamento - Ipatinga;3) Interior de MG;CONSUMADO;1
+311350;CARBONITA;2022-02-04;2;2022;14º Departamento - Curvelo;3) Interior de MG;CONSUMADO;1
+311420;CARMO DO CAJURU;2022-06-30;6;2022;7º Departamento - Divinópolis;3) Interior de MG;CONSUMADO;1
+311420;CARMO DO CAJURU;2022-11-28;11;2022;7º Departamento - Divinópolis;3) Interior de MG;CONSUMADO;1
+311430;CARMO DO PARANAIBA;2022-11-12;11;2022;10º Departamento - Patos de Minas;3) Interior de MG;CONSUMADO;1
+311530;CATAGUASES;2022-02-04;2;2022;4º Departamento - Juiz de Fora;3) Interior de MG;CONSUMADO;1
+311730;CONCEICAO DAS ALAGOAS;2022-03-18;3;2022;5º Departamento - Uberaba;3) Interior de MG;CONSUMADO;1
+311860;CONTAGEM;2022-05-04;5;2022;2º Departamento - Contagem;2) RMBH (sem BH);CONSUMADO;1
+311950;CORONEL MURTA;2022-10-13;10;2022;15º Departamento - Teófilo Otoni;3) Interior de MG;CONSUMADO;1
+312090;CURVELO;2022-05-15;5;2022;14º Departamento - Curvelo;3) Interior de MG;CONSUMADO;1
+312230;DIVINOPOLIS;2022-05-30;5;2022;7º Departamento - Divinópolis;3) Interior de MG;CONSUMADO;2
+312360;ELOI MENDES;2022-08-11;8;2022;6º Departamento - Lavras;3) Interior de MG;CONSUMADO;1
+312410;ESMERALDAS;2022-07-30;7;2022;2º Departamento - Contagem;2) RMBH (sem BH);CONSUMADO;1
+312430;ESPINOSA;2022-11-01;11;2022;11º Departamento - Montes Claros;3) Interior de MG;CONSUMADO;1
+312490;EUGENOPOLIS;2022-06-19;6;2022;4º Departamento - Juiz de Fora;3) Interior de MG;CONSUMADO;1
+312530;FARIA LEMOS;2022-03-05;3;2022;4º Departamento - Juiz de Fora;3) Interior de MG;CONSUMADO;2
+312590;FERROS;2022-08-31;8;2022;12º Departamento - Ipatinga;3) Interior de MG;CONSUMADO;1
+312610;FORMIGA;2022-05-26;5;2022;7º Departamento - Divinópolis;3) Interior de MG;CONSUMADO;1
+312630;FORTALEZA DE MINAS;2022-10-10;10;2022;18º Departamento - Poços de Caldas;3) Interior de MG;CONSUMADO;1
+312710;FRUTAL;2022-11-15;11;2022;5º Departamento - Uberaba;3) Interior de MG;CONSUMADO;1
+312750;GONZAGA;2022-12-25;12;2022;8º Departamento - Governador Valadares;3) Interior de MG;CONSUMADO;1
+312770;GOVERNADOR VALADARES;2022-08-29;8;2022;8º Departamento - Governador Valadares;3) Interior de MG;CONSUMADO;1
+312770;GOVERNADOR VALADARES;2022-09-21;9;2022;8º Departamento - Governador Valadares;3) Interior de MG;CONSUMADO;1
+312800;GUANHAES;2022-10-09;10;2022;8º Departamento - Governador Valadares;3) Interior de MG;CONSUMADO;1
+312800;GUANHAES;2022-11-09;11;2022;8º Departamento - Governador Valadares;3) Interior de MG;CONSUMADO;1
+312980;IBIRITE;2022-05-11;5;2022;2º Departamento - Contagem;2) RMBH (sem BH);CONSUMADO;1
+312980;IBIRITE;2022-10-19;10;2022;2º Departamento - Contagem;2) RMBH (sem BH);CONSUMADO;1
+313010;IGARAPE;2022-04-08;4;2022;2º Departamento - Contagem;2) RMBH (sem BH);CONSUMADO;1
+313010;IGARAPE;2022-07-29;7;2022;2º Departamento - Contagem;2) RMBH (sem BH);CONSUMADO;1
+313130;IPATINGA;2022-04-22;4;2022;12º Departamento - Ipatinga;3) Interior de MG;CONSUMADO;1
+313170;ITABIRA;2022-07-13;7;2022;12º Departamento - Ipatinga;3) Interior de MG;CONSUMADO;1
+313230;ITAIPE;2022-07-29;7;2022;15º Departamento - Teófilo Otoni;3) Interior de MG;CONSUMADO;1
+313250;ITAMARANDIBA;2022-04-18;4;2022;14º Departamento - Curvelo;3) Interior de MG;CONSUMADO;1
+313380;ITAUNA;2022-03-04;3;2022;7º Departamento - Divinópolis;3) Interior de MG;CONSUMADO;1
+313400;ITINGA;2022-05-28;5;2022;15º Departamento - Teófilo Otoni;3) Interior de MG;CONSUMADO;1
+313440;ITURAMA;2022-12-27;12;2022;5º Departamento - Uberaba;3) Interior de MG;CONSUMADO;1
+313460;JABOTICATUBAS;2022-09-24;9;2022;3º Departamento - Vespasiano;2) RMBH (sem BH);CONSUMADO;1
+313460;JABOTICATUBAS;2022-11-24;11;2022;3º Departamento - Vespasiano;2) RMBH (sem BH);CONSUMADO;1
+313520;JANUARIA;2022-03-03;3;2022;11º Departamento - Montes Claros;3) Interior de MG;CONSUMADO;1
+313550;JEQUERI;2022-03-28;3;2022;12º Departamento - Ipatinga;3) Interior de MG;CONSUMADO;1
+313630;JOAO PINHEIRO;2022-02-26;2;2022;16º Departamento - Unaí;3) Interior de MG;CONSUMADO;1
+313650;JORDANIA;2022-06-30;6;2022;15º Departamento - Teófilo Otoni;3) Interior de MG;CONSUMADO;1
+313670;JUIZ DE FORA;2022-02-26;2;2022;4º Departamento - Juiz de Fora;3) Interior de MG;CONSUMADO;1
+313670;JUIZ DE FORA;2022-03-13;3;2022;4º Departamento - Juiz de Fora;3) Interior de MG;CONSUMADO;1
+313670;JUIZ DE FORA;2022-10-17;10;2022;4º Departamento - Juiz de Fora;3) Interior de MG;CONSUMADO;1
+313720;LAGOA DA PRATA;2022-02-13;2;2022;7º Departamento - Divinópolis;3) Interior de MG;CONSUMADO;1
+313720;LAGOA DA PRATA;2022-11-19;11;2022;7º Departamento - Divinópolis;3) Interior de MG;CONSUMADO;1
+313750;LAGOA FORMOSA;2022-03-19;3;2022;10º Departamento - Patos de Minas;3) Interior de MG;CONSUMADO;1
+313753;LAGOA GRANDE;2022-08-02;8;2022;10º Departamento - Patos de Minas;3) Interior de MG;CONSUMADO;1
+313760;LAGOA SANTA;2022-12-03;12;2022;3º Departamento - Vespasiano;2) RMBH (sem BH);CONSUMADO;1
+313840;LEOPOLDINA;2022-05-04;5;2022;4º Departamento - Juiz de Fora;3) Interior de MG;CONSUMADO;1
+313940;MANHUACU;2022-01-01;1;2022;12º Departamento - Ipatinga;3) Interior de MG;CONSUMADO;1
+313940;MANHUACU;2022-10-01;10;2022;12º Departamento - Ipatinga;3) Interior de MG;CONSUMADO;1
+313960;MANTENA;2022-03-26;3;2022;8º Departamento - Governador Valadares;3) Interior de MG;CONSUMADO;1
+313980;MAR DE ESPANHA;2022-08-06;8;2022;4º Departamento - Juiz de Fora;3) Interior de MG;CONSUMADO;1
+314140;MEDINA;2022-03-12;3;2022;15º Departamento - Teófilo Otoni;3) Interior de MG;CONSUMADO;1
+314300;MONTE BELO;2022-10-30;10;2022;18º Departamento - Poços de Caldas;3) Interior de MG;CONSUMADO;1
+314310;MONTE CARMELO;2022-12-25;12;2022;10º Departamento - Patos de Minas;3) Interior de MG;CONSUMADO;1
+314330;MONTES CLAROS;2022-03-10;3;2022;11º Departamento - Montes Claros;3) Interior de MG;CONSUMADO;1
+314330;MONTES CLAROS;2022-12-02;12;2022;11º Departamento - Montes Claros;3) Interior de MG;CONSUMADO;1
+314340;MONTE SIAO;2022-02-08;2;2022;17º Departamento - Pouso Alegre;3) Interior de MG;CONSUMADO;1
+314520;NOVA SERRANA;2022-09-30;9;2022;7º Departamento - Divinópolis;3) Interior de MG;CONSUMADO;1
+314590;OURO BRANCO;2022-06-10;6;2022;13º Departamento - Barbacena;3) Interior de MG;CONSUMADO;1
+314590;OURO BRANCO;2022-12-10;12;2022;13º Departamento - Barbacena;3) Interior de MG;CONSUMADO;1
+314600;OURO FINO;2022-07-22;7;2022;17º Departamento - Pouso Alegre;3) Interior de MG;CONSUMADO;1
+314610;OURO PRETO;2022-12-05;12;2022;3º Departamento - Vespasiano;3) Interior de MG;CONSUMADO;1
+314710;PARA DE MINAS;2022-08-15;8;2022;7º Departamento - Divinópolis;3) Interior de MG;CONSUMADO;1
+314710;PARA DE MINAS;2022-12-13;12;2022;7º Departamento - Divinópolis;3) Interior de MG;CONSUMADO;1
+314710;PARA DE MINAS;2022-04-16;4;2022;7º Departamento - Divinópolis;3) Interior de MG;CONSUMADO;1
+314790;PASSOS;2022-10-02;10;2022;18º Departamento - Poços de Caldas;3) Interior de MG;CONSUMADO;1
+314800;PATOS DE MINAS;2022-04-29;4;2022;10º Departamento - Patos de Minas;3) Interior de MG;CONSUMADO;1
+314800;PATOS DE MINAS;2022-08-07;8;2022;10º Departamento - Patos de Minas;3) Interior de MG;CONSUMADO;1
+314800;PATOS DE MINAS;2022-10-15;10;2022;10º Departamento - Patos de Minas;3) Interior de MG;CONSUMADO;1
+314800;PATOS DE MINAS;2022-11-12;11;2022;10º Departamento - Patos de Minas;3) Interior de MG;CONSUMADO;1
+314980;PERDIZES;2022-04-09;4;2022;5º Departamento - Uberaba;3) Interior de MG;CONSUMADO;1
+314980;PERDIZES;2022-07-22;7;2022;5º Departamento - Uberaba;3) Interior de MG;CONSUMADO;1
+315140;PITANGUI;2022-03-29;3;2022;7º Departamento - Divinópolis;3) Interior de MG;CONSUMADO;1
+315180;POCOS DE CALDAS;2022-07-21;7;2022;18º Departamento - Poços de Caldas;3) Interior de MG;CONSUMADO;1
+315200;POMPEU;2022-05-14;5;2022;7º Departamento - Divinópolis;3) Interior de MG;CONSUMADO;1
+315210;PONTE NOVA;2022-02-05;2;2022;12º Departamento - Ipatinga;3) Interior de MG;CONSUMADO;1
+315250;POUSO ALEGRE;2022-05-01;5;2022;17º Departamento - Pouso Alegre;3) Interior de MG;CONSUMADO;1
+315250;POUSO ALEGRE;2022-11-14;11;2022;17º Departamento - Pouso Alegre;3) Interior de MG;CONSUMADO;1
+315280;PRATA;2022-05-04;5;2022;9º Departamento - Uberlândia;3) Interior de MG;CONSUMADO;1
+315350;ALTO JEQUITIBA;2022-07-09;7;2022;12º Departamento - Ipatinga;3) Interior de MG;CONSUMADO;1
+315445;RIACHINHO;2022-04-13;4;2022;16º Departamento - Unaí;3) Interior de MG;CONSUMADO;1
+315460;RIBEIRAO DAS NEVES;2022-01-16;1;2022;2º Departamento - Contagem;2) RMBH (sem BH);CONSUMADO;1
+315460;RIBEIRAO DAS NEVES;2022-05-03;5;2022;2º Departamento - Contagem;2) RMBH (sem BH);CONSUMADO;1
+315670;SABARA;2022-03-11;3;2022;3º Departamento - Vespasiano;2) RMBH (sem BH);CONSUMADO;1
+315670;SABARA;2022-06-24;6;2022;3º Departamento - Vespasiano;2) RMBH (sem BH);CONSUMADO;1
+315700;SALINAS;2022-04-22;4;2022;11º Departamento - Montes Claros;3) Interior de MG;CONSUMADO;1
+315780;SANTA LUZIA;2022-10-17;10;2022;3º Departamento - Vespasiano;2) RMBH (sem BH);CONSUMADO;1
+315810;SANTA MARIA DO SALTO;2022-04-15;4;2022;15º Departamento - Teófilo Otoni;3) Interior de MG;CONSUMADO;1
+315990;SANTO ANTONIO DO AMPARO;2022-02-13;2;2022;6º Departamento - Lavras;3) Interior de MG;CONSUMADO;1
+316070;SANTOS DUMONT;2022-01-16;1;2022;13º Departamento - Barbacena;3) Interior de MG;CONSUMADO;1
+316070;SANTOS DUMONT;2022-05-27;5;2022;13º Departamento - Barbacena;3) Interior de MG;CONSUMADO;1
+316150;SAO GERALDO;2022-07-17;7;2022;4º Departamento - Juiz de Fora;3) Interior de MG;CONSUMADO;1
+316210;SAO GOTARDO;2022-11-26;11;2022;10º Departamento - Patos de Minas;3) Interior de MG;CONSUMADO;1
+316292;SAO JOAQUIM DE BICAS;2022-06-23;6;2022;2º Departamento - Contagem;2) RMBH (sem BH);CONSUMADO;1
+316310;SAO JOSE DA VARGINHA;2022-01-11;1;2022;7º Departamento - Divinópolis;3) Interior de MG;CONSUMADO;1
+316350;SAO JOSE DO JACURI;2022-04-10;4;2022;8º Departamento - Governador Valadares;3) Interior de MG;CONSUMADO;1
+316370;SAO LOURENCO;2022-11-05;11;2022;17º Departamento - Pouso Alegre;3) Interior de MG;CONSUMADO;2
+316410;SAO PEDRO DO SUACUI;2022-12-26;12;2022;8º Departamento - Governador Valadares;3) Interior de MG;CONSUMADO;1
+316420;SAO ROMAO;2022-01-03;1;2022;14º Departamento - Curvelo;3) Interior de MG;CONSUMADO;1
+316450;SAO SEBAST. DO MARANHAO;2022-09-06;9;2022;8º Departamento - Governador Valadares;3) Interior de MG;CONSUMADO;1
+316470;SAO SEBASTIAO PARAISO;2022-11-18;11;2022;18º Departamento - Poços de Caldas;3) Interior de MG;CONSUMADO;1
+316550;SARDOA;2022-04-03;4;2022;8º Departamento - Governador Valadares;3) Interior de MG;CONSUMADO;1
+316555;SETUBINHA;2022-10-30;10;2022;15º Departamento - Teófilo Otoni;3) Interior de MG;CONSUMADO;1
+316695;SERRANOPOLIS DE MINAS;2022-03-17;3;2022;11º Departamento - Montes Claros;3) Interior de MG;CONSUMADO;1
+316850;TEIXEIRAS;2022-08-11;8;2022;4º Departamento - Juiz de Fora;3) Interior de MG;CONSUMADO;1
+316860;TEOFILO OTONI;2022-05-28;5;2022;15º Departamento - Teófilo Otoni;3) Interior de MG;CONSUMADO;1
+316860;TEOFILO OTONI;2022-03-15;3;2022;15º Departamento - Teófilo Otoni;3) Interior de MG;CONSUMADO;1
+316860;TEOFILO OTONI;2022-06-04;6;2022;15º Departamento - Teófilo Otoni;3) Interior de MG;CONSUMADO;1
+316890;TIROS;2022-11-01;11;2022;10º Departamento - Patos de Minas;3) Interior de MG;CONSUMADO;1
+316900;TOCANTINS;2022-10-04;10;2022;4º Departamento - Juiz de Fora;3) Interior de MG;CONSUMADO;1
+316990;UBA;2022-10-27;10;2022;4º Departamento - Juiz de Fora;3) Interior de MG;CONSUMADO;1
+317000;UBAI;2022-12-29;12;2022;11º Departamento - Montes Claros;3) Interior de MG;CONSUMADO;1
+317000;UBAI;2022-12-13;12;2022;11º Departamento - Montes Claros;3) Interior de MG;CONSUMADO;1
+317005;UBAPORANGA;2022-09-07;9;2022;12º Departamento - Ipatinga;3) Interior de MG;CONSUMADO;1
+317010;UBERABA;2022-03-02;3;2022;5º Departamento - Uberaba;3) Interior de MG;CONSUMADO;1
+317010;UBERABA;2022-08-07;8;2022;5º Departamento - Uberaba;3) Interior de MG;CONSUMADO;1
+317020;UBERLANDIA;2022-07-12;7;2022;9º Departamento - Uberlândia;3) Interior de MG;CONSUMADO;1
+317020;UBERLANDIA;2022-11-30;11;2022;9º Departamento - Uberlândia;3) Interior de MG;CONSUMADO;1
+317070;VARGINHA;2022-01-17;1;2022;6º Departamento - Lavras;3) Interior de MG;CONSUMADO;1
+317070;VARGINHA;2022-05-30;5;2022;6º Departamento - Lavras;3) Interior de MG;CONSUMADO;1
+317075;VARJAO DE MINAS;2022-11-16;11;2022;10º Departamento - Patos de Minas;3) Interior de MG;CONSUMADO;1
+317090;VARZELANDIA;2022-12-23;12;2022;11º Departamento - Montes Claros;3) Interior de MG;CONSUMADO;1
+317120;VESPASIANO;2022-06-19;6;2022;3º Departamento - Vespasiano;2) RMBH (sem BH);CONSUMADO;1
+317150;MATHIAS LOBATO;2022-07-22;7;2022;8º Departamento - Governador Valadares;3) Interior de MG;CONSUMADO;1
+316630;SERICITA;2022-09-11;9;2022;12º Departamento - Ipatinga;3) Interior de MG;CONSUMADO;1
+316710;SERRO;2022-04-27;4;2022;14º Departamento - Curvelo;3) Interior de MG;CONSUMADO;1

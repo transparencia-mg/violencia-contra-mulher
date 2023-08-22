@@ -1,95 +1,177 @@
 ﻿municipio_cod;municipio_fato;data_fato;mes;ano;risp;rmbh;tentado_consumado;qtde_vitimas
-310620;BELO HORIZONTE;2023-01-01;1;2023;1º Departamento - Belo Horizonte;1) Belo Horizonte;TENTADO;1
-311570;CENTRAL DE MINAS;2023-01-01;1;2023;8º Departamento - Governador Valadares;3) Interior de MG;TENTADO;1
-312245;DIVISOPOLIS;2023-01-01;1;2023;15º Departamento - Teófilo Otoni;3) Interior de MG;CONSUMADO;1
-310350;ARAGUARI;2023-01-02;1;2023;9º Departamento - Uberlândia;3) Interior de MG;CONSUMADO;1
-315180;POCOS DE CALDAS;2023-01-02;1;2023;18º Departamento - Poços de Caldas;3) Interior de MG;CONSUMADO;1
-310620;BELO HORIZONTE;2023-01-06;1;2023;1º Departamento - Belo Horizonte;1) Belo Horizonte;TENTADO;1
-311860;CONTAGEM;2023-01-07;1;2023;2º Departamento - Contagem;2) RMBH (sem BH);CONSUMADO;1
-316870;TIMOTEO;2023-01-08;1;2023;12º Departamento - Ipatinga;3) Interior de MG;TENTADO;1
-311930;COROMANDEL;2023-01-08;1;2023;10º Departamento - Patos de Minas;3) Interior de MG;CONSUMADO;1
-312260;DOM JOAQUIM;2023-01-09;1;2023;14º Departamento - Curvelo;3) Interior de MG;TENTADO;1
-314280;MONTE ALEGRE DE MINAS;2023-01-09;1;2023;9º Departamento - Uberlândia;3) Interior de MG;CONSUMADO;1
-314330;MONTES CLAROS;2023-01-11;1;2023;11º Departamento - Montes Claros;3) Interior de MG;TENTADO;1
-311340;CARATINGA;2023-01-12;1;2023;12º Departamento - Ipatinga;3) Interior de MG;TENTADO;1
-314320;MONTE SANTO DE MINAS;2023-01-12;1;2023;18º Departamento - Poços de Caldas;3) Interior de MG;CONSUMADO;1
-310620;BELO HORIZONTE;2023-01-14;1;2023;1º Departamento - Belo Horizonte;1) Belo Horizonte;TENTADO;1
-314655;PAI PEDRO;2023-01-14;1;2023;11º Departamento - Montes Claros;3) Interior de MG;TENTADO;1
-310690;BICAS;2023-01-15;1;2023;4º Departamento - Juiz de Fora;3) Interior de MG;CONSUMADO;1
-313010;IGARAPE;2023-01-15;1;2023;2º Departamento - Contagem;2) RMBH (sem BH);CONSUMADO;1
-313550;JEQUERI;2023-01-15;1;2023;12º Departamento - Ipatinga;3) Interior de MG;CONSUMADO;1
-311570;CENTRAL DE MINAS;2023-01-15;1;2023;8º Departamento - Governador Valadares;3) Interior de MG;CONSUMADO;1
-317020;UBERLANDIA;2023-01-21;1;2023;9º Departamento - Uberlândia;3) Interior de MG;TENTADO;1
-312430;ESPINOSA;2023-01-21;1;2023;11º Departamento - Montes Claros;3) Interior de MG;CONSUMADO;1
-313440;ITURAMA;2023-01-21;1;2023;5º Departamento - Uberaba;3) Interior de MG;CONSUMADO;1
-311070;CAMBUQUIRA;2023-01-25;1;2023;6º Departamento - Lavras;3) Interior de MG;TENTADO;1
-314140;MEDINA;2023-01-27;1;2023;15º Departamento - Teófilo Otoni;3) Interior de MG;TENTADO;1
-317040;UNAI;2023-01-29;1;2023;16º Departamento - Unaí;3) Interior de MG;TENTADO;1
-317040;UNAI;2023-01-29;1;2023;16º Departamento - Unaí;3) Interior de MG;CONSUMADO;1
-312230;DIVINOPOLIS;2023-01-30;1;2023;7º Departamento - Divinópolis;3) Interior de MG;TENTADO;1
 310160;ALFENAS;2023-02-02;2;2023;18º Departamento - Poços de Caldas;3) Interior de MG;TENTADO;1
+310240;ALVORADA DE MINAS;2023-03-08;3;2023;14º Departamento - Curvelo;3) Interior de MG;TENTADO;1
+310350;ARAGUARI;2023-04-06;4;2023;9º Departamento - Uberlândia;3) Interior de MG;TENTADO;1
+310350;ARAGUARI;2023-06-22;6;2023;9º Departamento - Uberlândia;3) Interior de MG;TENTADO;1
+310350;ARAGUARI;2023-07-06;7;2023;9º Departamento - Uberlândia;3) Interior de MG;TENTADO;1
+310560;BARBACENA;2023-06-15;6;2023;13º Departamento - Barbacena;3) Interior de MG;TENTADO;1
+310620;BELO HORIZONTE;2023-01-01;1;2023;1º Departamento - Belo Horizonte;1) Belo Horizonte;TENTADO;1
+310620;BELO HORIZONTE;2023-01-06;1;2023;1º Departamento - Belo Horizonte;1) Belo Horizonte;TENTADO;1
+310620;BELO HORIZONTE;2023-01-14;1;2023;1º Departamento - Belo Horizonte;1) Belo Horizonte;TENTADO;1
+310620;BELO HORIZONTE;2023-02-19;2;2023;1º Departamento - Belo Horizonte;1) Belo Horizonte;TENTADO;1
+310620;BELO HORIZONTE;2023-02-23;2;2023;1º Departamento - Belo Horizonte;1) Belo Horizonte;TENTADO;2
+310620;BELO HORIZONTE;2023-03-21;3;2023;1º Departamento - Belo Horizonte;1) Belo Horizonte;TENTADO;1
+310620;BELO HORIZONTE;2023-04-02;4;2023;1º Departamento - Belo Horizonte;1) Belo Horizonte;TENTADO;1
+310620;BELO HORIZONTE;2023-04-29;4;2023;1º Departamento - Belo Horizonte;1) Belo Horizonte;TENTADO;1
+310620;BELO HORIZONTE;2023-05-15;5;2023;1º Departamento - Belo Horizonte;1) Belo Horizonte;TENTADO;1
+310620;BELO HORIZONTE;2023-05-21;5;2023;1º Departamento - Belo Horizonte;1) Belo Horizonte;TENTADO;1
+310620;BELO HORIZONTE;2023-06-08;6;2023;1º Departamento - Belo Horizonte;1) Belo Horizonte;TENTADO;2
+310620;BELO HORIZONTE;2023-06-17;6;2023;1º Departamento - Belo Horizonte;1) Belo Horizonte;TENTADO;1
+310620;BELO HORIZONTE;2023-07-30;7;2023;1º Departamento - Belo Horizonte;1) Belo Horizonte;TENTADO;1
+310670;BETIM;2023-02-12;2;2023;2º Departamento - Contagem;2) RMBH (sem BH);TENTADO;1
+310670;BETIM;2023-03-05;3;2023;2º Departamento - Contagem;2) RMBH (sem BH);TENTADO;1
+310670;BETIM;2023-06-21;6;2023;2º Departamento - Contagem;2) RMBH (sem BH);TENTADO;1
+310670;BETIM;2023-07-16;7;2023;2º Departamento - Contagem;2) RMBH (sem BH);TENTADO;1
+311020;CAJURI;2023-07-20;7;2023;4º Departamento - Juiz de Fora;3) Interior de MG;TENTADO;1
+311070;CAMBUQUIRA;2023-01-25;1;2023;6º Departamento - Lavras;3) Interior de MG;TENTADO;1
+311230;CAPELINHA;2023-04-10;4;2023;14º Departamento - Curvelo;3) Interior de MG;TENTADO;1
+311340;CARATINGA;2023-01-12;1;2023;12º Departamento - Ipatinga;3) Interior de MG;TENTADO;1
+311340;CARATINGA;2023-06-17;6;2023;12º Departamento - Ipatinga;3) Interior de MG;TENTADO;1
+311570;CENTRAL DE MINAS;2023-01-01;1;2023;8º Departamento - Governador Valadares;3) Interior de MG;TENTADO;1
+311800;CONGONHAS;2023-05-30;5;2023;13º Departamento - Barbacena;3) Interior de MG;TENTADO;1
+311820;CONQUISTA;2023-03-12;3;2023;5º Departamento - Uberaba;3) Interior de MG;TENTADO;1
+311860;CONTAGEM;2023-02-25;2;2023;2º Departamento - Contagem;2) RMBH (sem BH);TENTADO;1
+311860;CONTAGEM;2023-06-30;6;2023;2º Departamento - Contagem;2) RMBH (sem BH);TENTADO;1
+311860;CONTAGEM;2023-07-22;7;2023;2º Departamento - Contagem;2) RMBH (sem BH);TENTADO;1
+311930;COROMANDEL;2023-06-23;6;2023;10º Departamento - Patos de Minas;3) Interior de MG;TENTADO;1
+312230;DIVINOPOLIS;2023-01-30;1;2023;7º Departamento - Divinópolis;3) Interior de MG;TENTADO;1
+312260;DOM JOAQUIM;2023-01-09;1;2023;14º Departamento - Curvelo;3) Interior de MG;TENTADO;1
+312430;ESPINOSA;2023-06-23;6;2023;11º Departamento - Montes Claros;3) Interior de MG;TENTADO;1
+312760;GOUVEIA;2023-02-22;2;2023;14º Departamento - Curvelo;3) Interior de MG;TENTADO;1
+312980;IBIRITE;2023-04-08;4;2023;2º Departamento - Contagem;2) RMBH (sem BH);TENTADO;1
+312980;IBIRITE;2023-04-26;4;2023;2º Departamento - Contagem;2) RMBH (sem BH);TENTADO;1
+312980;IBIRITE;2023-06-23;6;2023;2º Departamento - Contagem;2) RMBH (sem BH);TENTADO;1
+313020;IGARATINGA;2023-04-15;4;2023;7º Departamento - Divinópolis;3) Interior de MG;TENTADO;1
+313130;IPATINGA;2023-02-26;2;2023;12º Departamento - Ipatinga;3) Interior de MG;TENTADO;1
+313190;ITABIRITO;2023-03-26;3;2023;3º Departamento - Vespasiano;3) Interior de MG;TENTADO;1
+313190;ITABIRITO;2023-04-05;4;2023;3º Departamento - Vespasiano;3) Interior de MG;TENTADO;1
+313670;JUIZ DE FORA;2023-03-08;3;2023;4º Departamento - Juiz de Fora;3) Interior de MG;TENTADO;1
+313670;JUIZ DE FORA;2023-05-05;5;2023;4º Departamento - Juiz de Fora;3) Interior de MG;TENTADO;1
+313670;JUIZ DE FORA;2023-06-26;6;2023;4º Departamento - Juiz de Fora;3) Interior de MG;TENTADO;1
+313670;JUIZ DE FORA;2023-07-30;7;2023;4º Departamento - Juiz de Fora;3) Interior de MG;TENTADO;1
+313940;MANHUACU;2023-04-06;4;2023;12º Departamento - Ipatinga;3) Interior de MG;TENTADO;1
+314140;MEDINA;2023-01-27;1;2023;15º Departamento - Teófilo Otoni;3) Interior de MG;TENTADO;1
+314330;MONTES CLAROS;2023-01-11;1;2023;11º Departamento - Montes Claros;3) Interior de MG;TENTADO;1
+314330;MONTES CLAROS;2023-04-16;4;2023;11º Departamento - Montes Claros;3) Interior de MG;TENTADO;1
+314390;MURIAE;2023-02-28;2;2023;4º Departamento - Juiz de Fora;3) Interior de MG;TENTADO;1
+314390;MURIAE;2023-07-08;7;2023;4º Departamento - Juiz de Fora;3) Interior de MG;TENTADO;1
+314655;PAI PEDRO;2023-01-14;1;2023;11º Departamento - Montes Claros;3) Interior de MG;TENTADO;1
+314800;PATOS DE MINAS;2023-03-27;3;2023;10º Departamento - Patos de Minas;3) Interior de MG;TENTADO;1
+314800;PATOS DE MINAS;2023-05-21;5;2023;10º Departamento - Patos de Minas;3) Interior de MG;TENTADO;1
+315100;PIRANGUINHO;2023-04-26;4;2023;17º Departamento - Pouso Alegre;3) Interior de MG;TENTADO;1
+315150;PIUMHI;2023-05-14;5;2023;18º Departamento - Poços de Caldas;3) Interior de MG;TENTADO;1
+315210;PONTE NOVA;2023-06-17;6;2023;12º Departamento - Ipatinga;3) Interior de MG;TENTADO;1
+315210;PONTE NOVA;2023-07-06;7;2023;12º Departamento - Ipatinga;3) Interior de MG;TENTADO;1
+315460;RIBEIRAO DAS NEVES;2023-03-03;3;2023;2º Departamento - Contagem;2) RMBH (sem BH);TENTADO;1
+315490;RIO CASCA;2023-06-13;6;2023;12º Departamento - Ipatinga;3) Interior de MG;TENTADO;1
+315540;RIO NOVO;2023-06-28;6;2023;4º Departamento - Juiz de Fora;3) Interior de MG;TENTADO;1
+315670;SABARA;2023-05-11;5;2023;3º Departamento - Vespasiano;2) RMBH (sem BH);TENTADO;1
+316250;SAO JOAO DEL REI;2023-07-02;7;2023;13º Departamento - Barbacena;3) Interior de MG;TENTADO;1
+316720;SETE LAGOAS;2023-03-01;3;2023;19º Departamento - Sete Lagoas;3) Interior de MG;TENTADO;1
+316870;TIMOTEO;2023-01-08;1;2023;12º Departamento - Ipatinga;3) Interior de MG;TENTADO;1
+316990;UBA;2023-07-28;7;2023;4º Departamento - Juiz de Fora;3) Interior de MG;TENTADO;1
+317020;UBERLANDIA;2023-01-21;1;2023;9º Departamento - Uberlândia;3) Interior de MG;TENTADO;1
+317020;UBERLANDIA;2023-04-30;4;2023;9º Departamento - Uberlândia;3) Interior de MG;TENTADO;1
+317020;UBERLANDIA;2023-07-16;7;2023;9º Departamento - Uberlândia;3) Interior de MG;TENTADO;1
+317040;UNAI;2023-01-29;1;2023;16º Departamento - Unaí;3) Interior de MG;TENTADO;1
+317040;UNAI;2023-05-19;5;2023;16º Departamento - Unaí;3) Interior de MG;TENTADO;1
+317130;VICOSA;2023-03-03;3;2023;4º Departamento - Juiz de Fora;3) Interior de MG;TENTADO;1
+315140;PITANGUI;2023-03-18;3;2023;7º Departamento - Divinópolis;3) Interior de MG;TENTADO;1
+315140;PITANGUI;2023-03-22;3;2023;7º Departamento - Divinópolis;3) Interior de MG;TENTADO;1
+315140;PITANGUI;2023-04-02;4;2023;7º Departamento - Divinópolis;3) Interior de MG;TENTADO;1
+314030;MARLIERIA;2023-05-06;5;2023;12º Departamento - Ipatinga;3) Interior de MG;TENTADO;1
+312860;GUARDA-MOR;2023-07-14;7;2023;16º Departamento - Unaí;3) Interior de MG;TENTADO;1
+315220;PORTEIRINHA;2023-07-22;7;2023;11º Departamento - Montes Claros;3) Interior de MG;TENTADO;1
+315220;PORTEIRINHA;2023-07-29;7;2023;11º Departamento - Montes Claros;3) Interior de MG;TENTADO;1
+310850;BOTUMIRIM;2023-07-23;7;2023;11º Departamento - Montes Claros;3) Interior de MG;TENTADO;1
+310160;ALFENAS;2023-05-06;5;2023;18º Departamento - Poços de Caldas;3) Interior de MG;CONSUMADO;1
+310350;ARAGUARI;2023-01-02;1;2023;9º Departamento - Uberlândia;3) Interior de MG;CONSUMADO;1
+310350;ARAGUARI;2023-05-05;5;2023;9º Departamento - Uberlândia;3) Interior de MG;CONSUMADO;1
+310420;ARCOS;2023-06-14;6;2023;7º Departamento - Divinópolis;3) Interior de MG;CONSUMADO;1
+310560;BARBACENA;2023-07-16;7;2023;13º Departamento - Barbacena;3) Interior de MG;CONSUMADO;1
+310620;BELO HORIZONTE;2023-02-11;2;2023;1º Departamento - Belo Horizonte;1) Belo Horizonte;CONSUMADO;1
+310620;BELO HORIZONTE;2023-03-11;3;2023;1º Departamento - Belo Horizonte;1) Belo Horizonte;CONSUMADO;1
+310620;BELO HORIZONTE;2023-03-15;3;2023;1º Departamento - Belo Horizonte;1) Belo Horizonte;CONSUMADO;2
+310620;BELO HORIZONTE;2023-03-02;3;2023;1º Departamento - Belo Horizonte;1) Belo Horizonte;CONSUMADO;1
+310620;BELO HORIZONTE;2023-04-29;4;2023;1º Departamento - Belo Horizonte;1) Belo Horizonte;CONSUMADO;1
+310620;BELO HORIZONTE;2023-05-22;5;2023;1º Departamento - Belo Horizonte;1) Belo Horizonte;CONSUMADO;1
+310620;BELO HORIZONTE;2023-06-04;6;2023;1º Departamento - Belo Horizonte;1) Belo Horizonte;CONSUMADO;1
+310670;BETIM;2023-02-25;2;2023;2º Departamento - Contagem;2) RMBH (sem BH);CONSUMADO;1
+310670;BETIM;2023-02-21;2;2023;2º Departamento - Contagem;2) RMBH (sem BH);CONSUMADO;1
+310670;BETIM;2023-05-23;5;2023;2º Departamento - Contagem;2) RMBH (sem BH);CONSUMADO;1
+310670;BETIM;2023-06-11;6;2023;2º Departamento - Contagem;2) RMBH (sem BH);CONSUMADO;1
+310690;BICAS;2023-01-15;1;2023;4º Departamento - Juiz de Fora;3) Interior de MG;CONSUMADO;1
+310860;BRASILIA DE MINAS;2023-05-06;5;2023;11º Departamento - Montes Claros;3) Interior de MG;CONSUMADO;1
+311340;CARATINGA;2023-05-09;5;2023;12º Departamento - Ipatinga;3) Interior de MG;CONSUMADO;2
+311530;CATAGUASES;2023-07-24;7;2023;4º Departamento - Juiz de Fora;3) Interior de MG;CONSUMADO;1
+311830;CONSELHEIRO LAFAIETE;2023-04-15;4;2023;13º Departamento - Barbacena;3) Interior de MG;CONSUMADO;1
+311860;CONTAGEM;2023-01-07;1;2023;2º Departamento - Contagem;2) RMBH (sem BH);CONSUMADO;1
 311860;CONTAGEM;2023-02-02;2;2023;2º Departamento - Contagem;2) RMBH (sem BH);CONSUMADO;1
+311860;CONTAGEM;2023-04-14;4;2023;2º Departamento - Contagem;2) RMBH (sem BH);CONSUMADO;1
+311860;CONTAGEM;2023-04-29;4;2023;2º Departamento - Contagem;2) RMBH (sem BH);CONSUMADO;1
+311860;CONTAGEM;2023-06-01;6;2023;2º Departamento - Contagem;2) RMBH (sem BH);CONSUMADO;1
+311930;COROMANDEL;2023-01-08;1;2023;10º Departamento - Patos de Minas;3) Interior de MG;CONSUMADO;1
+311995;CORREGO FUNDO;2023-07-27;7;2023;7º Departamento - Divinópolis;3) Interior de MG;CONSUMADO;1
+312245;DIVISOPOLIS;2023-01-01;1;2023;15º Departamento - Teófilo Otoni;3) Interior de MG;CONSUMADO;1
+312430;ESPINOSA;2023-01-21;1;2023;11º Departamento - Montes Claros;3) Interior de MG;CONSUMADO;1
+312710;FRUTAL;2023-07-02;7;2023;5º Departamento - Uberaba;3) Interior de MG;CONSUMADO;1
+312770;GOVERNADOR VALADARES;2023-06-01;6;2023;8º Departamento - Governador Valadares;3) Interior de MG;CONSUMADO;1
+312980;IBIRITE;2023-01-27;1;2023;2º Departamento - Contagem;2) RMBH (sem BH);CONSUMADO;1
+313010;IGARAPE;2023-01-15;1;2023;2º Departamento - Contagem;2) RMBH (sem BH);CONSUMADO;1
+313130;IPATINGA;2023-03-16;3;2023;12º Departamento - Ipatinga;3) Interior de MG;CONSUMADO;1
+313130;IPATINGA;2023-04-28;4;2023;12º Departamento - Ipatinga;3) Interior de MG;CONSUMADO;1
+313130;IPATINGA;2023-05-04;5;2023;12º Departamento - Ipatinga;3) Interior de MG;CONSUMADO;1
+313180;ITABIRINHA;2023-06-11;6;2023;8º Departamento - Governador Valadares;3) Interior de MG;CONSUMADO;1
+313240;ITAJUBA;2023-04-01;4;2023;17º Departamento - Pouso Alegre;3) Interior de MG;CONSUMADO;1
+313420;ITUIUTABA;2023-03-26;3;2023;9º Departamento - Uberlândia;3) Interior de MG;CONSUMADO;1
+313440;ITURAMA;2023-01-21;1;2023;5º Departamento - Uberaba;3) Interior de MG;CONSUMADO;1
+313550;JEQUERI;2023-01-15;1;2023;12º Departamento - Ipatinga;3) Interior de MG;CONSUMADO;1
+313620;JOAO MONLEVADE;2023-05-18;5;2023;12º Departamento - Ipatinga;3) Interior de MG;CONSUMADO;1
+313670;JUIZ DE FORA;2023-02-26;2;2023;4º Departamento - Juiz de Fora;3) Interior de MG;CONSUMADO;1
+313760;LAGOA SANTA;2023-07-13;7;2023;3º Departamento - Vespasiano;2) RMBH (sem BH);CONSUMADO;1
 314110;MATOZINHOS;2023-02-02;2;2023;19º Departamento - Sete Lagoas;2) RMBH (sem BH);CONSUMADO;1
+314280;MONTE ALEGRE DE MINAS;2023-01-09;1;2023;9º Departamento - Uberlândia;3) Interior de MG;CONSUMADO;1
+314320;MONTE SANTO DE MINAS;2023-01-12;1;2023;18º Departamento - Poços de Caldas;3) Interior de MG;CONSUMADO;1
+314330;MONTES CLAROS;2023-07-30;7;2023;11º Departamento - Montes Claros;3) Interior de MG;CONSUMADO;1
+314390;MURIAE;2023-04-04;4;2023;4º Departamento - Juiz de Fora;3) Interior de MG;CONSUMADO;1
+314600;OURO FINO;2023-04-05;4;2023;17º Departamento - Pouso Alegre;3) Interior de MG;CONSUMADO;1
+314610;OURO PRETO;2023-02-14;2;2023;3º Departamento - Vespasiano;3) Interior de MG;CONSUMADO;1
+314630;PADRE PARAISO;2023-03-18;3;2023;15º Departamento - Teófilo Otoni;3) Interior de MG;CONSUMADO;1
+314700;PARACATU;2023-04-22;4;2023;16º Departamento - Unaí;3) Interior de MG;CONSUMADO;1
+314700;PARACATU;2023-04-01;4;2023;16º Departamento - Unaí;3) Interior de MG;CONSUMADO;1
+314700;PARACATU;2023-05-26;5;2023;16º Departamento - Unaí;3) Interior de MG;CONSUMADO;1
+314700;PARACATU;2023-05-20;5;2023;16º Departamento - Unaí;3) Interior de MG;CONSUMADO;1
+314740;PARAOPEBA;2023-03-26;3;2023;19º Departamento - Sete Lagoas;3) Interior de MG;CONSUMADO;1
+315180;POCOS DE CALDAS;2023-01-02;1;2023;18º Departamento - Poços de Caldas;3) Interior de MG;CONSUMADO;1
+315460;RIBEIRAO DAS NEVES;2023-01-12;1;2023;2º Departamento - Contagem;2) RMBH (sem BH);CONSUMADO;1
+315460;RIBEIRAO DAS NEVES;2023-06-15;6;2023;2º Departamento - Contagem;2) RMBH (sem BH);CONSUMADO;1
+315895;SANTANA DO PARAISO;2023-04-07;4;2023;12º Departamento - Ipatinga;3) Interior de MG;CONSUMADO;1
+316870;TIMOTEO;2023-07-01;7;2023;12º Departamento - Ipatinga;3) Interior de MG;CONSUMADO;1
+316940;TRES PONTAS;2023-02-08;2;2023;6º Departamento - Lavras;3) Interior de MG;CONSUMADO;1
+317010;UBERABA;2023-04-01;4;2023;5º Departamento - Uberaba;3) Interior de MG;CONSUMADO;1
+317010;UBERABA;2023-05-10;5;2023;5º Departamento - Uberaba;3) Interior de MG;CONSUMADO;1
+317020;UBERLANDIA;2023-02-16;2;2023;9º Departamento - Uberlândia;3) Interior de MG;CONSUMADO;1
+317020;UBERLANDIA;2023-05-06;5;2023;9º Departamento - Uberlândia;3) Interior de MG;CONSUMADO;1
+317040;UNAI;2023-01-29;1;2023;16º Departamento - Unaí;3) Interior de MG;CONSUMADO;1
+317040;UNAI;2023-06-04;6;2023;16º Departamento - Unaí;3) Interior de MG;CONSUMADO;1
+311570;CENTRAL DE MINAS;2023-01-15;1;2023;8º Departamento - Governador Valadares;3) Interior de MG;CONSUMADO;1
 315950;SANTA RITA DO ITUETO;2023-02-06;2;2023;8º Departamento - Governador Valadares;3) Interior de MG;CONSUMADO;1
 314930;PEDRO LEOPOLDO;2023-02-07;2;2023;19º Departamento - Sete Lagoas;2) RMBH (sem BH);CONSUMADO;1
-316940;TRES PONTAS;2023-02-08;2;2023;6º Departamento - Lavras;3) Interior de MG;CONSUMADO;1
-310620;BELO HORIZONTE;2023-02-11;2;2023;1º Departamento - Belo Horizonte;1) Belo Horizonte;CONSUMADO;1
-310670;BETIM;2023-02-12;2;2023;2º Departamento - Contagem;2) RMBH (sem BH);TENTADO;1
-314610;OURO PRETO;2023-02-14;2;2023;3º Departamento - Vespasiano;3) Interior de MG;CONSUMADO;1
-317020;UBERLANDIA;2023-02-16;2;2023;9º Departamento - Uberlândia;3) Interior de MG;CONSUMADO;1
-310620;BELO HORIZONTE;2023-02-19;2;2023;1º Departamento - Belo Horizonte;1) Belo Horizonte;TENTADO;1
 314465;NINHEIRA;2023-02-20;2;2023;11º Departamento - Montes Claros;3) Interior de MG;CONSUMADO;1
-312760;GOUVEIA;2023-02-22;2;2023;14º Departamento - Curvelo;3) Interior de MG;TENTADO;1
-310620;BELO HORIZONTE;2023-02-23;2;2023;1º Departamento - Belo Horizonte;1) Belo Horizonte;TENTADO;2
-311860;CONTAGEM;2023-02-25;2;2023;2º Departamento - Contagem;2) RMBH (sem BH);TENTADO;1
-310670;BETIM;2023-02-25;2;2023;2º Departamento - Contagem;2) RMBH (sem BH);CONSUMADO;1
 313690;JURUAIA;2023-02-25;2;2023;18º Departamento - Poços de Caldas;3) Interior de MG;CONSUMADO;1
-313130;IPATINGA;2023-02-26;2;2023;12º Departamento - Ipatinga;3) Interior de MG;TENTADO;1
-313670;JUIZ DE FORA;2023-02-26;2;2023;4º Departamento - Juiz de Fora;3) Interior de MG;CONSUMADO;1
-315725;SANTA BARBARA DO LESTE;2023-02-27;2;2023;12º Departamento - Ipatinga;3) Interior de MG;CONSUMADO;1
-314390;MURIAE;2023-02-28;2;2023;4º Departamento - Juiz de Fora;3) Interior de MG;TENTADO;1
-316720;SETE LAGOAS;2023-03-01;3;2023;19º Departamento - Sete Lagoas;3) Interior de MG;TENTADO;1
-310620;BELO HORIZONTE;2023-03-02;3;2023;1º Departamento - Belo Horizonte;1) Belo Horizonte;CONSUMADO;1
-315460;RIBEIRAO DAS NEVES;2023-03-03;3;2023;2º Departamento - Contagem;2) RMBH (sem BH);TENTADO;1
-317130;VICOSA;2023-03-03;3;2023;4º Departamento - Juiz de Fora;3) Interior de MG;TENTADO;1
-310670;BETIM;2023-03-05;3;2023;2º Departamento - Contagem;2) RMBH (sem BH);TENTADO;1
 312160;DIAMANTINA;2023-03-06;3;2023;14º Departamento - Curvelo;3) Interior de MG;CONSUMADO;1
-310240;ALVORADA DE MINAS;2023-03-08;3;2023;14º Departamento - Curvelo;3) Interior de MG;TENTADO;1
-313670;JUIZ DE FORA;2023-03-08;3;2023;4º Departamento - Juiz de Fora;3) Interior de MG;TENTADO;1
-310620;BELO HORIZONTE;2023-03-11;3;2023;1º Departamento - Belo Horizonte;1) Belo Horizonte;CONSUMADO;1
-311820;CONQUISTA;2023-03-12;3;2023;5º Departamento - Uberaba;3) Interior de MG;TENTADO;1
-310620;BELO HORIZONTE;2023-03-15;3;2023;1º Departamento - Belo Horizonte;1) Belo Horizonte;CONSUMADO;2
 310720;BOCAINA DE MINAS;2023-03-15;3;2023;17º Departamento - Pouso Alegre;3) Interior de MG;CONSUMADO;1
-313130;IPATINGA;2023-03-16;3;2023;12º Departamento - Ipatinga;3) Interior de MG;CONSUMADO;1
 314530;NOVO CRUZEIRO;2023-03-16;3;2023;15º Departamento - Teófilo Otoni;3) Interior de MG;CONSUMADO;1
-315140;PITANGUI;2023-03-18;3;2023;7º Departamento - Divinópolis;3) Interior de MG;TENTADO;1
-314630;PADRE PARAISO;2023-03-18;3;2023;15º Departamento - Teófilo Otoni;3) Interior de MG;CONSUMADO;1
 310180;ALPERCATA;2023-03-20;3;2023;8º Departamento - Governador Valadares;3) Interior de MG;CONSUMADO;1
-310620;BELO HORIZONTE;2023-03-21;3;2023;1º Departamento - Belo Horizonte;1) Belo Horizonte;TENTADO;1
-315140;PITANGUI;2023-03-22;3;2023;7º Departamento - Divinópolis;3) Interior de MG;TENTADO;1
-313190;ITABIRITO;2023-03-26;3;2023;3º Departamento - Vespasiano;3) Interior de MG;TENTADO;1
-313420;ITUIUTABA;2023-03-26;3;2023;9º Departamento - Uberlândia;3) Interior de MG;CONSUMADO;1
 311940;CORONEL FABRICIANO;2023-03-26;3;2023;12º Departamento - Ipatinga;3) Interior de MG;CONSUMADO;1
-314800;PATOS DE MINAS;2023-03-27;3;2023;10º Departamento - Patos de Minas;3) Interior de MG;TENTADO;1
-313240;ITAJUBA;2023-04-01;4;2023;17º Departamento - Pouso Alegre;3) Interior de MG;CONSUMADO;1
-310620;BELO HORIZONTE;2023-04-02;4;2023;1º Departamento - Belo Horizonte;1) Belo Horizonte;TENTADO;1
-315140;PITANGUI;2023-04-02;4;2023;7º Departamento - Divinópolis;3) Interior de MG;TENTADO;1
-313190;ITABIRITO;2023-04-05;4;2023;3º Departamento - Vespasiano;3) Interior de MG;TENTADO;1
-314600;OURO FINO;2023-04-05;4;2023;17º Departamento - Pouso Alegre;3) Interior de MG;CONSUMADO;1
-310350;ARAGUARI;2023-04-06;4;2023;9º Departamento - Uberlândia;3) Interior de MG;TENTADO;1
-313940;MANHUACU;2023-04-06;4;2023;12º Departamento - Ipatinga;3) Interior de MG;TENTADO;1
-315895;SANTANA DO PARAISO;2023-04-07;4;2023;12º Departamento - Ipatinga;3) Interior de MG;CONSUMADO;1
-312980;IBIRITE;2023-04-08;4;2023;2º Departamento - Contagem;2) RMBH (sem BH);TENTADO;1
-311230;CAPELINHA;2023-04-10;4;2023;14º Departamento - Curvelo;3) Interior de MG;TENTADO;1
-311860;CONTAGEM;2023-04-14;4;2023;2º Departamento - Contagem;2) RMBH (sem BH);CONSUMADO;1
-313020;IGARATINGA;2023-04-15;4;2023;7º Departamento - Divinópolis;3) Interior de MG;TENTADO;2
-311830;CONSELHEIRO LAFAIETE;2023-04-15;4;2023;13º Departamento - Barbacena;3) Interior de MG;CONSUMADO;1
-314330;MONTES CLAROS;2023-04-16;4;2023;11º Departamento - Montes Claros;3) Interior de MG;TENTADO;1
-314710;PARA DE MINAS;2023-04-17;4;2023;7º Departamento - Divinópolis;3) Interior de MG;TENTADO;1
-314700;PARACATU;2023-04-22;4;2023;16º Departamento - Unaí;3) Interior de MG;CONSUMADO;1
-312980;IBIRITE;2023-04-26;4;2023;2º Departamento - Contagem;2) RMBH (sem BH);TENTADO;1
-315100;PIRANGUINHO;2023-04-26;4;2023;17º Departamento - Pouso Alegre;3) Interior de MG;TENTADO;1
+315725;SANTA BARBARA DO LESTE;2023-02-27;2;2023;12º Departamento - Ipatinga;3) Interior de MG;CONSUMADO;1
 311260;CAPINOPOLIS;2023-04-26;4;2023;9º Departamento - Uberlândia;3) Interior de MG;CONSUMADO;1
-310620;BELO HORIZONTE;2023-04-29;4;2023;1º Departamento - Belo Horizonte;1) Belo Horizonte;TENTADO;1
-310620;BELO HORIZONTE;2023-04-29;4;2023;1º Departamento - Belo Horizonte;1) Belo Horizonte;CONSUMADO;1
-317020;UBERLANDIA;2023-04-30;4;2023;9º Departamento - Uberlândia;3) Interior de MG;TENTADO;1
+310260;ANDRADAS;2023-05-06;5;2023;18º Departamento - Poços de Caldas;3) Interior de MG;CONSUMADO;1
+311550;CAXAMBU;2023-05-06;5;2023;17º Departamento - Pouso Alegre;3) Interior de MG;CONSUMADO;1
+312240;DIVISA NOVA;2023-05-07;5;2023;18º Departamento - Poços de Caldas;3) Interior de MG;CONSUMADO;1
+315890;SANTANA DO MANHUACU;2023-05-11;5;2023;12º Departamento - Ipatinga;3) Interior de MG;CONSUMADO;1
+310040;ACAIACA;2023-05-25;5;2023;12º Departamento - Ipatinga;3) Interior de MG;CONSUMADO;1
+314170;MESQUITA;2023-05-25;5;2023;12º Departamento - Ipatinga;3) Interior de MG;CONSUMADO;1
+312900;GUIRICEMA;2023-06-11;6;2023;4º Departamento - Juiz de Fora;3) Interior de MG;CONSUMADO;1
+310320;ARACAI;2023-05-14;5;2023;19º Departamento - Sete Lagoas;3) Interior de MG;CONSUMADO;1
+310930;BURITIS;2023-07-14;7;2023;16º Departamento - Unaí;3) Interior de MG;CONSUMADO;1
