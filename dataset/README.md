@@ -1,4 +1,4 @@
-teste [![Atualização](https://github.com/transparencia-mg/violencia-contra-mulher/actions/workflows/main.yaml/badge.svg)](https://github.com/transparencia-mg/violencia-contra-mulher/actions/workflows/main.yaml)
+[![Atualização](https://github.com/transparencia-mg/violencia-contra-mulher/actions/workflows/main.yaml/badge.svg)](https://github.com/transparencia-mg/violencia-contra-mulher/actions/workflows/main.yaml)
 
 Contém os registros estatísticos sobre Violência Doméstica e Familiar contra a Mulher e de Vítimas de Feminicídio no estado de Minas Gerais. Esses dados têm como fonte a [Polícia Civil de Minas Gerais](http://www.seguranca.mg.gov.br/component/gmg/page/3118-violencia-contra-a-mulher).
 
@@ -10,6 +10,7 @@ Os dados utilizados nessa planilha foram extraídos no Armazém de Dados do Sist
 
 O Armazém_Sids_Reds compila todos os REDS registrados em Minas Gerais, para todas as naturezas previstas. Por se tratar de um sistema integrado, o Armazém_Sids_Reds abrange notificações registradas pela Polícia Militar, Polícia Civil, Corpo de Bombeiros Militar, Sistema Prisional e Sistema Socioeducativo.
 
+As principais informações sobre Violência Doméstica contra a Mulher também podem ser acessadas no formato de  [Painel](https://app.powerbi.com/view?r=eyJrIjoiNjNkZTBlYTItYmI2OC00ODMxLTgyZTAtNmE2ZTUzM2NjMDhmIiwidCI6IjU2ZDBhNGVhLWRlNTgtNGI3OC1iYmRiLTNiODU0M2MwYjMxZiJ9).
 
 ## FEMINICÍDIOS
 
@@ -18,6 +19,8 @@ Os dados de Feminicídio tentado referentes aos anos de 2018 a 2023 foram extra�
 Quanto aos dados de Feminicídio consumado, a extração segue a mesma metodologia acima descrita até dezembro de 2018. A partir de janeiro de 2019, a fonte passa a ser o Sistema de Informatização e Gerenciamento dos Atos de Polícia Judiciária e Administrativa - PCnet, contemplando as duas incidências legais, situação de violência doméstica e familiar contra a mulher, bem como o menosprezo e discriminação pela condição de mulher.
 
 Salientamos que o correto preenchimento do Registro de Eventos de Defesa Social (REDS) é de fundamental importância para o alcance fidedigno dos resultados que são objeto deste relatório. Ademais, por se tratar de um Sistema integrado, os dados tratados contemplam as ocorrências elaboradas pelo Corpo de Bombeiros Militar, Departamento de Edificações e Estradas de Rodagem, Polícia Civil, Policia Militar, Polícia Rodoviária Federal, Sistema Prisional e Sistema Socioeducativo.  
+
+As principais informações sobre feminicídio também podem ser acessadas no formato de [Painel](https://app.powerbi.com/view?r=eyJrIjoiNjRlZDliOTItYjdlOC00YzljLTlhMjgtODZlM2MyNjFhYTBkIiwidCI6IjU2ZDBhNGVhLWRlNTgtNGI3OC1iYmRiLTNiODU0M2MwYjMxZiJ9).
 
 ## ATUALIZAÇÃO DOS DADOS
 
