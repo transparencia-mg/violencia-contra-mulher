@@ -2,21 +2,33 @@ import os
 import pandas as pd
 import re
 from unidecode import unidecode
+import config
 
-def convert_csv():
-  upload_files = os.listdir('upload')
-  for file in upload_files:
-    if file.endswith('.xlsx') or file.endswith('.xls'):
-        read_file = pd.read_excel (f'upload/{file}')
-        read_file = read_file \
-                    .replace('\n', ' ', regex=True) \
-                    .replace('\r', '', regex=True)
-        columns = read_file.columns
-        new_columns = []
-        for column in columns:
-            new_columns.append(snake_small_case(column))
-        csv_name = file.split('.xls')[0] # to xlsx and xls
-        read_file.columns=new_columns
+def find_all_files():
+    upload_files = os.listdir('upload')
+    for file in upload_files:
+        if file.endswith('.xlsx') or file.endswith('.xls'):
+            abas = config.abas.get(file)
+            if abas:
+                for aba in abas:
+                    convert_csv(file, aba)
+            else:
+                convert_csv(file)
+
+def convert_csv(file, aba=None):
+    read_file = pd.read_excel (f'upload/{file}', aba)
+    read_file = list(read_file.items())[0][1] if aba == None else read_file
+    read_file = read_file \
+                .replace('\n', ' ', regex=True) \
+                .replace('\r', '', regex=True)
+    columns = read_file.columns
+    new_columns = []
+    for column in columns:
+        new_columns.append(snake_small_case(column))
+    # import ipdb; ipdb.set_trace(context=10)
+    csv_name = file.split('.xls')[0]
+    csv_name = csv_name if aba == None else f'{aba}' # to xlsx and xls
+    read_file.columns=new_columns
 
     # Remove white spaces from the beginning and the end of all columns
     for column in new_columns:
@@ -44,4 +56,4 @@ def snake_small_case(column):
   return column
 
 if __name__ == '__main__':
-  convert_csv()
+    find_all_files()
