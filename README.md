@@ -149,9 +149,11 @@ Clicando em `Fork`, é possível listar todos os repositórios que foram gerados
 
 ![image](https://github.com/transparencia-mg/new-dataset-template/assets/52294411/55a59bac-d1b4-4383-ad0d-cb5dcfc5ac3d)
 
-### Dos dados nos novos repositórios criados
+### IMPORTANTE - Dos dados nos novos repositórios criados
 
-Para alterar qualquer arquivo referente aos dados publicados é **necessário estar dentro da pasta `dataset` para os aquivos: (README, CHANGELOG, CONTRIBUTING) ou dentro da pasta `upload` para os arquivos excel xlsx.** As modificações automáticas só serão publicadas no CKAN se as alterações forem realizadas nestas pastas. 
+Para alterar qualquer arquivo referente aos dados publicados é **necessário estar dentro da pasta `dataset` para os aquivos: (README, CHANGELOG, CONTRIBUTING,DATAPACKEGE.yaml) ou dentro da pasta `upload` para os arquivos excel xlsx.** As modificações automáticas só serão publicadas no CKAN se as alterações forem realizadas nestas pastas. 
+
+**ATENÇÃO: NÃO ALTERAR/EDITAR DATAPACKEGE.json, apenas mexer no DATAPACKEGE.yaml.**
 
 **ATENÇÃO: NÃO ALTERAR/EDITAR os arquivos da raiz do template.**:
 
