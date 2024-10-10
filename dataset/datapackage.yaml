@@ -85,6 +85,16 @@ resources:
     encoding: utf-8-sig
     dialect: schemas/dialect-v1.yaml
     schema: schemas/feminicidio_v1.yaml
+  - path: data/feminicidio_2024.csv
+    name: feminicidio-2024
+    title: Feminicidio 2024
+    profile: tabular-data-resource
+    scheme: file
+    format: csv
+    hashing: md5
+    encoding: utf-8-sig
+    dialect: schemas/dialect-v1.yaml
+    schema: schemas/feminicidio_v1.yaml
   - path: data/violencia_domestica_2014.csv
     name: violencia-contra-mulher-2014
     title: Violencia Contra Mulher 2014
@@ -185,5 +195,15 @@ resources:
     encoding: utf-8-sig
     dialect: schemas/dialect-v1.yaml
     schema: schemas/violencia_domestica_v1.yaml
- profile: tabular-data-package
+  - path: data/violencia_domestica_2024.csv
+    name: violencia-contra-mulher-2024
+    title: Violencia Contra Mulher 2024
+    profile: tabular-data-resource
+    scheme: file
+    format: csv
+    hashing: md5
+    encoding: utf-8-sig
+    dialect: schemas/dialect-v1.yaml
+    schema: schemas/violencia_domestica_v1.yaml
+profile: tabular-data-package
 
