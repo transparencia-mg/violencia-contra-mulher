@@ -434,50 +434,6 @@
             "description": "Ano de ocorrência do evento"
           },
           {
-      "path": "data/feminicidio_2024.csv",
-      "name": "feminicidio-2024",
-      "title": "Feminicidio 2024",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8-sig",
-      "dialect": {
-        "delimiter": ";"
-      },
-      "schema": {
-        "fields": [
-          {
-            "name": "municipio_cod",
-            "type": "integer",
-            "title": "Código do município",
-            "description": "Código do município do evento"
-          },
-          {
-            "name": "municipio_fato",
-            "type": "string",
-            "title": "Munícipio do fato",
-            "description": "Munícipio de ocorrência do evento"
-          },
-          {
-            "name": "data_fato",
-            "type": "date",
-            "title": "Data do fato",
-            "description": "Data de ocorrência do evento"
-          },
-          {
-            "name": "mes",
-            "type": "integer",
-            "title": "Mês do fato",
-            "description": "Mês de ocorrência do evento"
-          },
-          {
-            "name": "ano",
-            "type": "integer",
-            "title": "Ano do fato",
-            "description": "Ano de ocorrência do evento"
-          },
-          {
             "name": "risp",
             "type": "string",
             "title": "Região Integrada de Segurança Pública",
@@ -1207,41 +1163,9 @@
       }
     },
     {
-      "path": "data/violencia_domestica_2024.csv",
-      "name": "violencia-contra-mulher-2024",
-      "title": "Violencia Contra Mulher 2024",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8-sig",
-      "dialect": {
-        "delimiter": ";"
-      },
-      "schema": {
-        "fields": [
-          {
-            "name": "municipio_cod",
-            "type": "integer",
-            "title": "Código do Município",
-            "description": "Código do Município do Evento"
-          },
-          {
-            "name": "municipio_fato",
-            "type": "string",
-            "title": "Nome do Município",
-            "description": "Nome do Município do Evento"
-          },
-          {
-            "name": "data_fato",
-            "type": "date",
-            "title": "Data do fato",
-            "description": "data de ocorrência do evento"
-          },
-          {
-      "path": "data/violencia_domestica_2024.csv",
-      "name": "violencia-contra-mulher-2024",
-      "title": "Violencia Contra Mulher 2024",
+      "path": "data/violencia_domestica_2023.csv",
+      "name": "violencia-contra-mulher-2023",
+      "title": "Violencia Contra Mulher 2023",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
