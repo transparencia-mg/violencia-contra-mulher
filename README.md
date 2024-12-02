@@ -93,22 +93,6 @@ graph TD;
 
 ![ckan_chave_criada](https://imgur.com/4qgD7HS.png)
 
-### Cadastrar GitHub pages para mostrar relatório de validação:
-
-![fork_settings](https://imgur.com/I3OFQwu.png)
-
-![fork_pages](https://imgur.com/QMSmQ78.png)
-
-![fork_pages](https://imgur.com/dHStfzi.png)
-
-![image](https://github.com/transparencia-mg/new-dataset-template/assets/49699290/f66216ef-4faa-426d-8d49-002dcb5b9de0)
-
-### Configurar GitHub pages para link aparecer na página inicial do repositório:
-
-![pages](https://imgur.com/VtduVFv.png)
-
-![pages](https://imgur.com/TYN8J2Z.png)
-
 ### Configurar permissão para Actions ler e escrever no repositório:
 
 Caso a permissão para Actions ler e escrever no repositório não esteja habilitada, esta configuração deverá ser feita também no nível da organização.
@@ -117,13 +101,21 @@ Caso a permissão para Actions ler e escrever no repositório não esteja habili
 
 ![image](https://github.com/transparencia-mg/new-dataset-template/assets/49699290/7e5f739a-1b15-4bd1-a225-1cd75655d80b)
 
+### ACTIONS:
+
+Após finalizar os passos acima, clicar em Actions e selecionar o botão verde " I understand my workflows, go ahead and enable them"
+
+![image](https://github.com/user-attachments/assets/8be5b36d-4404-4409-8bdc-ef823c43641e)
+
+
 ### Incluir arquivo para publicação:
 
 Para rodar o processo automatizado é necessária a inclusão do arquivo .xlsx ou .xls na pasta de dados `upload` do novo repositório forkado e configurado.
 
 ![image](https://github.com/transparencia-mg/new-dataset-template/assets/53793354/8c6b1794-88e4-41c8-97c6-9fa751bce23f)
 
-Após a inclusão do arquivo o processo encontra-se concluído. Verifique se os dados foram corretamente publicados
+Após incluir o arquivo o processo encontra-se concluído. Verifique se os dados foram corretamente publicados
+
 
 ## Atualizações de dados
 
