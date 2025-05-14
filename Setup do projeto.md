@@ -1,6 +1,6 @@
 # Setup do projeto
 
-**Todas as etapas de preparação da base de dados a ser publicada e criação de usuários deverão estar finalizadas[^1] para realização dos passos descritos a seguir**.
+**Todas as etapas de preparação da base de dados a ser publicada e criação de usuários deverão estar finalizadas[^1] para realização dos passos descritos a seguir**
 
 ## 1- Fork do projeto
 
