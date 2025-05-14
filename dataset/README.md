@@ -2,7 +2,7 @@
 
 Contém os registros estatísticos sobre Violência Doméstica e Familiar contra a Mulher e de Vítimas de Feminicídio no estado de Minas Gerais. Esses dados têm como fonte a [Polícia Civil de Minas Gerais](http://www.seguranca.mg.gov.br/component/gmg/page/3118-violencia-contra-a-mulher).
 
-## VIOLÊNCIA DOMÉSTICA CONTRA A MULHER
+## Violência Doméstica contra Mulher 
 
 O Banco de violência doméstica contra a mulher abrange todos os registros de ocorrências com pelo menos 1 (uma) vítima do sexo feminino e com relação vítima/autor: Cônjuge/Companheiro; Ex-cônjuge/Ex-Companheiro; Cônjuge; Ex-cônjuge; Filho/Enteado; Irmão; Namorado (a); Relacionamento Extraconjugal; Pais/Responsável Legal; Coabitação/Hospitalidade/Relações Domésticas; Avós/Bisavós/Tataravós; Netos/Bisnetos/Tataranetos. Na seleção final dos dados, deixou-se de contabilizar registros atinentes à natureza de visita tranquilizadora.
 
@@ -12,7 +12,7 @@ O Armazém_Sids_Reds compila todos os REDS registrados em Minas Gerais, para tod
 
 As principais informações sobre Violência Doméstica contra a Mulher também podem ser acessadas no formato de  [Painel](https://app.powerbi.com/view?r=eyJrIjoiNjNkZTBlYTItYmI2OC00ODMxLTgyZTAtNmE2ZTUzM2NjMDhmIiwidCI6IjU2ZDBhNGVhLWRlNTgtNGI3OC1iYmRiLTNiODU0M2MwYjMxZiJ9).
 
-## FEMINICÍDIOS
+## Feminicidíos
 
 Os dados de Feminicídio tentado referentes aos anos de 2018 a 2023 foram extraídos do Armazém SIDS/REDS, cujas informações foram baseadas na natureza dada ao registro no momento de sua lavratura. Isso significa que possíveis alterações nas tipificações dos delitos, realizadas no momento de aceite no PCnet, não serão captadas pelo banco de dados utilizado para este relatório. Esclarecemos que os filtros do sistema Reds contemplam apenas a hipótese de violência doméstica e familiar contra mulher (art. 121, §2º-A, I), não abarcando o inciso relativo ao menosprezo ou discriminação à condição de mulher (art. 121, §2º-A, II), o que impossibilita a extração dos respectivos dados.
 
@@ -22,7 +22,28 @@ Salientamos que o correto preenchimento do Registro de Eventos de Defesa Social 
 
 As principais informações sobre feminicídio também podem ser acessadas no formato de [Painel](https://app.powerbi.com/view?r=eyJrIjoiNjRlZDliOTItYjdlOC00YzljLTlhMjgtODZlM2MyNjFhYTBkIiwidCI6IjU2ZDBhNGVhLWRlNTgtNGI3OC1iYmRiLTNiODU0M2MwYjMxZiJ9).
 
-## ATUALIZAÇÃO DOS DADOS
+## Atualização
 
 Os dados estão disponíveis a partir do ano de 2014, para os registros de violência doméstica, e de 2018, para os casos de feminicídio e serão atualizados mensalmente. Além disso, pela dinâmica de inserção de dados no REDS, um novo registro pode ser feito com a data do fato referente a qualquer mês ou ano anterior. Por isso, em uma pesquisa buscam-se os dados dos três meses anteriores. Como exemplo, na extração feita em 06 de agosto de 2018, foram buscados dados de maio, junho e julho de 2018. Dessa forma, os REDS inseridos em julho de 2018, mas que fazem referência a um fato acontecido em maio de 2018, também serão incluídos.
+
+## Como participar
+
+Saiba como contribuir com a documentação deste conjunto de dados!
+
+A documentação deste conjunto de dados está sendo feita de forma aberta e colaborativa no [Github](https://github.com/transparencia-mg/bens-tombados). Para enviar sua contribuição, por favor acesse:
+
+- [Pull requests](https://github.com/transparencia-mg/bens-tombados/pulls), no caso de sugerir uma alteração na documentação.
+
+Todas as contribuições são bem vindas. Alguns exemplos são:
+
+* Indicação de expressões imprecisas presentes na documentação;
+* Sugestões para inclusão de descrições em campos específicos;
+* Sugestões para clareza na organização das ideias;
+* Correção de erros de ortografia e gramática.
+
+Além disso, fique a vontade para utilizar os demais canais oficiais de atendimento do Poder Executivo Estadual:
+
+- [Fale Conosco](https://www.policiacivil.mg.gov.br/pagina/fale-conosco): Dúvidas
+- [Manifestações de Ouvidoria](http://www.ouvidoriageral.mg.gov.br/): Denúncia, Reclamação, Crítica, Elogio ou Sugestões
+- [Pedido de Acesso à Informação](http://www.acessoainformacao.mg.gov.br/sistema/site/index.html): Acesso às informações dos órgãos e entidades estaduais que não estejam publicamente disponíveis.
 
