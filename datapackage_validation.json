@@ -1,6 +1,6 @@
 {
   "version": "4.16.6",
-  "time": 45.783,
+  "time": 34.063,
   "errors": [],
   "tasks": [
     {
@@ -81,7 +81,7 @@
           "rows": 408
         }
       },
-      "time": 0.031,
+      "time": 0.026,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -187,7 +187,7 @@
           "rows": 364
         }
       },
-      "time": 0.028,
+      "time": 0.023,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -293,7 +293,7 @@
           "rows": 334
         }
       },
-      "time": 0.027,
+      "time": 0.023,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -399,7 +399,7 @@
           "rows": 322
         }
       },
-      "time": 0.026,
+      "time": 0.022,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -505,7 +505,7 @@
           "rows": 354
         }
       },
-      "time": 0.027,
+      "time": 0.023,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -611,7 +611,7 @@
           "rows": 347
         }
       },
-      "time": 0.026,
+      "time": 0.022,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -717,7 +717,7 @@
           "rows": 411
         }
       },
-      "time": 0.028,
+      "time": 0.025,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -823,7 +823,7 @@
           "rows": 381
         }
       },
-      "time": 0.027,
+      "time": 0.023,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -929,7 +929,7 @@
           "rows": 197
         }
       },
-      "time": 0.021,
+      "time": 0.018,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -1042,7 +1042,7 @@
           "rows": 103770
         }
       },
-      "time": 3.636,
+      "time": 2.831,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -1155,7 +1155,7 @@
           "rows": 102272
         }
       },
-      "time": 3.653,
+      "time": 2.793,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -1268,7 +1268,7 @@
           "rows": 102183
         }
       },
-      "time": 3.584,
+      "time": 2.826,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -1381,7 +1381,7 @@
           "rows": 103289
         }
       },
-      "time": 3.708,
+      "time": 2.853,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -1494,7 +1494,7 @@
           "rows": 102660
         }
       },
-      "time": 4.196,
+      "time": 2.828,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -1607,7 +1607,7 @@
           "rows": 105285
         }
       },
-      "time": 4.499,
+      "time": 2.89,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -1714,13 +1714,13 @@
           "scheme": "file"
         },
         "stats": {
-          "hash": "5a40ce94b33df8716beb86803b630922",
-          "bytes": 11958772,
+          "hash": "8b666a06e1e24fd9481824f93987047b",
+          "bytes": 11961410,
           "fields": 10,
           "rows": 102852
         }
       },
-      "time": 4.429,
+      "time": 2.841,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -1827,13 +1827,13 @@
           "scheme": "file"
         },
         "stats": {
-          "hash": "49da2423dd72a1226132a30fe7baa396",
-          "bytes": 12145067,
+          "hash": "fec688e48562c062e2af864fda589783",
+          "bytes": 12148747,
           "fields": 10,
           "rows": 103897
         }
       },
-      "time": 3.883,
+      "time": 2.879,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -1940,13 +1940,13 @@
           "scheme": "file"
         },
         "stats": {
-          "hash": "89bb8cd299482900b26e60e1390b9aa6",
-          "bytes": 12013442,
+          "hash": "26db82d7977c2a8ac72207a29ac61c11",
+          "bytes": 12016991,
           "fields": 10,
           "rows": 102660
         }
       },
-      "time": 4.045,
+      "time": 2.827,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -2059,7 +2059,7 @@
           "rows": 0
         }
       },
-      "time": 0.089,
+      "time": 0.064,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -2575,7 +2575,7 @@
             "2023",
             "13º Departamento - Barbacena",
             "3) Interior de MG",
-            "ATEND. DENUNCIA INFRACOES CONTRA MULHER(VIOLENCIA",
+            "ATEND. DENUNCIA INFRACOES CONTRA MULHER(VIOLENCIA ",
             "CONSUMADO",
             "1"
           ],
@@ -2635,7 +2635,7 @@
             "2023",
             "9º Departamento - Uberlândia",
             "3) Interior de MG",
-            "ATEND. DENUNCIA INFRACOES CONTRA MULHER(VIOLENCIA",
+            "ATEND. DENUNCIA INFRACOES CONTRA MULHER(VIOLENCIA ",
             "CONSUMADO",
             "1"
           ],
@@ -3205,7 +3205,7 @@
             "2023",
             "1º Departamento - Belo Horizonte",
             "1) Belo Horizonte",
-            "ATEND. DENUNCIA INFRACOES CONTRA MULHER(VIOLENCIA",
+            "ATEND. DENUNCIA INFRACOES CONTRA MULHER(VIOLENCIA ",
             "CONSUMADO",
             "1"
           ],
@@ -4375,7 +4375,7 @@
             "2023",
             "6º Departamento - Lavras",
             "3) Interior de MG",
-            "ATEND. DENUNCIA INFRACOES CONTRA MULHER(VIOLENCIA",
+            "ATEND. DENUNCIA INFRACOES CONTRA MULHER(VIOLENCIA ",
             "CONSUMADO",
             "1"
           ],
@@ -4585,7 +4585,7 @@
             "2023",
             "8º Departamento - Governador Valadares",
             "3) Interior de MG",
-            "ATEND. DENUNCIA INFRACOES CONTRA MULHER(VIOLENCIA",
+            "ATEND. DENUNCIA INFRACOES CONTRA MULHER(VIOLENCIA ",
             "CONSUMADO",
             "1"
           ],
@@ -5515,7 +5515,7 @@
             "2023",
             "17º Departamento - Pouso Alegre",
             "3) Interior de MG",
-            "ATEND. DENUNCIA INFRACOES CONTRA MULHER(VIOLENCIA",
+            "ATEND. DENUNCIA INFRACOES CONTRA MULHER(VIOLENCIA ",
             "CONSUMADO",
             "1"
           ],
@@ -7045,7 +7045,7 @@
             "2023",
             "5º Departamento - Uberaba",
             "3) Interior de MG",
-            "ATEND. DENUNCIA INFRACOES CONTRA MULHER(VIOLENCIA",
+            "ATEND. DENUNCIA INFRACOES CONTRA MULHER(VIOLENCIA ",
             "CONSUMADO",
             "2"
           ],
@@ -9685,7 +9685,7 @@
             "2023",
             "3º Departamento - Vespasiano",
             "3) Interior de MG",
-            "OUTRAS INFRACOES DEMAIS LEIS ESPECIAIS",
+            "OUTRAS INFRACOES DEMAIS LEIS ESPECIAIS ",
             "CONSUMADO",
             "1"
           ],
@@ -9955,7 +9955,7 @@
             "2023",
             "11º Departamento - Montes Claros",
             "3) Interior de MG",
-            "ATEND. DENUNCIA INFRACOES CONTRA MULHER(VIOLENCIA",
+            "ATEND. DENUNCIA INFRACOES CONTRA MULHER(VIOLENCIA ",
             "CONSUMADO",
             "1"
           ],
@@ -10075,7 +10075,7 @@
             "2023",
             "11º Departamento - Montes Claros",
             "3) Interior de MG",
-            "ATEND. DENUNCIA INFRACOES CONTRA MULHER(VIOLENCIA",
+            "ATEND. DENUNCIA INFRACOES CONTRA MULHER(VIOLENCIA ",
             "CONSUMADO",
             "1"
           ],
@@ -10555,7 +10555,7 @@
             "2023",
             "3º Departamento - Vespasiano",
             "2) RMBH (sem BH)",
-            "ATEND. DENUNCIA INFRACOES CONTRA MULHER(VIOLENCIA",
+            "ATEND. DENUNCIA INFRACOES CONTRA MULHER(VIOLENCIA ",
             "CONSUMADO",
             "1"
           ],
@@ -11935,7 +11935,7 @@
             "2023",
             "14º Departamento - Curvelo",
             "3) Interior de MG",
-            "ATEND. DENUNCIA INFRACOES CONTRA MULHER(VIOLENCIA",
+            "ATEND. DENUNCIA INFRACOES CONTRA MULHER(VIOLENCIA ",
             "CONSUMADO",
             "1"
           ],
@@ -12715,7 +12715,7 @@
             "2023",
             "2º Departamento - Contagem",
             "2) RMBH (sem BH)",
-            "ATEND. DENUNCIA INFRACOES CONTRA MULHER(VIOLENCIA",
+            "ATEND. DENUNCIA INFRACOES CONTRA MULHER(VIOLENCIA ",
             "CONSUMADO",
             "1"
           ],
@@ -13645,7 +13645,7 @@
             "2023",
             "9º Departamento - Uberlândia",
             "3) Interior de MG",
-            "ATEND. DENUNCIA INFRACOES CONTRA MULHER(VIOLENCIA",
+            "ATEND. DENUNCIA INFRACOES CONTRA MULHER(VIOLENCIA ",
             "CONSUMADO",
             "1"
           ],
@@ -15205,7 +15205,7 @@
             "2023",
             "9º Departamento - Uberlândia",
             "3) Interior de MG",
-            "ATEND. DENUNCIA INFRACOES CONTRA MULHER(VIOLENCIA",
+            "ATEND. DENUNCIA INFRACOES CONTRA MULHER(VIOLENCIA ",
             "CONSUMADO",
             "1"
           ],
@@ -15595,7 +15595,7 @@
             "2023",
             "9º Departamento - Uberlândia",
             "3) Interior de MG",
-            "ATEND. DENUNCIA INFRACOES CONTRA MULHER(VIOLENCIA",
+            "ATEND. DENUNCIA INFRACOES CONTRA MULHER(VIOLENCIA ",
             "CONSUMADO",
             "1"
           ],
@@ -16105,7 +16105,7 @@
             "2023",
             "7º Departamento - Divinópolis",
             "3) Interior de MG",
-            "ATEND. DENUNCIA INFRACOES CONTRA MULHER(VIOLENCIA",
+            "ATEND. DENUNCIA INFRACOES CONTRA MULHER(VIOLENCIA ",
             "CONSUMADO",
             "1"
           ],
@@ -16735,7 +16735,7 @@
             "2023",
             "1º Departamento - Belo Horizonte",
             "1) Belo Horizonte",
-            "ATEND. DENUNCIA INFRACOES CONTRA MULHER(VIOLENCIA",
+            "ATEND. DENUNCIA INFRACOES CONTRA MULHER(VIOLENCIA ",
             "CONSUMADO",
             "2"
           ],
@@ -17335,7 +17335,7 @@
             "2023",
             "14º Departamento - Curvelo",
             "3) Interior de MG",
-            "ATEND. DENUNCIA INFRACOES CONTRA MULHER(VIOLENCIA",
+            "ATEND. DENUNCIA INFRACOES CONTRA MULHER(VIOLENCIA ",
             "CONSUMADO",
             "1"
           ],
@@ -18415,7 +18415,7 @@
             "2023",
             "7º Departamento - Divinópolis",
             "3) Interior de MG",
-            "ATEND. DENUNCIA INFRACOES CONTRA MULHER(VIOLENCIA",
+            "ATEND. DENUNCIA INFRACOES CONTRA MULHER(VIOLENCIA ",
             "CONSUMADO",
             "1"
           ],
@@ -18565,7 +18565,7 @@
             "2023",
             "14º Departamento - Curvelo",
             "3) Interior de MG",
-            "ATEND. DENUNCIA INFRACOES CONTRA MULHER(VIOLENCIA",
+            "ATEND. DENUNCIA INFRACOES CONTRA MULHER(VIOLENCIA ",
             "CONSUMADO",
             "1"
           ],
@@ -19285,7 +19285,7 @@
             "2023",
             "2º Departamento - Contagem",
             "2) RMBH (sem BH)",
-            "ATEND. DENUNCIA INFRACOES CONTRA MULHER(VIOLENCIA",
+            "ATEND. DENUNCIA INFRACOES CONTRA MULHER(VIOLENCIA ",
             "CONSUMADO",
             "1"
           ],
@@ -20215,7 +20215,7 @@
             "2023",
             "11º Departamento - Montes Claros",
             "3) Interior de MG",
-            "ATEND. DENUNCIA INFRACOES CONTRA MULHER(VIOLENCIA",
+            "ATEND. DENUNCIA INFRACOES CONTRA MULHER(VIOLENCIA ",
             "CONSUMADO",
             "1"
           ],
@@ -20695,7 +20695,7 @@
             "2023",
             "15º Departamento - Teófilo Otoni",
             "3) Interior de MG",
-            "ATEND. DENUNCIA INFRACOES CONTRA MULHER(VIOLENCIA",
+            "ATEND. DENUNCIA INFRACOES CONTRA MULHER(VIOLENCIA ",
             "CONSUMADO",
             "1"
           ],
@@ -20815,7 +20815,7 @@
             "2023",
             "4º Departamento - Juiz de Fora",
             "3) Interior de MG",
-            "ATEND. DENUNCIA INFRACOES CONTRA MULHER(VIOLENCIA",
+            "ATEND. DENUNCIA INFRACOES CONTRA MULHER(VIOLENCIA ",
             "CONSUMADO",
             "2"
           ],
@@ -21235,7 +21235,7 @@
             "2023",
             "11º Departamento - Montes Claros",
             "3) Interior de MG",
-            "ATEND. DENUNCIA INFRACOES CONTRA MULHER(VIOLENCIA",
+            "ATEND. DENUNCIA INFRACOES CONTRA MULHER(VIOLENCIA ",
             "CONSUMADO",
             "1"
           ],
@@ -21805,7 +21805,7 @@
             "2023",
             "3º Departamento - Vespasiano",
             "3) Interior de MG",
-            "ATEND. DENUNCIA INFRACOES CONTRA MULHER(VIOLENCIA",
+            "ATEND. DENUNCIA INFRACOES CONTRA MULHER(VIOLENCIA ",
             "CONSUMADO",
             "1"
           ],
@@ -21835,7 +21835,7 @@
             "2023",
             "16º Departamento - Unaí",
             "3) Interior de MG",
-            "ATEND. DENUNCIA INFRACOES CONTRA MULHER(VIOLENCIA",
+            "ATEND. DENUNCIA INFRACOES CONTRA MULHER(VIOLENCIA ",
             "CONSUMADO",
             "1"
           ],
@@ -22075,7 +22075,7 @@
             "2023",
             "10º Departamento - Patos de Minas",
             "3) Interior de MG",
-            "OUTRAS INFRACOES DEMAIS LEIS ESPECIAIS",
+            "OUTRAS INFRACOES DEMAIS LEIS ESPECIAIS ",
             "CONSUMADO",
             "1"
           ],
@@ -23335,7 +23335,7 @@
             "2023",
             "3º Departamento - Vespasiano",
             "3) Interior de MG",
-            "ATEND. DENUNCIA INFRACOES CONTRA MULHER(VIOLENCIA",
+            "ATEND. DENUNCIA INFRACOES CONTRA MULHER(VIOLENCIA ",
             "CONSUMADO",
             "1"
           ],
@@ -23635,7 +23635,7 @@
             "2023",
             "17º Departamento - Pouso Alegre",
             "3) Interior de MG",
-            "ATEND. DENUNCIA INFRACOES CONTRA MULHER(VIOLENCIA",
+            "ATEND. DENUNCIA INFRACOES CONTRA MULHER(VIOLENCIA ",
             "CONSUMADO",
             "1"
           ],
@@ -24475,7 +24475,7 @@
             "2023",
             "9º Departamento - Uberlândia",
             "3) Interior de MG",
-            "ATEND. DENUNCIA INFRACOES CONTRA MULHER(VIOLENCIA",
+            "ATEND. DENUNCIA INFRACOES CONTRA MULHER(VIOLENCIA ",
             "CONSUMADO",
             "1"
           ],
@@ -24685,7 +24685,7 @@
             "2023",
             "14º Departamento - Curvelo",
             "3) Interior de MG",
-            "ATEND. DENUNCIA INFRACOES CONTRA MULHER(VIOLENCIA",
+            "ATEND. DENUNCIA INFRACOES CONTRA MULHER(VIOLENCIA ",
             "CONSUMADO",
             "1"
           ],
@@ -25705,7 +25705,7 @@
             "2023",
             "1º Departamento - Belo Horizonte",
             "1) Belo Horizonte",
-            "ATEND. DENUNCIA INFRACOES CONTRA MULHER(VIOLENCIA",
+            "ATEND. DENUNCIA INFRACOES CONTRA MULHER(VIOLENCIA ",
             "CONSUMADO",
             "3"
           ],
@@ -26215,7 +26215,7 @@
             "2023",
             "18º Departamento - Poços de Caldas",
             "3) Interior de MG",
-            "ATEND. DENUNCIA INFRACOES CONTRA MULHER(VIOLENCIA",
+            "ATEND. DENUNCIA INFRACOES CONTRA MULHER(VIOLENCIA ",
             "CONSUMADO",
             "1"
           ],
@@ -26845,7 +26845,7 @@
             "2023",
             "13º Departamento - Barbacena",
             "3) Interior de MG",
-            "ATEND. DENUNCIA INFRACOES CONTRA MULHER(VIOLENCIA",
+            "ATEND. DENUNCIA INFRACOES CONTRA MULHER(VIOLENCIA ",
             "CONSUMADO",
             "1"
           ],
@@ -26965,7 +26965,7 @@
             "2023",
             "2º Departamento - Contagem",
             "2) RMBH (sem BH)",
-            "ATEND. DENUNCIA INFRACOES CONTRA MULHER(VIOLENCIA",
+            "ATEND. DENUNCIA INFRACOES CONTRA MULHER(VIOLENCIA ",
             "CONSUMADO",
             "1"
           ],
@@ -28075,7 +28075,7 @@
             "2023",
             "11º Departamento - Montes Claros",
             "3) Interior de MG",
-            "ATEND. DENUNCIA INFRACOES CONTRA MULHER(VIOLENCIA",
+            "ATEND. DENUNCIA INFRACOES CONTRA MULHER(VIOLENCIA ",
             "CONSUMADO",
             "1"
           ],
@@ -29305,7 +29305,7 @@
             "2023",
             "8º Departamento - Governador Valadares",
             "3) Interior de MG",
-            "ATEND. DENUNCIA INFRACOES CONTRA MULHER(VIOLENCIA",
+            "ATEND. DENUNCIA INFRACOES CONTRA MULHER(VIOLENCIA ",
             "CONSUMADO",
             "1"
           ],
@@ -32173,7 +32173,7 @@
           "rows": 111735
         }
       },
-      "time": 3.582,
+      "time": 2.989,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -32286,7 +32286,7 @@
           "rows": 117169
         }
       },
-      "time": 3.773,
+      "time": 3.159,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -32399,7 +32399,7 @@
           "rows": 69287
         }
       },
-      "time": 2.204,
+      "time": 1.858,
       "scope": [
         "hash-count-error",
         "byte-count-error",
