@@ -30,13 +30,6 @@ def convert_csv(file, aba=None):
     csv_name = csv_name if aba == None else f'{aba}' # to xlsx and xls
     read_file.columns=new_columns
 
-    # Remove white spaces from the beginning and the end of all columns
-    for column in new_columns:
-        read_file[column] = [read_file[column][i].strip() \
-                             if isinstance(read_file[column][i], str) \
-                             else read_file[column][i] \
-                             for i in range(0, len(read_file))]
-
     read_file.to_csv (f'dataset/data/{csv_name}.csv', \
                     index = None, \
                     header=True, \
